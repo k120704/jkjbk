@@ -389,7 +389,7 @@ http://karenshare.leeminho-sport.com:8880/KAREN_SHARE/ksport2.php?user=admin&pas
 https://iplogger.com/2XQqE6.m3u8
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life
 https://iplogger.com/2X3eE6.m3u8
-#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ Kids
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ Kids (Thử nghiệm)
 #https://vagroup.pw/keo/m3u/cliptv/kkidshd/playlist.m3u8
 #-*--Thiết yếu-*--#
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
