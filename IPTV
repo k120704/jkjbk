@@ -104,9 +104,7 @@ http://vn3.cvacetv.ga/4K/mpegts
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://liquipedia.net/commons/images/thumb/a/a8/BLAST_Premier_Spring_Groups_lightmode.png/320px-BLAST_Premier_Spring_Groups_lightmode.png",BLAST Spring Groups 2023 (TV360)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://vod-zlr1.tv360.vn/origin01/20230119/63c9031ed6e95c008f679368/1080p50f5Mb/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://liquipedia.net/commons/images/thumb/a/a8/BLAST_Premier_Spring_Groups_lightmode.png/320px-BLAST_Premier_Spring_Groups_lightmode.png", BLAST Spring Groups 2023 (Youtube)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674415547/ei/WznNY97aFM_12roPnr-sgAI/ip/2405%3A4802%3A441e%3Aae90%3Ac7f%3A36f%3Aa100%3Adb85/id/RL-dZLVS9WQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIf4X_tq8ZH9tAr4utofoAW2NVIvbYN04GjlKKI5A9KaAiEAp6imsm721VEoHm3z699t8TcNOWtQGTcVuc9upDk_fPI%3D/file/index.m3u8
+
 #-*-- VTV FPT -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
 http://live.vthanhtivi.pw/vtv1
