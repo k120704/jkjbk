@@ -418,7 +418,7 @@ http://api.vthanhtivi.pw/v2/getlink/vtvcab/sctv-phim-tong-hop/playlist_576p.m3u8
 
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (ClipTV)
 https://iplogger.com/2XyrE6.m3u8
-#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (Thử nghiệm 1)
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (sv2)
 https://s.id/ksport1hd
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (Thử nghiệm 2)
 http://karenshare.leeminho-sport.com:8880/KAREN_SHARE/ksport1.php?user=admin&pass=tranviet
@@ -428,11 +428,11 @@ https://iplogger.com/2XhtE6.m3u8
 https://s.id/ksport2hd
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_480_270.png", K+ Cine
 https://iplogger.com/2XQqE6.m3u8
-#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_480_270.png", K+ Cine sv2
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/14/1632985674819/54e02ed63bbf_480_270.png", K+ Cine (sv2)
 https://s.id/kcine
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life
 https://iplogger.com/2X3eE6.m3u8
-#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life sv2
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997313743/0e069fa6829d_480_270.png", K+ Life (sv2)
 https://s.id/klifehd
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/01/11/09/1673403747792/c14d6e90c65a_480_270.png", K+ Kids
 https://s.id/kkidshd
