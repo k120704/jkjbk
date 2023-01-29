@@ -79,7 +79,7 @@ https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV Sự kiện và Thể thao
-#https://api.vthanhtivi.pw/v2/getlink/mytv/267/hd
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6812/playlist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV Phim truyện
 #https://api.vthanhtivi.pw/v2/getlink/mytv/349/hd
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV Âm nhạc
