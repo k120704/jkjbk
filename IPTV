@@ -97,9 +97,6 @@ http://vn3.vthanhtivi.com/live2
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://vn3.vthanhtivi.com/4KUHD
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://liquipedia.net/commons/images/thumb/a/a8/BLAST_Premier_Spring_Groups_lightmode.png/320px-BLAST_Premier_Spring_Groups_lightmode.png",BLAST Spring Groups 2023 (TV360)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://vod-zlr1.tv360.vn/origin01/20230119/63c9031ed6e95c008f679368/1080p50f5Mb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (Độ trễ thấp)
 http://live.vthanhtivi.pw/vtv1
