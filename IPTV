@@ -1548,8 +1548,8 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 HD
-http://109.200.130.123:7025/play/a00j
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 
+https://vsd63.mycdn.me/hls/3151981054652.m3u8/sig/R_KUgykjAC8/expires/1675789255853/srcIp/123.16.54.123/urls/185.226.52.64/clientType/0/srcAg/CHROME/mid/4245710511804/video.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия PTP
 
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/Qebn4Ud.png",Россия К
