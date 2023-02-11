@@ -453,6 +453,7 @@ http://api.vthanhtivi.pw/v2/getlink/vtvcab/sctv-phim-tong-hop/playlist_576p.m3u8
 
 #-*--Kẹo Soco-*--#
 
+
 #-*--Kẹo-*--#
 
 #EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 
@@ -1627,6 +1628,15 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360deg.ru" group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/VTJqdoX.png",360 HD
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-id="360deg.ru" group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/302167389_509254857872345_5692578451402808351_n.png?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=H9e5zC3kGQAAX-GokQM&_nc_ht=scontent.fhan2-5.fna&oh=00_AfBq-uc0KCNhRBkCv2VDguJNj6A7KAmaT_B0ukPTJ-_W0g&oe=63EC98E0",UATV (U cà)
+https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_high_.m3u8
+#EXTINF:-1 tvg-id="360deg.ru" group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/1%2B1_Ukraina_%282022%29.svg/2560px-1%2B1_Ukraina_%282022%29.svg.png",1+1 (U cà)
+https://live-k2303-kbp.1plus1.video/live/1676136892/ahmZ-rBznsUhzLOJj4qyrw/189931/smil:189931.smil/chunklist_b6328000.m3u8
+#EXTINF:-1 tvg-id="360deg.ru" group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/2%2B2_logo_2017.svg",2+2 (U cà)
+https://live-k2303-kbp.1plus1.video/live/1676137055/oxa89vJHq4PoxA7eWFKycw/187534/smil:187534.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="360deg.ru" group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/2%2B2_logo_2017.svg",1+1 Marathon (U cà)
+https://live-k2302-kbp.1plus1.video/live/1676693040/4hcH_PDZGpDt5KzT-L3eSw/184723/smil:184723.smil/chunklist_b2128000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qn8ArfT.png" group-title="🇷🇺| Nga và khối SNG",8 канал (Беларусь)
 http://95.46.208.8:24433/art
