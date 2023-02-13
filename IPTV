@@ -23,6 +23,7 @@ https://livevlive.vtvcab.vn/hls/ONSPORT9_CL/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 10
 https://livevlive.vtvcab.vn/hls/ONSPORT10_CL/sc-gaFEAA/m30_index.m3u8
 
+
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
@@ -90,6 +91,10 @@ https://vips-livecdn.fptplay.net/fnxsport/thethao19_vhls.smil/chunklist_b5500000
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 20
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/fnxsport/thethao20_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 18h00-13/02: Hồng Lĩnh Hà Tĩnh vs Hà Nội (VĐQG Night Wolf V-League 1 2023 - Vòng 3)
+http://vn2.vietanhtv.pw:8081/events1
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 19h15-13/02: TP.HCM vs Khánh Hòa (VĐQG Night Wolf V-League 1 2023 - Vòng 3)
+http://vn2.vietanhtv.pw:8081/events2
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", WBC 01
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -159,6 +164,10 @@ https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 http://iptvh.it/vtv5tnb
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp", VTV5 HD Tây Nguyên
 http://iptvh.it/vtv5tn
+#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV2 (TV360)
+http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV3 (TV360)
+http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
 #EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV5 (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 #EXTINF:-1 group-title="📦| VTV" tvg-logo="http://gg.gg/12x1kr", VTV Cần Thơ (TV360)
