@@ -91,9 +91,9 @@ https://vips-livecdn.fptplay.net/fnxsport/thethao19_vhls.smil/chunklist_b5500000
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 20
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/fnxsport/thethao20_vhls.smil/chunklist_b5500000.m3u8
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 18h00-13/02: Hồng Lĩnh Hà Tĩnh vs Hà Nội (VĐQG Night Wolf V-League 1 2023 - Vòng 3)
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 18h00-13/02: Hồng Lĩnh Hà Tĩnh vs Hà Nội (VĐQG Night Wolf V-League 1 2023 - Vòng 3)
 http://vn2.vietanhtv.pw:8081/events1
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 19h15-13/02: TP.HCM vs Khánh Hòa (VĐQG Night Wolf V-League 1 2023 - Vòng 3)
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 19h15-13/02: TP.HCM vs Khánh Hòa (VĐQG Night Wolf V-League 1 2023 - Vòng 3)
 http://vn2.vietanhtv.pw:8081/events2
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", WBC 01
