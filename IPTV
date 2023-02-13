@@ -1184,6 +1184,30 @@ https://live.tuyenquangtv.vn/hls/radio.m3u8
 https://api.vthanhtivi.pw/v2/getlink/dp/thvlradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/184.png", Yên Bái
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/n9zLVyR.png", Звезда 128kbps
+https://zvezdafm.hostingradio.ru/zvezdafm128.mp3
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/n9zLVyR.png", Звезда 96kbps (Tiết kiệm dữ liệu)
+https://zvezdafm.hostingradio.ru/zvezdafm96.aacp
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/n9zLVyR.png", Звезда 64kbps (Tiết kiệm dữ liệu hơn nữa)
+https://zvezdafm.hostingradio.ru/zvezdafm96.aacp
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-vesti-fml.svg", РАДИО ВЕСТИ FM
+https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-mayak.svg", РАДИО МАЯК FM 
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-russia-radio.svg", РАДИО РОССИИ FM
+shttps://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-culture-radio.svg", РАДИО КУЛЬТУРА FM
+https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-u.svg", РАДИО ЮНОСТЬ FM
+https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdnn1.img.sputniknewslv.com/i/logo/logo.svg", Sputnik FM (Nga)
+https://icecast-rian.cdnvideo.ru/voicerus
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdnn1.img.sputniknewslv.com/i/logo/logo.svg", Sputnik FM (Anh)
+https://icecast-rian.cdnvideo.ru/voiceusa
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdnn1.img.sputniknewslv.com/i/logo/logo.svg", Sputnik FM (Tây Ban Nha)
+https://icecast-rian.cdnvideo.ru/voicespa
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdnn1.img.sputniknewslv.com/i/logo/logo.svg", Sputnik FM (Thổ Nhĩ Kỳ)
+https://icecast-rian.cdnvideo.ru/voicestm
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/", M Radio Việt Nam
 https://stream.zeno.fm/4q7y9hvkp2zuv
@@ -1581,10 +1605,8 @@ http://ott-cdn.ucom.am/s50/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда
-http://188.191.160.238:9099/channel/Zvezda.ts
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_cap.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР
 http://iptv.ktkru.ru:8018/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР HD
