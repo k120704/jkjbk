@@ -97,6 +97,9 @@ https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", WBC 02
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://liquipedia.net/commons/images/e/e2/BLAST_Paris_Major_2023_darkmode.png", Esport
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676587414/ei/Nl3uY4iiFZGP0-kPg5q72Ao/ip/113.22.188.206/id/MB_WKtAI_LI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJeuzuvZaV6LHm-p_CpYwCyMXTL-WUdq5aALW4zth9cJAiBz0YhKVhRGZq_x7xWHZGAPSEoIGxhNHSdMAQyzDN39Dg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
