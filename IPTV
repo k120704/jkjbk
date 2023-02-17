@@ -99,8 +99,7 @@ https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u
 https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://liquipedia.net/commons/images/e/e2/BLAST_Paris_Major_2023_darkmode.png", Esport
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676587414/ei/Nl3uY4iiFZGP0-kPg5q72Ao/ip/113.22.188.206/id/MB_WKtAI_LI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJeuzuvZaV6LHm-p_CpYwCyMXTL-WUdq5aALW4zth9cJAiBz0YhKVhRGZq_x7xWHZGAPSEoIGxhNHSdMAQyzDN39Dg%3D%3D/file/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1676680075/ei/K8fvY_vHFY7y4wLb7aeQBQ/ip/2405%3A4802%3A445e%3A4d80%3A247c%3A1723%3A8992%3A4476/id/oVIbQpikfSM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgTEdP4JJOyryZEP9UxXd6jYZUHBMP1XThTd-kOQrtMEkCIQDQU0U-Strd9FQoUcMQ1FrZv1jm5VtZOyyyDRrCG1JUPw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png", GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
@@ -169,6 +168,40 @@ http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
 http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 #EXTINF:-1 group-title="📦| VTV" tvg-logo="http://gg.gg/12x1kr", VTV Cần Thơ (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/C5G4qCb.png", VTV1 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://tiny.one/VTV1HD
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/WTg772e.png", VTV2 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/N1PiqLg.png", VTV3 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.org/VTV3
+#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/0L8Hm1D.png", VTV4 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV4
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png", VTV5 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.org/VTV5
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/BNWG2Bu.png", VTV7 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV7
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/eoycRVP.png", VTV8 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/HeGw9y1.png", VTV9 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV9
+#EXTINF:-1 tvg-id="vtvcthd" group-title="📦| VTV" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp", VTVCT HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.org/VTVCT
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://i.ibb.co/Qrt7Qmp/ccvtv5-TNB.webp", VTV5 HD Tây Nam Bộ (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV5TNB
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp", VTV5 HD Tây Nguyên (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.org/VTV5TN
 
 #-*--VTVCAB-*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",  VTVcab 1 - Vie Giải trí HD
