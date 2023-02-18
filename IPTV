@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,http://trada.info/epg.xml,http://gg.gg/coca_colaFhttps://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #-*-- Livestream -*--#
 
@@ -630,9 +630,9 @@ https://api.vthanhtivi.pw/v2/getlink/mytv/405/hd.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/144.png", THD HD | TH Hải Dương
 https://nvzoftzsvflivcf.vcdn.com.vn/haiduongtv/haiduongtv@high.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/145.png", THP HD | TH Hải Phòng
-https://api.vthanhtivi.pw/v2/getlink/mytv/407/hd.m3u8
+https://live.thhp.vn/thp/index.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD | TH Hải Phòng
-https://live.thhp.vn/hls/thpplus/index.m3u8
+https://live.thhp.vn/hls/thpplus/index.m3u8?1
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png", HGTV HD | TH Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="hoabinh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/148.png", HBTV HD | TH Hòa Bình
@@ -681,7 +681,7 @@ https://api.vthanhtivi.pw/v2/getlink/nethubtv/9359/1.m3u8
 #EXTINF:-1 tvg-id="quangnam" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/166.png", QRT | TH Quảng Nam
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png", PTQ HD | TH Quảng 
+#EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/167.png", PTQ HD | TH Quảng Ngãi
 https://api.vthanhtivi.pw/v2/getlink/mytv/409/hd.m3u8
 #EXTINF:-1 tvg-id="quangninh1" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/168.png", QTV1 HD | TH Quảng Ninh
 http://103.90.220.236/qtvlive/tv1live.m3u8
