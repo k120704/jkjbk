@@ -481,10 +481,10 @@ http://api.vthanhtivi.pw/v2/getlink/vtvcab/sctv-phim-tong-hop/playlist_576p.m3u8
 
 #-*--Kẹo-*--#
 
-#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (Vieon)
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (Mytv)
 http://103.75.186.169/b4movie/b4movie/8.m3u8
-#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 1 (FPT Play)
-http://103.75.186.169/b4movie/b4movie/8.m3u8
+#EXTINF:-1 group-title="🍭| K+ MPD" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2 (Vieon)
+http://103.75.186.169/b4movie/b4movie/7.m3u8
 
 
 
