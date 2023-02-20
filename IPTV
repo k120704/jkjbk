@@ -1655,6 +1655,10 @@ http://cdn-live-us74.cloudrsst.com/live/tvn_720/playlist.m3u8
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
 #EXTINF:-1 tvg-id="Animax.kr" group-title="🇰🇷| Hàn Quốc" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
+#EXTINF:-1 group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (SD)
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (HD)
+https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
 
