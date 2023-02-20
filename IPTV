@@ -511,9 +511,9 @@ https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
 #-*--Kẹo-*--#
 
-#EXTINF:-1 group-title="🍭| K+ (Phát vào cuối tuần)" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (Mytv)
+#EXTINF:-1 group-title="🍭| K+ giải mã" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 (Mytv)
 http://103.75.186.169/b4movie/b4movie/9.m3u8
-#EXTINF:-1 group-title="🍭| K+ (Phát vào cuối tuần)" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2 (Vieon)
+#EXTINF:-1 group-title="🍭| K+ giải mã" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2 (Vieon)
 http://103.75.186.169/b4movie/b4movie/8.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🎲| K+ MPD" tvg-logo="https://i.ibb.co/kcgP1ZN/kcine.png", K+ CINE FHD (MyTV)
 #EXTVLCOPT:http-user-agent="CloudTV"
