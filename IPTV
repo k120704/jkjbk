@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/vagroup_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #-*-- Livestream -*--#
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/Vgtxqhd/VLeague1-2023-logo-svg.png", V - League 1
@@ -520,11 +520,21 @@ http://103.75.186.169/b4movie/b4movie/8.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fIzVbJIf6GC+F2syGmloOQ", "kid":"rHT6h1x/RfCGi4SDJVUXZQ" } ], "type":"temporary" }
 https://iplogger.com/kcinehd01
+#EXTINF:-1 tvg-id="kcinehd" group-title="🎲| K+ MPD" tvg-logo="http://logo.vagroup.pw/95.png", K+ CINE FHD (MyTV) (sv2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fIzVbJIf6GC+F2syGmloOQ", "kid":"rHT6h1x/RfCGi4SDJVUXZQ" } ], "type":"temporary" }
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="klifehd" group-title="🎲| K+ MPD" tvg-logo="https://i.ibb.co/QpxfWMZ/klife.png", K+ LIFE FHD (MyTV)
 #EXTVLCOPT:http-user-agent="CloudTV"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WkykZFUyaXCmD3+etZdjyA", "kid":"iMGTvc0yTNWrVl8edSo+ag" } ], "type":"temporary" }
 https://iplogger.com/klifehd01
+#EXTINF:-1 tvg-id="klifehd" group-title="🎲| K+ MPD" tvg-logo="http://logo.vagroup.pw/96.png", K+ LIFE FHD (MyTV) (sv2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WkykZFUyaXCmD3+etZdjyA", "kid":"iMGTvc0yTNWrVl8edSo+ag" } ], "type":"temporary" }
+http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:-1 group-title="🎲| K+ MPD" tvg-logo="https://i.ibb.co/swFD2ps/ksport2.png", K+ SPORT2 FHD (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -535,6 +545,11 @@ https://iplogger.com/ksport02hd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eV90m7/umJnSBVDfbUV0Fg", "kid":"pldZ4QBKTnu2WasdoAKMeA" } ], "type":"temporary" }
 https://iplogger.com/ksport01hd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🎲| K+ MPD" tvg-logo="http://logo.vagroup.pw/97.png", K+ SPORT1 FHD (MyTV) (sv2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eV90m7/umJnSBVDfbUV0Fg", "kid":"pldZ4QBKTnu2WasdoAKMeA" } ], "type":"temporary" }
+http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
