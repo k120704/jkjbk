@@ -1655,10 +1655,14 @@ http://cdn-live-us74.cloudrsst.com/live/tvn_720/playlist.m3u8
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
 #EXTINF:-1 tvg-id="Animax.kr" group-title="🇰🇷| Hàn Quốc" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
-#EXTINF:-1 group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (SD)
+#EXTM3U url-
+
+#EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (SD)
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (HD)
+#EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (HD)
 https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CtgFBkcaKuduQganU-7AND_CG0cDpNswxDDn4Z219GkDm0jZTuQU9ZbBzmMtRuryJXv1aKrwsj4pvAA_03G8gL9pyTTDU_9fl_eUDOZo0cfOvB2jJJbjKSU7KGKMQEu5Pjay-89Xwq-5Q_rtqJOw2Oj8mXE4GggtWOzDkRS34DqXUk0-27HeERzyCZDPxgd1TfRndQC31vr-XKqPA62Zg7SMeb2899wJQEH68vRr2cx9BpP1OuUe5ebBy_qO_RiOiqrwLJDm38clSfu0iV9BHvNsXav-EvPX3rIYB08-6vWzqlm3_l4E7kyTsiPWAqhX5pVFn_keo7c6dVWPtPwa2ZoRKBubwa5GhDvWLz23d7cnZj39qdI18dlU18k7EGV0kMh_iEv4H2UkeHP2TVlhupRmPu8Wm833q6nA1tXmhTt1F6SotsSJjg6FRlfNvqtQFpp0YNUPxHtLALZDqgFW2Ho9_K2JC7CGlDLUSBBUTWEZXpiWHWfSSeK0gTDvRwh7xHvP_i28NT01J3k72yo0HlrFi1Jjnd0LxHoGocQXmDBUVex2pBwM3-f_E_h6fL21PM45B1ZPc595iY_ef69J2-Pf2dnIl6kO_w-DS9pQJGX3Xg4f81cBeEv6bVrqNc5K669P7RKQ7948Tcxm4dKVAFfsZH0-LuRTTkJc1ijgFHgzcuK-rha2T866cqgZHPTN0OHpWXkEftiCz1JghJhcC-kTAjnBBzX2dujlC3vv7OxR5T-o6bwPLPg5JF62JvzxWHwn5GuXYeXLDlY6ayH0Ce5lewYp4Y0r2_Rhj2Pp9g--r4LvzRo3c1Oh42p_5naoGR_7x8_lzZecbmHG8yGT4l9W5rKy8ovUSo7HdGimDQlBSzeJIEOLNX1X_yVqhyEabBBMxs-FFs9l2BCFovjfa_PAuHUbd9TLRK0iNU8k3CvA8nBUXD0osQYe_R0c1Jc9Btfv30FhmqQtoaIaDEvK8PHHkpDuNPfFHSABKgl1cy13ZXN0LTIw9QU.m3u8
+
+
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
 
 # Join Telegram Group: https://t.me/iptvth
