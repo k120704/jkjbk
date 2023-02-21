@@ -7,11 +7,13 @@ https://iplogger.com/events1
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/Vgtxqhd/VLeague1-2023-logo-svg.png", V - League 2
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.com/events2
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/xD0hGCj/t-i-xu-ng.jpg", UEFA Champions League 01
-#EXTVLCOPT:http-user-agent="CloudTV"
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/xD0hGCj/t-i-xu-ng.jpg", UEFA_Champions_League 02
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/q1MsBZg/cc-Fsports.png", UEFA Champions League 01
 #EXTVLCOPT:http-user-agent="CloudTV"
+https://vips-livecdn.fptplay.net/fnxsport/thethao14_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/q1MsBZg/cc-Fsports.png", UEFA_Champions_League 02
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://vips-livecdn.fptplay.net/fnxsport/thethao15_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
 https://livevlive.vtvcab.vn/hls/ONSPORT1_CL/sc-gaFEAA/m30_index.m3u8
