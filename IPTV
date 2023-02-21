@@ -122,17 +122,16 @@ http://live.vthanhtivi.pw/vtv5
 #EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ (Độ trễ thấp)
 http://live.vthanhtivi.pw/vtvct
 
-#EXTINF:-1 group-title="📦| VTV" tvg-logo="http://logo.vagroup.pw/1.png", VTV1 (Độ trễ thấp)
-http://103.56.160.133:8081/vtv1
-#EXTINF:-1 group-title="📦| VTV" tvg-logo="http://logo.vagroup.pw/2.png", VTV2 (Độ trễ thấp)
-http://103.56.160.133:8081/vtv2
-#EXTINF:-1 group-title="📦| VTV" tvg-logo="http://logo.vagroup.pw/3.png", VTV3 (Độ trễ thấp)
-http://103.56.160.133:8081/vtv3
-#EXTINF:-1 group-title="📦| VTV" tvg-logo="http://logo.vagroup.pw/5.png", VTV5 (Độ trễ thấp)
-http://103.56.160.133:8081/vtv5
-#EXTINF:-1 group-title="📦| VTV" tvg-logo="http://logo.vagroup.pw/8.png", VTV Cần Thơ (Độ trễ thấp)
-http://103.56.160.133:8081/vtvcantho
-
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (Độ trễ thấp) (sv2)
+http://vn2.vietanhtv.pw:8081/vtv1
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 (Độ trễ thấp) (sv2)
+http://vn2.vietanhtv.pw:8081/vtv2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 (Độ trễ thấp) (sv2)
+http://vn2.vietanhtv.pw:8081/vtv3
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 (Độ trễ thấpĐộ trễ thấp) (sv2)
+http://vn2.vietanhtv.pw:8081/vtv5
+#EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ (Độ trễ thấp) (sv2)
+http://vn2.vietanhtv.pw:8081/vtvcantho
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1
 #EXTVLCOPT:http-user-agent=VThanhTivi
