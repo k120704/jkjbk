@@ -518,22 +518,6 @@ https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 http://103.75.186.169/b4movie/b4movie/22.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2
 http://103.75.186.169/b4movie/b4movie/8.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="https://i.ibb.co/kcgP1ZN/kcine.png",K+ CINE (VTVcab)
-#EXTVLCOPT:http-user-agent="CloudTV"
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Unknown",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,																																																																																																				URI="https:///cocc.me/câ‘¢câœ°ă…¤ă…¤ă…¤  ""
-#EXT-X-STREAM-INF:BANDWIDTH=1733092,AVERAGE-BANDWIDTH=1733000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
-https:///livevlive.vtvcab.vn/ondrmstg/K_CINE_6962/v2_index.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://i.ibb.co/QpxfWMZ/klife.png",K+LIFE (VTVcab)
-#EXTVLCOPT:http-user-agent="CloudTV"
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Unknown",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,																																																																																																				URI="https:///cocc.me/câ‘£câœ°ă…¤ă…¤ă…¤ă…¤ ""
-#EXT-X-STREAM-INF:BANDWIDTH=1733092,AVERAGE-BANDWIDTH=1733000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
-https://livevlive.vtvcab.vn/ondrmstg/K_LIFE_6962/v2_index.m3u8
 #EXTINF:-1 tvg-id="klive1hd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/251.png", K+ Live 1 HD (MyK+)
 #EXTVLCOPT:http-user-agent=VAgroup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -605,51 +589,33 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+OfSnBEAsm1EoOBM68jwfQ", "kid":"wpejwx9oSIijD9jjcf2i9g" },{ "kty":"oct", "k":"+zjm7EUsBX4G7bEVYgtE4Q", "kid":"Ctujwx9oSIijD9jjcf2i9g" },{ "kty":"oct", "k":"xt5BbPpPASJwE8XiBLoS8g", "kid":"A+znDG5oSIijD9jjcf2i9g" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
-
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 (MyTV)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD" logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png",K+ SPORT1 (MyTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eV90m7/umJnSBVDfbUV0Fg", "kid":"pldZ4QBKTnu2WasdoAKMeA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"mwjb0EAyOl5VivKPP50WaQ", "kid":"TBh+tjuTSfONYEEI2YoA4A" } ], "type":"temporary" } 
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2 (MyTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aGxJZNOGNL7KIhmoFWvYsA", "kid":"tDb77N2GTHC+6TU3J9P6Zw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KFnV9SCRmb4BluF5c6LMWw", "kid":"UvRh1JzrQi6kyFLo6lcpnQ" } ], "type":"temporary" }
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png",K+ CINE (MyTV)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WkykZFUyaXCmD3+etZdjyA", "kid":"iMGTvc0yTNWrVl8edSo+ag" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2IABt0FDUibL3gYX1PKJ2g", "kid":"eLj0C7/wTCyq0ggEYDMwHg" } ], "type":"temporary" }
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", K+LIFE (MyTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PRhSVy5otGoTMh4z2winfA", "kid":"mzbWz0eVShiutuI5U/VWRw" } ], "type":"temporary" }
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine (MyTV) 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fIzVbJIf6GC+F2syGmloOQ", "kid":"rHT6h1x/RfCGi4SDJVUXZQ" } ], "type":"temporary" }
-http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="https://i.ibb.co/kcgP1ZN/kcine.png",K+ CINE (VTVcab)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD" tvg-logo="https://i.ibb.co/kcgP1ZN/kcine.png",K+ CINE (VTVcab)
 #EXTVLCOPT:http-user-agent="CloudTV"
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Unknown",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,																																																																																																				URI="https:///cocc.me/câ‘¢câœ°ă…¤ă…¤ă…¤  ""
-#EXT-X-STREAM-INF:BANDWIDTH=1733092,AVERAGE-BANDWIDTH=1733000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
-https:///livevlive.vtvcab.vn/ondrmstg/K_CINE_6962/v2_index.m3u8
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://i.ibb.co/QpxfWMZ/klife.png",K+LIFE (VTVcab)
+https://iplogger.com/K_Cine_HD
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD" tvg-logo="https://i.ibb.co/QpxfWMZ/klife.png",K+LIFE (VTVcab)
 #EXTVLCOPT:http-user-agent="CloudTV"
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Unknown",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,																																																																																																				URI="https:///cocc.me/câ‘£câœ°ă…¤ă…¤ă…¤ă…¤ ""
-#EXT-X-STREAM-INF:BANDWIDTH=1733092,AVERAGE-BANDWIDTH=1733000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
-https://livevlive.vtvcab.vn/ondrmstg/K_LIFE_6962/v2_index.m3u8
-
+https://iplogger.com/K_LIFE_HD
 
 #-*--Thiết yếu-*--#
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
