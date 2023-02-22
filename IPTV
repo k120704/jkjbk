@@ -520,6 +520,7 @@ http://103.75.186.169/b4movie/b4movie/22.m3u8
 http://103.75.186.169/b4movie/b4movie/8.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="https://i.ibb.co/kcgP1ZN/kcine.png",K+ CINE (VTVcab)
 #EXTVLCOPT:http-user-agent="CloudTV"
+#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Unknown",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,																																																																																																				URI="https:///cocc.me/câ‘¢câœ°ă…¤ă…¤ă…¤  ""
@@ -527,9 +528,10 @@ http://103.75.186.169/b4movie/b4movie/8.m3u8
 https:///livevlive.vtvcab.vn/ondrmstg/K_CINE_6962/v2_index.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://i.ibb.co/QpxfWMZ/klife.png",K+LIFE (VTVcab)
 #EXTVLCOPT:http-user-agent="CloudTV"
-#EXT-X-VERSION:3
+#EXTM3U
+#EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Unknown",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,																																																																																																				URI="https:///cocc.me/câ‘¢câœ°ă…¤ă…¤ă…¤  ""
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud1",LANGUAGE="und",NAME="Unknown",CHANNELS="2",AUTOSELECT=YES,DEFAULT=YES,																																																																																																				URI="https:///cocc.me/câ‘£câœ°ă…¤ă…¤ă…¤ă…¤ ""
 #EXT-X-STREAM-INF:BANDWIDTH=1733092,AVERAGE-BANDWIDTH=1733000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
 https://livevlive.vtvcab.vn/ondrmstg/K_LIFE_6962/v2_index.m3u8
 #EXTINF:-1 tvg-id="klive1hd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/251.png", K+ Live 1 HD (MyK+)
