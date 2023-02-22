@@ -1921,13 +1921,12 @@ http://cdn-live-us74.cloudrsst.com/live/tvn_720/playlist.m3u8
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
 #EXTINF:-1 tvg-id="Animax.kr" group-title="🇰🇷| Hàn Quốc" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
-#EXTM3U url-tvg="https://raw.githubusercontent.com/k120704/jkjbk/main/kcna.xml"
 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/k120704/jkjbk/main/kcna.xml"
 #EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (SD)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (HD)
-https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CtgFBkcaKuduQganU-7AND_CG0cDpNswxDDn4Z219GkDm0jZTuQU9ZbBzmMtRuryJXv1aKrwsj4pvAA_03G8gL9pyTTDU_9fl_eUDOZo0cfOvB2jJJbjKSU7KGKMQEu5Pjay-89Xwq-5Q_rtqJOw2Oj8mXE4GggtWOzDkRS34DqXUk0-27HeERzyCZDPxgd1TfRndQC31vr-XKqPA62Zg7SMeb2899wJQEH68vRr2cx9BpP1OuUe5ebBy_qO_RiOiqrwLJDm38clSfu0iV9BHvNsXav-EvPX3rIYB08-6vWzqlm3_l4E7kyTsiPWAqhX5pVFn_keo7c6dVWPtPwa2ZoRKBubwa5GhDvWLz23d7cnZj39qdI18dlU18k7EGV0kMh_iEv4H2UkeHP2TVlhupRmPu8Wm833q6nA1tXmhTt1F6SotsSJjg6FRlfNvqtQFpp0YNUPxHtLALZDqgFW2Ho9_K2JC7CGlDLUSBBUTWEZXpiWHWfSSeK0gTDvRwh7xHvP_i28NT01J3k72yo0HlrFi1Jjnd0LxHoGocQXmDBUVex2pBwM3-f_E_h6fL21PM45B1ZPc595iY_ef69J2-Pf2dnIl6kO_w-DS9pQJGX3Xg4f81cBeEv6bVrqNc5K669P7RKQ7948Tcxm4dKVAFfsZH0-LuRTTkJc1ijgFHgzcuK-rha2T866cqgZHPTN0OHpWXkEftiCz1JghJhcC-kTAjnBBzX2dujlC3vv7OxR5T-o6bwPLPg5JF62JvzxWHwn5GuXYeXLDlY6ayH0Ce5lewYp4Y0r2_Rhj2Pp9g--r4LvzRo3c1Oh42p_5naoGR_7x8_lzZecbmHG8yGT4l9W5rKy8ovUSo7HdGimDQlBSzeJIEOLNX1X_yVqhyEabBBMxs-FFs9l2BCFovjfa_PAuHUbd9TLRK0iNU8k3CvA8nBUXD0osQYe_R0c1Jc9Btfv30FhmqQtoaIaDEvK8PHHkpDuNPfFHSABKgl1cy13ZXN0LTIw9QU.m3u8
-
+https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CtcFGkpx9m-ZRHTakBhFtKfnVcqBgnoA055xm4P6xj7HDaDxB-vhP1kNqDRW4siNE_OXnPiFK-lc4qw5C_cdBwucIdjqRE8hvuuCcigCLjsIAgsu68jn3qZ2sZ_y-k8_udNLxI-efo4MC03Pal35rg307VXJXXoY4hy_ddI6LBtFCu-W8nGCHrQoO-RoshkvTdNXZA51qvduNmmR9hzo4sZcjHQcHc4CO9U5Kz637pLZlexV5fXdzxmm2KOzt0hWi1PxKgGWOGIRA5ej6dLT7LnCkuX5prXcF2heo3Bb83E5hZ0sDJmToYL5GCD1sh3FXDk-aaL0SPeM3pwisTPMPYcx9ssFAjoyyQyXNI5afwSG0-tOjCDJ6h5swvBNfB9bGxys1CRnytUPk9F1WdVL-DaMZ3hWfVHq03eVOE3wV-OQ70SZsDbZJcpD2OTozPJtQD6-X1xk6gWmDf5ZHKG4TSMFmdRx8HWqAK5M3eYGy4RYdrCR8T7TQogtkUM0L5uTpgTo-vNvhuRxIxddeWRtbC2NU8nGlMApNVEmXkb1Lko8agsZ5LFmGaDouFZ3ojx6az_ss0nP20WzmWaow-FxNoSJTCnVThGRoAYsFAwgD5j3fsxLGFzvF3gj5CytJIyLFWe3C8jGOWS3Gr7ewnzG7gbMSCWCHG5MJZzXiO96yPJ6nhsNKdicQ6da_B3OVc1du1Wn_9Dt1DZBOJxRw3UkmaCAmHPKc7V26aWpO2-JFqnjqGWpoTX4eWrLpefQSomsZAbuimayR8Eh5_AdT3AQqEs5rhWPDKxlt1Cfhfwz8aQIB0Yl277sAUDIs_hZhiYH3Kf337TNzEalgQB1k2Rw6-ajw5HhZSsUvvOmCbjTmXxCDy4zpuh2eGVccgq5jGsm0nZFoh9WMUc4GYn3R0MDFMxX7sh7K3EyJb8SiNpUFgiI7OA82y6wuH6G0r4DVhOMGWBiJdQ0sYH-7hoMJVHNy7KHJk0yV4FGIAEqCXVzLXdlc3QtMjD2BQ.m3u8
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
 
