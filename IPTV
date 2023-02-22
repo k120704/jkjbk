@@ -519,7 +519,7 @@ http://103.75.186.169/b4movie/b4movie/22.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2
 http://103.75.186.169/b4movie/b4movie/8.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="https://i.ibb.co/kcgP1ZN/kcine.png",K+ CINE (VTVcab)
-#EXTVLCOPT:http-user-agent="CloudTV"
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -527,7 +527,7 @@ http://103.75.186.169/b4movie/b4movie/8.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1733092,AVERAGE-BANDWIDTH=1733000,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000,AUDIO="aud1"
 https:///livevlive.vtvcab.vn/ondrmstg/K_CINE_6962/v2_index.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://i.ibb.co/QpxfWMZ/klife.png",K+LIFE (VTVcab)
-#EXTVLCOPT:http-user-agent="CloudTV"
+#EXTVLCOPT:http-user-agent=VThanhTivi
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
