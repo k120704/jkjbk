@@ -133,7 +133,7 @@ http://vn2.vietanhtv.pw:8081/vtv1
 http://vn2.vietanhtv.pw:8081/vtv2
 #EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 (Độ trễ thấp) (sv2)
 http://vn2.vietanhtv.pw:8081/vtv3
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 (Độ trễ thấpĐộ trễ thấp) (sv2)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 (Độ trễ thấp) (sv2)
 http://vn2.vietanhtv.pw:8081/vtv5
 #EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ (Độ trễ thấp) (sv2)
 http://vn2.vietanhtv.pw:8081/vtvcantho
