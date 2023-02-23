@@ -1900,11 +1900,10 @@ https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/k120704/jkjbk/main/kcna.xml"
-#EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (SD)
+#EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (SD)
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCNA (HD)
-https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CtcFGkpx9m-ZRHTakBhFtKfnVcqBgnoA055xm4P6xj7HDaDxB-vhP1kNqDRW4siNE_OXnPiFK-lc4qw5C_cdBwucIdjqRE8hvuuCcigCLjsIAgsu68jn3qZ2sZ_y-k8_udNLxI-efo4MC03Pal35rg307VXJXXoY4hy_ddI6LBtFCu-W8nGCHrQoO-RoshkvTdNXZA51qvduNmmR9hzo4sZcjHQcHc4CO9U5Kz637pLZlexV5fXdzxmm2KOzt0hWi1PxKgGWOGIRA5ej6dLT7LnCkuX5prXcF2heo3Bb83E5hZ0sDJmToYL5GCD1sh3FXDk-aaL0SPeM3pwisTPMPYcx9ssFAjoyyQyXNI5afwSG0-tOjCDJ6h5swvBNfB9bGxys1CRnytUPk9F1WdVL-DaMZ3hWfVHq03eVOE3wV-OQ70SZsDbZJcpD2OTozPJtQD6-X1xk6gWmDf5ZHKG4TSMFmdRx8HWqAK5M3eYGy4RYdrCR8T7TQogtkUM0L5uTpgTo-vNvhuRxIxddeWRtbC2NU8nGlMApNVEmXkb1Lko8agsZ5LFmGaDouFZ3ojx6az_ss0nP20WzmWaow-FxNoSJTCnVThGRoAYsFAwgD5j3fsxLGFzvF3gj5CytJIyLFWe3C8jGOWS3Gr7ewnzG7gbMSCWCHG5MJZzXiO96yPJ6nhsNKdicQ6da_B3OVc1du1Wn_9Dt1DZBOJxRw3UkmaCAmHPKc7V26aWpO2-JFqnjqGWpoTX4eWrLpefQSomsZAbuimayR8Eh5_AdT3AQqEs5rhWPDKxlt1Cfhfwz8aQIB0Yl277sAUDIs_hZhiYH3Kf337TNzEalgQB1k2Rw6-ajw5HhZSsUvvOmCbjTmXxCDy4zpuh2eGVccgq5jGsm0nZFoh9WMUc4GYn3R0MDFMxX7sh7K3EyJb8SiNpUFgiI7OA82y6wuH6G0r4DVhOMGWBiJdQ0sYH-7hoMJVHNy7KHJk0yV4FGIAEqCXVzLXdlc3QtMjD2BQ.m3u8
-
+#EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (HD)
+https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CtgF2sfIbzDXF0s_FTB7xX4Do2CGySUrHTHmvppjCOaUZJG5CJL_ol2Uxu7tu2YNU5LkgxB8sZWyD94RSw4WP7XlmhjixF4YxeYCj2hhEJuPcYlEJbso3x1blilPLOGXQgMIpXv5HufbIZWunL2y2Pi32GWgMd8lGF3sUHLYbJa1TUJH1_Rps272-A0i9oMWJYAywtspSScfxOFQpCytBQxaf3KmKioCuwRD9vVzufgDW-WaZDcv2M5zbG748pPzQl2KBjMxBvipNBaJQeyBzaJD5ciHhvpszTIvWr3nvOYlvMCC_f6He2vJ9hH7jbjP9_6igASTgAjcWQjC_3pjGe13cpd9mzHvsbbGWeJ-4YNSkcomMfkQIzRdA13UtSVwJrF9uuKM8IbM0IkGlZpNBZUtGkMthkv8u8OY2wtZxOrsawhtNLjEj2RKlhX8pVLcodHhOYPTLGtiq2h5BvFE7OoxTREmkPJ-aHpgrEt0Q7q60pLFGFoW-vzoyiAb1A-qeVeVsx4DNJ9x7HuvuUfMG5tZBM0YE5-aJIXEGgjLu1pJVD2NW0xWgXKKVZ9nrmAW9s1tHIWYTyxXvZ7XNO5LoFF4YoijBApsuOKA6UA06a0VLq3cTxtPkGPNE_3bhlRa2cr3vZffJeuMgGjt71tLe-2MMu-Y592UYLOnGszuqeeKKGiPb0ahuQUpY-DkXp8XoTEuilZ1DGHrUDxrOeR7kxk-XKS4EzaVB8DbQoge7Qu7_Npf9d7E3QpGWCL4w1UyTM-TpIXVE8N5xXIiRf0PXY-aTueLKgRvOySy8jABsVLFfkby2q6EKsM8qgoNqYU-ivoyvl8Tiw5LphJWOu7xbLjVsloGtqrGAo1S-CLDMhPFxYO4d-3cIfZtGmDuxlL_oS8mi1zUf9qD9Yb8W_CgFVyqsIrwt-tULqXTvFZlEbqyRq1dXjLS-HQYI2lcrw1BelMvlar7kapahI4aDGl3JLriVh1k7EkeUCABKgl1cy13ZXN0LTIw9wU.m3u8
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
 
 # Join Telegram Group: https://t.me/iptvth
@@ -1996,6 +1995,7 @@ https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://i.imgur.com/i4t7Q0C.png" group-title="🇹🇭| Thái Lan",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
+
 
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Gốc)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
