@@ -648,7 +648,7 @@ https://vagroup.pw/code/fpt/kcinehd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v229B99difHRS4PMmjtwhw", "kid":"gSEyQDAQPLKOGfXKn1utqg" } ], "type":"temporary" }
 https://vagroup.pw/code/fpt/klifehd/manifest.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (FPTPlay)
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids FHD (FPTPlay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MRr+P9nbE2pB18cF7TA/pQ", "kid":"2td5+/VDOIWgkU5gOZx23w" } ], "type":"temporary" }
 https://vagroup.pw/code/fpt/kkidshd/manifest.mpd
@@ -676,16 +676,16 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8B/Edo2gAQ8/yPCNHJESvw", "kid":"KVUGKUrqRmeK5elWR8KsGg" },{ "kty":"oct", "k":"Luk5hW/o2zfAWvFF4ilXEg", "kid":"cZkGKUrqRmeK5elWR8KsGg" },{ "kty":"oct", "k":"Tm4vvaFgM/z4LR0O1+GUvQ", "kid":"aqpKcpnqRmeK5elWR8KsGg" } ], "type":"temporary" }
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (MyK+)
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids FHD (MyK+)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+OfSnBEAsm1EoOBM68jwfQ", "kid":"wpejwx9oSIijD9jjcf2i9g" },{ "kty":"oct", "k":"+zjm7EUsBX4G7bEVYgtE4Q", "kid":"Ctujwx9oSIijD9jjcf2i9g" },{ "kty":"oct", "k":"xt5BbPpPASJwE8XiBLoS8g", "kid":"A+znDG5oSIijD9jjcf2i9g" } ], "type":"temporary" }
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD" tvg-logo="https://i.ibb.co/kcgP1ZN/kcine.png",K+ CINE (VTVcab)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD" tvg-logo="http://cdn.hqth.me/logo/thumbs/85.png",K+ CINE (VTVcab)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.com/K_Cine_HD
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD" tvg-logo="https://i.ibb.co/QpxfWMZ/klife.png",K+LIFE (VTVcab)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png",K+LIFE (VTVcab)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.com/K_LIFE_HD
 
