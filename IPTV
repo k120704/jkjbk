@@ -2105,14 +2105,17 @@ https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
 
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Gốc)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Đức) 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Rutube) 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36"
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=x3E__-8OYGUBNVxCdnQITA&e=1677066525&scheme=https
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=_m1nGCOIriYvxhr2Kg4ipw&e=1677261953&scheme=https
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/I1puHKA.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
