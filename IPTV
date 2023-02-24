@@ -1482,8 +1482,6 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/yAlxcWI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kctv" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/wN1cSDd.png",Korean Central Television
-https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -2010,10 +2008,10 @@ https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
 #EXTINF:-1 tvg-id="Animax.kr" group-title="🇰🇷| Hàn Quốc" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
 https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/k120704/jkjbk/main/kcna.xml"
-#EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (SD)
+
+#EXTINF:-1 tvg-id="kctv" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (SD)
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="kcna" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (HD)
+#EXTINF:-1 tvg-id="kctv" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (HD)
 https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CtcFd2YoScOxcGCX7H3v1iejjD2-xmzzUfjr6djMfCemVrV_mqMgyVm64_-FS4EAMmk5icsVfNWTN8F-MQNgcaZsQOS9BsrX0JCsl71pCJeaXKTdf5GG5cs1-2vZh12Zxm58bwJbhpnFp0goOLwECZtn0psKSV0T6rdcv7RGBF3333SDkMwtumwHaIlaRFK-G8nyye97IqR1ceRddJN9BKltZiQuwz9_GlsBRHfJaz4Iq8T_IEr_3ry-vEJzeEeAeVpoRi3jg17VVBDIw9vYmQreb1voyxNeMJ4TaG0hoSsgi2pkzamhVDg6mLMNol6TQTPuhMZkAroWmJGZ0Z28VjwAngvDjlrafspJhzTjHiBMq4myPhps1QlP7Gc2Hqllj2l9fzPYzlz_M0Rz2_Nxs9e_BjBSEAmACzyNHjLB5JX8CGVA--sewKczFYZDXE3D5hhq2tYQfRcEeDpfRwGBmfoDIugAxFWhl6-YArgbkaHWghYgDXT9otOxLVulkeZA3vnVChEhVoUhELzlpo3MhloOXlECSWcX5dSXXeTqC88a1PxM9H82qb3pgZlvijuE-hurGzYzu4Ldvm60lDIU86A5WBCywbJSgExq4OuUL8KYY4EpAmGDYw9PsZQyhhqjl-_ODDCLPXS0uwWpUKOthbir-AYMc3nJ-YT9pA1s2gCNslS5vyKAWggbJ1uEvhWD-2o0VUH_bvWAJjviWcJYF6CoJexPjyaKWL-NZW8P9LwQAgmnLAgryRFi-b6WSor_y1t57PZ7FoZyvXe_u-wcykC3X-nwrtVbASLqc0GEtm1Vw2Wn8CbUZ6E_NY8HptzQxt5WU-Gzwqz1O7EDAxpHhDsVt4i9JFj3hE_1eRHodz0cjUXWJkf82zprxDnbslBiPg4i8ryxTHdtwLteS1p7ftQqslJ-XtqhlFoUHYFtRHoV7I1d07TklgngSDHZdh91BOI2fPl8QUiAzhoMwMAAWANoeoVXjxxlIAEqCXVzLXdlc3QtMjD4BQ.m3u8
 
 
