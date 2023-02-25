@@ -284,19 +284,19 @@ https://streaming-lunaott.akamaized.net/phimviet_ottera_4222432781/1d1b5613-b5ee
 
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/f2X0sm5/cab3.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/vtvcab3
+https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/f26fa6ebce526d2ffc4436429c304cc3/1677434643892/vtvcab/live/hd_vtvcab_3/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/pj4qYdP/tb-cab6.webp", ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/vtvcab6
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/4e672b665d559d19404d907beba22e9a/1677434653617/vtvcab/live/hd_vtvcab_6/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/nkytmVd/cab16.png", ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/vtvcab16
+https://sgn-fpt-003-livecdn-vthn-vnd.vieon.vn/9a38724c043e4e638abe94589515fef6/1677434664435/vtvcab/live/hd_vtvcab_16/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/2WR02NN/ONSports-News.png", ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/vtvcab18
+https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/1b8787c78d8f01f593f33f60d9e204d1/1677434675389/vtvcab/live/hd_vtvcab_18/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/d767x9L/ONGolf.png", ON Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/vtvcab23
+https://sgn-fpt-002-livecdn-vthn-vnd.vieon.vn/0934bff154894faba36495041146cda0/1677434688488/vtvcab/live/hd_vtvcab_23/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab24hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/HVfRdJF/bongdaviet-BEARTV.png", Bóng Đá Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://iplogger.com/ONVFFTV
