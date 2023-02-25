@@ -1,43 +1,27 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/vagroup_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #-*-- Livestream -*--#
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://media.cdnandroid.com/item_images/1132810/imagen-phim-ma-i-phimmoi-net-0thumb.webp", Phimmoi
-http://103.75.186.169/b4movie/b4movie/2.m3u8
-
-\#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/Vgtxqhd/VLeague1-2023-logo-svg.png", V - League 1
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.com/events1
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/Vgtxqhd/VLeague1-2023-logo-svg.png", V - League 2
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.com/events2
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/q1MsBZg/cc-Fsports.png", UEFA Champions League 01
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://vips-livecdn.fptplay.net/fnxsport/thethao14_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/q1MsBZg/cc-Fsports.png", UEFA_Champions_League 02
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://vips-livecdn.fptplay.net/fnxsport/thethao15_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
-https://livevlive.vtvcab.vn/hls/ONSPORT1_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT1_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 2
-https://livevlive.vtvcab.vn/hls/ONSPORT2_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT2_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 3
-https://livevlive.vtvcab.vn/hls/ONSPORT3_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT3_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 4
-https://livevlive.vtvcab.vn/hls/ONSPORT4_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT4_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 5
-https://livevlive.vtvcab.vn/hls/ONSPORT5_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT5_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 6
-https://livevlive.vtvcab.vn/hls/ONSPORT6_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT6_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 7
-https://livevlive.vtvcab.vn/hls/ONSPORT7_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT7_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 8
-https://livevlive.vtvcab.vn/hls/ONSPORT8_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT8_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 9
-https://livevlive.vtvcab.vn/hls/ONSPORT9_CL/sc-gaFEAA/m30_index.m3u8
+#https://livevlive.vtvcab.vn/hls/ONSPORT9_CL/sc-gaFEAA/m301_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 10
-https://livevlive.vtvcab.vn/hls/ONSPORT10_CL/sc-gaFEAA/m30_index.m3u8
+
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://yt3.googleusercontent.com/o0aIR3C3jIMXrgcd45WaGeLCrCXUx4ec193TMNgSspwRi37f_1kH0mJiwyEVxOCNMFoHXDmcqQ=s176-c-k-c0x00ffffff-no-rj", ON Gaming
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677350119/ei/hgD6Y4ehPNTHrQT0roW4DQ/ip/113.179.247.53/id/5iavz0oT-9M.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIGkdt_doex687a7Xt_pKh7S8zWTvMYHZBR2DoIV5m5VAiEAklN2B4wexy46jCoM3oIDHNVuV-kT6AgyWxIKKPoQWoU%3D/file/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
