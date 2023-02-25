@@ -159,10 +159,7 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://i.ibb.co/Qrt7Qmp/ccvtv5-TNB.webp", VTV5 HD Tây Nam Bộ
-http://iptvh.it/vtv5tnb
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp", VTV5 HD Tây Nguyên
-http://iptvh.it/vtv5tn
+
 #EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV2 (TV360)
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV3 (TV360)
