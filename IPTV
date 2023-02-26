@@ -581,7 +581,7 @@ https:///e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8|Ref
 #-*--Kẹo-*--#
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997237886/47eaadd2d4a2_480_270.png", K+ Sport 1 
-http://103.75.186.169/b4movie/b4movie/26.m3u8
+http://103.75.186.169/b4movie/b4movie/1.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/09/30/17/1632997203860/76b98e5da32c_640_360.png", K+ Sport 2
 http://103.75.186.169/b4movie/b4movie/27.m3u8
