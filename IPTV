@@ -288,30 +288,6 @@ https://iplogger.com/vtvcab23
 https://streaming-lunaott.akamaized.net/phimviet_ottera_4222432781/1d1b5613-b5ee-4d7c-bf96-136e7b7babbe_PreRoll_1080p/chunklist.m3u8
 
 
-#-*--VTVcab ON-*--#
-
-
-#EXTINF:-1 tvg-id="sctv15hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png", SCTV15 FHD (VTVcab)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/SCTV15HD
-#EXTINF:-1 tvg-id="sctv17hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png", SCTV17 HD (VTVcab)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/SCTV17HD
-#EXTINF:0 tvg-id="vtc3hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/X2dbCDb/VTC3-BEARTV.png", VTC3 HD (VTVcab)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/VTC3HD
-#EXTINF:0 tvg-id="vtc1hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png", VTC1 FHD (VTVcab)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.org/VTC1HD
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/GTnjzYB/HTVThe-Thao.webp" , HTV Thể Thao FHD (VTVcab)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/HTVTheThaoHD
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🧡| VTVcab ON" tvg-logo="https://i.ibb.co/ySDjzg0/VTV1-cc.webp" ,VTV1 FHD (VTVcab)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/VTV1HD
-#EXTINF:-1 tvg-id="history" group-title="🧡| VTVcab ON" tvg-logo="https://i.imgur.com/ZL62USj.png", History HD (VTVcab)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://iplogger.com/HISTORYHD
 #-*--VTC-*--#
 
 #EXTINF:0 tvg-id="vtc1hd" group-title="💙| VTC" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png", VTC1 HD
@@ -390,7 +366,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao (VTVCab)
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://iplogger.com/HTVTheThaoHD
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
