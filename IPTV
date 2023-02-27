@@ -137,9 +137,9 @@ https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-https://api.vthanhtivi.pw/v2/getlink/mytv/615/hd.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-https://api.vthanhtivi.pw/v2/getlink/vtv/vtv5tn/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vtv/vtv5tn/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -153,15 +153,22 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
-
-#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV2 (TV360)
+#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/C5G4qCb.png",VTV1 (TV360)
+http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/WTg772e.png",VTV2 (TV360)
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
-#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV3 (TV360)
+#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/N1PiqLg.png",VTV3 (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
 #EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV5 (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 #EXTINF:-1 group-title="📦| VTV" tvg-logo="http://gg.gg/12x1kr", VTV Cần Thơ (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
+#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/BNWG2Bu.png", VTV7 (TV360)
+http://live.tv360.vn/manifest/VTV7_HD/playlist_1080p.m3u8
+#EXTINF:-1 group-title="📦| VTV" tvg-logo="https://i.imgur.com/eoycRVP.png", VTV8 (TV360)
+http://live.tv360.vn/manifest/VTV8_HD/playlist_1080p.m3u8
+
+
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/C5G4qCb.png", VTV1 HD (VTV Go)
 #EXTVLCOPT:http-user-agent="CloudTV"
