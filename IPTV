@@ -317,12 +317,18 @@ https://iplogger.com/VTV1HD
 #EXTINF:0 tvg-id="vtc1hd" group-title="💙| VTC" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png", VTC1 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vtc1hd" group-title="💙| VTC" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png", VTC1 HD (VTVCab)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.org/VTC1HD
 #EXTINF:0 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://i.ibb.co/7WwzKSj/VTC2-BEARTV.png", VTC2 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://i.ibb.co/X2dbCDb/VTC3-BEARTV.png", VTC3 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:0 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://i.ibb.co/X2dbCDb/VTC3-BEARTV.png", VTC3 HD (VTVCab)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTC3HD
 #EXTINF:0 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://i.ibb.co/v4Hrc3p/VTC4-BEARTV.png", VTC4 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
@@ -384,7 +390,9 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
- 
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://iplogger.com/HTVTheThaoHD
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
@@ -407,7 +415,7 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/62.png", HTVC Homeshopping
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
-#-*--SCTV-*--#
+
 #-*--SCTV-*--#
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/DYVGW60/sctv1-hd-BEARTV.png", SCTV1 HD
@@ -455,12 +463,18 @@ https://raintv.tk/app/ad0beb1b3ee5ab1aa2f89343c847be92a12d2f7c/sctv14/playlist.m
 #EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png", SCTV15 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/q1PkQkp/sctv15-hd-BEARTV.png", SCTV15 HD (VTVCab)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/SCTV15HD
 #EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png", SCTV16 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png", SCTV17 HD
+#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png", SCTV17 HD 
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png", SCTV17 HD (VTVCab)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/SCTV17HD
 #EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png", SCTV18 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://vtsstr6.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
