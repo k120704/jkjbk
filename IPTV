@@ -1,8 +1,16 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/vagroup_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
 
 #-*-- Livestream -*--#
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/RbFHPG4/FA-Cup-2023.png", FA - CUP
+https://iplogger.com/FA-CUP
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/303979943_494655586004480_6845591142527525565_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", 90p
 http://gg.gg/13dc54
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://yt3.googleusercontent.com/4cQMJa2x9GQ_QXzlk36KVm20LIUEHJvLD79sJNgS_S65S2n20Ru3NWGEVnzOHfs8gErg7_xlhA=s176-c-k-c0x00ffffff-no-rj", Socolive 1 
+https://pull06.scstream.net/live/stream-144861_lhd.flv?auth_key=1677634515-0-0-16511dcae28653aff48faa989a57c67e
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://yt3.googleusercontent.com/4cQMJa2x9GQ_QXzlk36KVm20LIUEHJvLD79sJNgS_S65S2n20Ru3NWGEVnzOHfs8gErg7_xlhA=s176-c-k-c0x00ffffff-no-rj", Socolive 2
+https://pull06.scstream.net/live/stream-105131_lhd.flv?auth_key=1677634455-0-0-c14e91ebadd7a3f729d027972fffc986
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://yt3.googleusercontent.com/4cQMJa2x9GQ_QXzlk36KVm20LIUEHJvLD79sJNgS_S65S2n20Ru3NWGEVnzOHfs8gErg7_xlhA=s176-c-k-c0x00ffffff-no-rj", Socolive 3
+https://sports01.livnvess.com/live/stream-206851.flv?txSecret=1c60854eadff09b822d185c7603d05c8&txTime=63feab97
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://media.cdnandroid.com/item_images/1132810/imagen-phim-ma-i-phimmoi-net-0thumb.webp?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", Phimmoi
 http://103.75.186.169/b4movie/b4movie/2.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
