@@ -22,16 +22,12 @@ https://hqth.me/soco3
 
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD MyTV
 https://iplogger.com/FA-CUP
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 17h00-01/03: U20 Australia vs U20 Việt Nam (Lượt trận 1 Bảng B U20 Châu Á 2023)
-http://vn2.vietanhtv.pw:8081/events1
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 19h00-01/03: U20 Indonesia vs U20 Iraq (Lượt trận 1 Bảng A U20 Châu Á 2023)
 http://vn2.vietanhtv.pw:8081/events2
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 21h00-01/03: U20 Uzbekistan vs U20 Syria (Lượt trận 1 Bảng A U20 Châu Á 2023)
 http://vn2.vietanhtv.pw:8081/events3
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 21h00-01/03: U20 Iran vs U20 Qatar (Lượt trận 1 Bảng B U20 Châu Á 2023)
 http://vn2.vietanhtv.pw:8081/events4
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e1/13/3a/ad/d6/66/e13ad-lu20australiavsu20vitnamvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:55-01/03: U20 Australia vs U20 Việt Nam - VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7138/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/73/3b/b2/25/5c/c4/73b25-lleicestercityvsblackburnroverfacupvng5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-01/03: Leicester City vs Blackburn Rover: FA Cup - Vòng 5
 https://code.vthanhtivi.pw/list/mytvevent/7144/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/30/0c/c0/0e/ef/fb/30c0e-lu20indonesiavsu20iraqvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:55-01/03: U20 Indonesia vs U20 Iraq - VCK U20 châu Á 2023
