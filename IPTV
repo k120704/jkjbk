@@ -4,19 +4,19 @@
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD MyTV
 https://iplogger.com/FA-CUP
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/303979943_494655586004480_6845591142527525565_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", 90p 1
-https://obevcimanyd179314182.thapcam.link/live/may111FHD/chunklist.m3u8
+https://hqth.me/90p1
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/303979943_494655586004480_6845591142527525565_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", 90p 2
-https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8
+https://hqth.me/90p2
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/303979943_494655586004480_6845591142527525565_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", 90p 3
 https://179720687.global.cdnfastest.com/live/1-3837458-0/chunklist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/303979943_494655586004480_6845591142527525565_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", 90p 4
 
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://yt3.googleusercontent.com/4cQMJa2x9GQ_QXzlk36KVm20LIUEHJvLD79sJNgS_S65S2n20Ru3NWGEVnzOHfs8gErg7_xlhA=s176-c-k-c0x00ffffff-no-rj", Socolive 1
-https://pull06.scstream.net/live/stream-147801_lhd.flv?auth_key=1677691455-0-0-b4a9bf0a8da9ea4a861e7c17589dda81
+https://hqth.me/soco1
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://yt3.googleusercontent.com/4cQMJa2x9GQ_QXzlk36KVm20LIUEHJvLD79sJNgS_S65S2n20Ru3NWGEVnzOHfs8gErg7_xlhA=s176-c-k-c0x00ffffff-no-rj", Socolive 2
-https://pull06.scstream.net/live/stream-121256_lhd.flv?auth_key=1677691455-0-0-a3aeef9a93a539e2ad60562d388c1008
+https://hqth.me/soco2
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://yt3.googleusercontent.com/4cQMJa2x9GQ_QXzlk36KVm20LIUEHJvLD79sJNgS_S65S2n20Ru3NWGEVnzOHfs8gErg7_xlhA=s176-c-k-c0x00ffffff-no-rj", Socolive 3
-https://pull06.scstream.net/live/stream-115447_lhd.flv?auth_key=1677691515-0-0-ea2ea478b78d046488ac103a9906c32c
+https://hqth.me/soco3
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://yt3.googleusercontent.com/4cQMJa2x9GQ_QXzlk36KVm20LIUEHJvLD79sJNgS_S65S2n20Ru3NWGEVnzOHfs8gErg7_xlhA=s176-c-k-c0x00ffffff-no-rj", Socolive 4
 
 
@@ -2097,7 +2097,7 @@ https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
 #EXTINF:-1 tvg-id="kctv" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (SD)
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kctv" group-title="🇰🇷| Triều Tiên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo_of_the_Korean_Central_Television.svg", KCTV (HD)
-http://gg.gg/kcnatv
+https://hqth.me/kcnatv
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml"
 
@@ -2203,7 +2203,7 @@ https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Rutube) 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://gg.gg/rutube
+https://hqth.me/rutube
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/I1puHKA.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
