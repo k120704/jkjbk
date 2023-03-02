@@ -1197,8 +1197,8 @@ https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong6" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/d6GLN69/BTV6-BEARTV.png", BTV6 HD | TH Bình Dương
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhduong9" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png", BTV9 HD | TH Bình Dương
-https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="binhduong9" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/F08gVbK/BTV9-BEARTV.png", BTV9 HD - An Viên TV | TH Bình Dương
+https://code.vmttv.pw/vieon.php?type=tivi&kenh=an-vien-hd
 #EXTINF:-1 tvg-id="binhduong11" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/6wvyQyv/121.png", BTV11 | TH Bình Dương
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/0hHxBTQ/BPTV1-BEARTV.png", BPTV1 HD | TH Bình Phước
@@ -2619,7 +2619,3 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="🇷🇺| Nga và khối SNG",Салям
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#-*--Khác-*--#
-#EXTINF:-1 tvg-id="anvienhd" group-title="🖥| Khác" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 - An Viên TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://api.vthanhtivi.pw/v2/getlink/vieon/an-vien-hd/playlist.m3u8
