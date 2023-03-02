@@ -28,21 +28,7 @@ http://vn2.vietanhtv.pw:8081/events2
 http://vn2.vietanhtv.pw:8081/events3
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 21h00-01/03: U20 Iran vs U20 Qatar (Lượt trận 1 Bảng B U20 Châu Á 2023)
 http://vn2.vietanhtv.pw:8081/events4
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/73/3b/b2/25/5c/c4/73b25-lleicestercityvsblackburnroverfacupvng5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-01/03: Leicester City vs Blackburn Rover: FA Cup - Vòng 5
-https://code.vthanhtivi.pw/list/mytvevent/7144/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/30/0c/c0/0e/ef/fb/30c0e-lu20indonesiavsu20iraqvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:55-01/03: U20 Indonesia vs U20 Iraq - VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7139/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/25/5c/cf/fb/ba/a2/25cfb-lu20uzbekistanvsu20syriavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:55-01/03: U20 Uzbekistan vs U20 Syria - VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7141/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7e/e2/27/79/98/85/7e279-lu20qatarvsu20iranvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:55-01/03: U20 Qatar vs U20 Iran - VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7140/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/0c/ce/ef/fe/e1/1a/0cefe-lmanchesterutdvswesthamunitedfacupvng5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-02/03: Manchester Utd vs West Ham United: FA Cup - Vòng 5
-https://code.vthanhtivi.pw/list/mytvevent/7136/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c4/4e/e4/44/4c/cc/c4e44-lsheffieldutdvstottenhamhotspurfacupvng5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:40-02/03: Sheffield Utd vs Tottenham Hotspur: FA Cup - Vòng 5
-https://code.vthanhtivi.pw/list/mytvevent/7135/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3a/aa/af/fd/d7/75/3aafd-lu20hnqucvsu20omanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-02/03: U20 Hàn Quốc vs U20 Oman - VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7146/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/4d/d7/78/82/26/60/4d782-lu20tajikistanvsu20jordanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-02/03: U20 Tajikistan vs U20 Jordan - VCK U20 châu Á 2023
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/4d/d7/78/82/26/60/4d782-lu20tajikistanvsu20jordanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:50-02/03: U20 Tajikistan vs U20 Jordan - VCK U20 châu Á 2023
 https://code.vthanhtivi.pw/list/mytvevent/7147/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://media.cdnandroid.com/item_images/1132810/imagen-phim-ma-i-phimmoi-net-0thumb.webp?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", Phimmoi
