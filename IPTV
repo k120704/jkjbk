@@ -30,6 +30,10 @@ http://vn2.vietanhtv.pw:8081/events3
 http://vn2.vietanhtv.pw:8081/events4
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/4d/d7/78/82/26/60/4d782-lu20tajikistanvsu20jordanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:50-02/03: U20 Tajikistan vs U20 Jordan - VCK U20 châu Á 2023
 https://code.vthanhtivi.pw/list/mytvevent/7147/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png", Sky Sport F1
+http://vn2.vietanhtv.pw:8081/skysportf1/mpegts
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/1b/bd/dd/d3/3b/bb/1bdd3-lu20rpxtksavsu20kyrgyztanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:50-03/03: U20 Ả rập Xê út (KSA) vs U20 Kyrgyztan - VCK U20 châu Á 2023
+http://code.vthanhtivi.pw/list/mytvevent/7154/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://media.cdnandroid.com/item_images/1132810/imagen-phim-ma-i-phimmoi-net-0thumb.webp?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", Phimmoi
 http://103.75.186.169/b4movie/b4movie/2.m3u8
@@ -670,17 +674,27 @@ https:///e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8|Ref
 
 #-*--Kẹo-*--#
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 
-http://103.75.186.169/b4movie/b4movie/1.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 FHD (Vieon)
+http://plus.vthanhtivi.pw:80/vuminhthanh/vuminhthanh/3.m3u8
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2
-http://103.75.186.169/b4movie/b4movie/26.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 FHD (Vieon)
+http://plus.vthanhtivi.pw:80/vuminhthanh/vuminhthanh/4.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png", K+ Life FHD (Vieon)
+http://plus.vthanhtivi.pw:80/vuminhthanh/vuminhthanh/2.m3u8
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (VTVCab)
 https://live1onsport.vtvcab.vn/K_CINE_6962/manifest.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png", K+ Life  HD (VTVCab)
 https://live1onsport.vtvcab.vn/K_LIFE_6962/manifest.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png", K+ Kids (Vieon)
+http://plus.vthanhtivi.pw:80/vuminhthanh/vuminhthanh/2.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="klive1hd" group-title="🍭| K+ MPD" tvg-logo="http://logo.vagroup.pw/251.png", K+ Live 1 HD (MyK+)
 #EXTVLCOPT:http-user-agent=VAgroup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
