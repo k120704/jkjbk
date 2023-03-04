@@ -48,7 +48,7 @@ http://code.vthanhtivi.pw/list/mytvevent/7186/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e3/38/83/38/87/76/e3838-lligue1vng26lensvslille-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-04/03: Ligue 1 - Vòng 26: Lens vs Lille
 http://code.vthanhtivi.pw/list/mytvevent/7193/playlist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://media.cdnandroid.com/item_images/1132810/imagen-phim-ma-i-phimmoi-net-0thumb.webp?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", Phimmoi
-http://103.75.186.169/b4movie/b4movie/2.m3u8
+http://103.75.186.169/b4tv/b4tv/5.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
 https://livevlive.vtvcab.vn/hls/ONSPORT1_CL/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 2
@@ -716,6 +716,9 @@ https:///e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8|Ref
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 FHD (Vieon)
 http://plus.vthanhtivi.pw:80/vuminhthanh/vuminhthanh/3.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 FHD (FPT Play)
+http://103.75.186.169/b4tv/b4tv/1.m3u8
+
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 FHD (Vieon)
 http://plus.vthanhtivi.pw:80/vuminhthanh/vuminhthanh/4.m3u8
