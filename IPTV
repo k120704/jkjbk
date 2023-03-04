@@ -165,6 +165,35 @@ https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="cctv16-4k" group-title="📺| KÊNH 4K" tvg-logo="https://imgur.com/CzcKCYM.jpg", CCTV16 4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+#http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1 tvg-id="cctv4k" group-title="📺| KÊNH 4K" tvg-logo="https://imgur.com/Lw4YbmM.jpg", CCTV 4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+#http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 tvg-id="" group-title="📺| KÊNH 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg", DIGI 4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+
+#EXTINF:-1 tvg-id="" group-title="📺| KÊNH 4K" tvg-logo="https://imgur.com/s8pHOcL.png", Astro SUPER SPORT UHD
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://tinyurl.com/mt9hsurw
+#EXTINF:-1 tvg-id="" group-title="📺| KÊNH 4K" tvg-logo="http://gg.gg/12z9ag", Love Nature 4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="" group-title="📺| KÊNH 4K" tvg-logo="https://i.imgur.com/vgiUo8b.jpg", Bloomberg 4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://iptvh.it/bloomberg4K
+#EXTINF:-1 tvg-id="" group-title="📺| KÊNH 4K" tvg-logo="https://i.imgur.com/W3HKqZB.png", FashionTV 4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+#http://iptvh.it/FTV4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="📺| KÊNH 4K" tvg-logo="http://gg.gg/12z98n", Clarity 4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8 
+#EXTINF:-1 tvg-id="" group-title="📺| KÊNH 4K" tvg-logo="https://i.ibb.co/4VXCZQD/ccnasa4k.gif", Nasa TV 4K
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://gg.gg/132p27
+
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (Độ trễ thấp)
 http://vn2.vietanhtv.pw:8081/vtv1
