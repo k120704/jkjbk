@@ -272,6 +272,8 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" tvg-logo="https://i.imgur.com/N1PiqLg.png",VTV3 (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
+#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" tvg-logo="https://i.imgur.com/N1PiqLg.png",VTV4 (TV360)
+http://live.tv360.vn/manifest/VTV4_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV5 (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 #EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" tvg-logo="http://gg.gg/12x1kr", VTV Cần Thơ (TV360)
@@ -280,6 +282,8 @@ http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
 http://live.tv360.vn/manifest/VTV7_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/eoycRVP.png", VTV8 (TV360)
 http://live.tv360.vn/manifest/VTV8_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/eoycRVP.png", VTV9 (TV360)
+http://live.tv360.vn/manifest/VTV9_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
