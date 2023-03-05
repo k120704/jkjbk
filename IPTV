@@ -266,23 +266,23 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/C5G4qCb.png",VTV1 (TV360)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",VTV1 (TV360)
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/WTg772e.png",VTV2 (TV360)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png",VTV2 (TV360)
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
-#EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" tvg-logo="https://i.imgur.com/N1PiqLg.png",VTV3 (TV360)
+#EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png",VTV3 (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
-#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" tvg-logo="https://i.imgur.com/N1PiqLg.png",VTV4 (TV360)
+#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png",VTV4 (TV360)
 http://live.tv360.vn/manifest/VTV4_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png",VTV5 (TV360)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png",VTV5 (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
-#EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" tvg-logo="http://gg.gg/12x1kr", VTV Cần Thơ (TV360)
+#EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
-#EXTINF:-1 tvg-id="vtv7hd"group-title="📦| VTV" tvg-logo="https://i.imgur.com/BNWG2Bu.png", VTV7 (TV360)
+#EXTINF:-1 tvg-id="vtv7hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 (TV360)
 http://live.tv360.vn/manifest/VTV7_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/eoycRVP.png", VTV8 (TV360)
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 (TV360)
 http://live.tv360.vn/manifest/VTV8_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/eoycRVP.png", VTV9 (TV360)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 (TV360)
 http://live.tv360.vn/manifest/VTV9_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (Vieon)
@@ -314,39 +314,40 @@ https://code.vmttv.pw/vieon.php?type=tivi&kenh=vtv8-hd
 https://code.vmttv.pw/vieon.php?type=tivi&kenh=vtv9-hd
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/C5G4qCb.png", VTV1 HD (VTV Go)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 HD (VTV Go)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://tiny.one/VTV1HD
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/WTg772e.png", VTV2 HD (VTV Go)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 HD (VTV Go)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.com/VTV2
-#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/N1PiqLg.png", VTV3 HD (VTV Go)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 HD (VTV Go)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.org/VTV3
-#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/0L8Hm1D.png", VTV4 HD (VTV Go)
+#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 HD (VTV Go)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.com/VTV4
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/deB8Ime.png", VTV5 HD (VTV Go)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 HD (VTV Go)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.org/VTV5
-#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/BNWG2Bu.png", VTV7 HD (VTV Go)
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.com/VTV7
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/eoycRVP.png", VTV8 HD (VTV Go)
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.com/VTV8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://i.imgur.com/HeGw9y1.png", VTV9 HD (VTV Go)
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.com/VTV9
-#EXTINF:-1 tvg-id="vtvcthd" group-title="📦| VTV" tvg-logo="https://i.ibb.co/PtJKgHX/vtvcantho.webp", VTVCT HD (VTV Go)
-#EXTVLCOPT:http-user-agent="CloudTV"
-https://iplogger.org/VTVCT
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://i.ibb.co/Qrt7Qmp/ccvtv5-TNB.webp", VTV5 HD Tây Nam Bộ (VTV Go)
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 HD Tây Nam Bộ (VTV Go)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.com/VTV5TNB
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://i.ibb.co/Fxzdz7v/ccvtv5TN.webp", VTV5 HD Tây Nguyên (VTV Go)
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 HD Tây Nguyên (VTV Go)
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://iplogger.org/VTV5TN
+#EXTINF:-1 tvg-id="vtvcthd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTVCT HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.org/VTVCT
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV7
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 HD (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/VTV9
+
 
 
 #-*--VTVCAB-*--#
