@@ -1469,7 +1469,7 @@ http://103.90.220.236/nbtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ninhthuan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/1G1QSGf/ninhthuan-BEARTV.png", NTV HD | TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/7SSr7KH/Phu-Tho-BEARTV.png", PTV HD | TH Phú Thọ
-https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/410/hd.m3u8
 #EXTINF:-1 tvg-id="phuyen" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/hDPtwzj/phuyentv-BEARTV.png", PTP HD | TH Phú Yên
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangbinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/YdH8Nh4/quangbinhtv-BEARTV.png", QBTV SD | TH Quảng Bình
