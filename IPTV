@@ -23,56 +23,22 @@ https://hqth.me/soco4
 
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://shopbongda.vn/wp-content/uploads/2020/08/1598679356_972_Ra-mat-Logo-FA-Cup-hoan-toan-moi-cua-Emirates.png", 804 HD
 http://vn2.vietanhtv.pw:8081/mytv804
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 17h00-05/03: U20 Jordan vs U20 Hàn Quốc (Lượt trận 2 Bảng C U20 Châu Á 2023)
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 17h00-07/03: U20 Việt Nam vs U20 Iran (Lượt trận 3 Bảng B U20 Châu Á 2023)
 http://vn2.vietanhtv.pw:8081/events1
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 19h00-05/03: U20 Oman vs U20 Tajikistan (Lượt trận 2 Bảng C U20 Châu Á 2023)
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 17h00-07/03: U20 Qatar vs U20 Úc (Lượt trận 3 Bảng B U20 Châu Á 2023)
 http://vn2.vietanhtv.pw:8081/events2
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/15/2h6kv4s7_banner18737c591925ec49847693068141a8b50_1920_1080.jpg" group-title="🗓| Sự kiện", 10:45-05/03: Macarthur - Brisbane Roar (Vòng 19 - VĐQG Úc 2022/23)
-https://code.vthanhtivi.pw/list/vieonevent/18ff02b4-94eb-4722-9b48-da475c9a0c8c/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/22/kppo9ewu_bannerd5b0fcbc30931bb061af73e885d59b84_1920_1080.jpg" group-title="🗓| Sự kiện", 20:15-05/03: RKC Waalwijk - PSV Eindhoven (Vòng 24 - VĐQG Hà Lan 2022/23)
-https://code.vthanhtivi.pw/list/vieonevent/92cd8da8-4c06-49f3-aaac-8106715eef13/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/22/dpj43xzm_1920x1080-vdqghalan_1920_1080.jpg" group-title="🗓| Sự kiện", 22:30-05/03: AFC Ajax - NEC (Vòng 24 - VĐQG Hà Lan 2022/23)
-https://code.vthanhtivi.pw/list/vieonevent/46d222a0-cfd9-4311-8746-16d8ab5888c6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/67/73/38/82/26/62/67382-lasiantour2023newzealandopenngy4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-05/03: Asian Tour 2023 New zealand Open- Ngày 4
-http://code.vthanhtivi.pw/list/mytvevent/7163/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9b/b7/70/04/42/23/9b704-lu20omanvsu20tajikistanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:50-05/03: U20 Oman vs U20 Tajikistan - VCK U20 châu Á 2023
-http://code.vthanhtivi.pw/list/mytvevent/7160/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/81/18/82/23/34/4c/81823-lligue1vng26troyesvsasmonaco-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-05/03: Ligue 1 - Vòng 26: Troyes vs AS Monaco
-http://code.vthanhtivi.pw/list/mytvevent/7198/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f3/34/41/13/38/89/f3413-llaligavng24realvalladolidvsespanyol-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-05/03: La Liga - Vòng 24: Real Valladolid vs Espanyol
-http://code.vthanhtivi.pw/list/mytvevent/7192/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/57/72/2e/e4/42/2a/572e4-limhnththaobravegokhanaksuktrnlttrnsnumma-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-05/03: Điểm hẹn thể thao - Brave Gokhan Aksu: Kẻ trấn lột trên sàn đấu MMA
-http://code.vthanhtivi.pw/list/mytvevent/7152/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f1/18/80/04/46/61/f1804-lserieavng25sampdoriavssalernitana-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-05/03: Serie A - Vòng 25: Sampdoria vs Salernitana
-http://code.vthanhtivi.pw/list/mytvevent/7180/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/cb/b9/9e/e4/41/1a/cb9e4-lbundesligavng23bayerleverkusenvsherthaberlin-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-05/03: Bundesliga - Vòng 23: Bayer Leverkusen vs Hertha Berlin
-http://code.vthanhtivi.pw/list/mytvevent/7201/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c8/86/64/40/00/05/c8640-lkhihoatnhyulintp6-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-05/03: Khi Hoa Tình Yêu Lại Nở - Tập 6
-http://code.vthanhtivi.pw/list/mytvevent/7213/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/34/41/1d/d6/66/62/341d6-lvchngson-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-05/03: Vợ Chồng Son
-http://code.vthanhtivi.pw/list/mytvevent/6428/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/74/45/52/20/0d/d0/74520-llaligavng24barcelonavsvalencia-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:15-05/03: La Liga - Vòng 24: Barcelona vs Valencia
-http://code.vthanhtivi.pw/list/mytvevent/7184/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e4/4e/ef/f2/2b/3e4ef-lligue1vng26lyonvslorient-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:05-05/03: Ligue 1 - Vòng 26: Lyon vs Lorient
-http://code.vthanhtivi.pw/list/mytvevent/7195/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5d/dc/c3/36/65/55/5dc36-lbundesligavng23wolfsburgvseintrachtfrankfurt-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:30-05/03: Bundesliga - Vòng 23: Wolfsburg vs Eintracht Frankfurt
-http://code.vthanhtivi.pw/list/mytvevent/7203/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/45/57/7a/a8/8c/c9/457a8-lserieavng25intermilanvslecce-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:00-06/03: Serie A - Vòng 25: Inter Milan vs Lecce
-http://code.vthanhtivi.pw/list/mytvevent/7177/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/33/39/95/51/10/04/33951-llaligavng24rayovallecanovsathleticbilbao-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-06/03: La Liga - Vòng 24: Rayo Vallecano vs Athletic Bilbao
-http://code.vthanhtivi.pw/list/mytvevent/7191/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/1d/db/b8/83/3c/cb/1db83-lligue1vng26rennesvsmarseille-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-06/03: Ligue 1 - Vòng 26: Rennes vs Marseille
-http://code.vthanhtivi.pw/list/mytvevent/7197/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d5/58/80/00/05/57/d5800-lserieavng25asromavsjuventus-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-06/03: Serie A - Vòng 25: AS Roma vs Juventus
-http://code.vthanhtivi.pw/list/mytvevent/7176/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/77/7d/d7/78/8b/b5/77d78-llaligavng24realbetisvsrealmadrid-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-06/03: La Liga - Vòng 24: Real Betis vs Real Madrid
-http://code.vthanhtivi.pw/list/mytvevent/7185/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/22/2b/b4/49/9b/bd/22b49-lserieavng25sassuolovscremonese-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-07/03: Serie A - Vòng 25: Sassuolo vs Cremonese
-http://code.vthanhtivi.pw/list/mytvevent/7181/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b6/64/49/9b/b0/0b/b649b-llaligavng24osasunavsceltavigo-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-07/03: La Liga - Vòng 24: Osasuna vs Celta Vigo
-http://code.vthanhtivi.pw/list/mytvevent/7190/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5a/a2/21/14/43/31/5a214-lserieavng25torinovsbologna-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:45-07/03: Serie A - Vòng 25: Torino vs Bologna
-http://code.vthanhtivi.pw/list/mytvevent/7183/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 21h00-07/03: U20 Iraq vs U20 Syria (Lượt trận 3 Bảng A U20 Châu Á 2023)
+http://vn2.vietanhtv.pw:8081/events3
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 21h00-07/03: U20 Uzbekistan vs U20 Indonesia (Lượt trận 3 Bảng A U20 Châu Á 2023)
+http://vn2.vietanhtv.pw:8081/events4
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/19/9f/f8/8b/b8/8f/19f8b-lu20vitnamvsu20iranvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:45-07/03: U20 Việt Nam vs U20 Iran - VCK U20 châu Á 2023
+http://code.vthanhtivi.pw/list/mytvevent/7224/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/09/99/9f/f8/8b/b3/099f8-lu20qatarvsu20australiavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-07/03: U20 Qatar vs U20 Australia - VCK U20 châu Á 2023
+http://code.vthanhtivi.pw/list/mytvevent/7227/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/26/68/89/9e/ea/ac/2689e-llphchonmkhchmihoahunhthphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/03: Lớp Học Hoàn Mỹ: Khách mời Hoa Hậu Đỗ Nhật Hà - Phần 2
+http://code.vthanhtivi.pw/list/mytvevent/5850/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/33/3e/e5/58/85/5d/33e58-lu20iraqvsu20syriavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-07/03: U20 Iraq vs U20 Syria - VCK U20 châu Á 2023
+http://code.vthanhtivi.pw/list/mytvevent/7226/playlist.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://media.cdnandroid.com/item_images/1132810/imagen-phim-ma-i-phimmoi-net-0thumb.webp?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", Phimmoi
 http://103.75.186.169/b4tv/b4tv/5.m3u8
