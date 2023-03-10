@@ -175,7 +175,7 @@ https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1 tvg-id="cctv4k" group-title="📺| KÊNH 4K" tvg-logo="https://imgur.com/Lw4YbmM.jpg", CCTV 4K
 #EXTVLCOPT:http-user-agent="CloudTV"
-#http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
 #EXTINF:-1 tvg-id="" group-title="📺| KÊNH 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DIGI_4K.jpg", DIGI 4K
 #EXTVLCOPT:http-user-agent="CloudTV"
 
