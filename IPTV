@@ -200,7 +200,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 http://gg.gg/132p27
 #EXTINF:-1 tvg-id="vtc13hd" group-title="📺| KÊNH 4K" tvg-logo="https://i.ibb.co/G5K237j/VTC13-BEARTV.png", VTC13 4K
 http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-#EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" group-title="📺| KÊNH 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="8K频道",BTV纪实科教-8KSDR源
+#EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" group-title="📺| KÊNH 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg",BTV纪实科教-8KSDR源
 http://downlive.brtvcloud.com/jpegxs1510/8kzuiqingxi.m3u8
 
 
