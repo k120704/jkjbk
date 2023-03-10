@@ -1657,11 +1657,6 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dRfsGE6.png",CCTV4 Asia HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13.cn" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/KLykwVR.png",CCTV13 HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KxxvR2X.png",CNBC Asia-Pacific
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
@@ -2697,10 +2692,20 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227103/index.m3u8
 #EXTINF:-1 tvg-id="CGNTV.kr" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="🌏| Quốc tế",Christian Global Network Television
 https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
 
-#EXTINF:-1 tvg-id="cctv1hd" group-title="CCTV" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD
+#EXTINF:-1 tvg-id="cctv1hd" group-title="CCTV" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 SD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
-#EXTINF:-1 tvg-id="cctv2" group-title="CCTV" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 HD
+#EXTINF:-1 tvg-id="cctv1hd" group-title="CCTV" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD (Đợi 20s)
+#EXTVLCOPT:http-user-agent="CloudTV"
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
+
+
+#EXTINF:-1 tvg-id="cctv2" group-title="CCTV" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 SD
+
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv2_2/index.m3u8?BR=md&region=shanghai
+
+#EXTINF:-1 tvg-id="cctv2" group-title="CCTV" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 HD 
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
 
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv2_2/index.m3u8?BR=md&region=shanghai
 #EXTINF:-1 tvg-id="cctv3hd" group-title="CCTV" tvg-logo="http://gg.gg/12z5j8", CCTV3 HD
