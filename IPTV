@@ -2706,8 +2706,6 @@ https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv2_2/index.m3u8?BR=md&region=shangh
 
 #EXTINF:-1 tvg-id="cctv2" group-title="CCTV" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 HD 
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
-
-https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv2_2/index.m3u8?BR=md&region=shanghai
 #EXTINF:-1 tvg-id="cctv3hd" group-title="CCTV" tvg-logo="http://gg.gg/12z5j8", CCTV3 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 http://0.vylc.name.vn/CCTV3
