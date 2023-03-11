@@ -26,11 +26,11 @@ https://hqth.me/soco3
 https://hqth.me/soco4
 
 
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD
 http://vn2.vietanhtv.pw:8081/mytv804
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 1 UDP
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 1 UDP
 http://vn2.vietanhtv.pw:8081/events1
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 2 UDP
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 2 UDP
 http://vn2.vietanhtv.pw:8081/events2
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 3 UDP
 http://vn2.vietanhtv.pw:8081/events3
