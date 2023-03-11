@@ -26,24 +26,31 @@ https://hqth.me/soco3
 https://hqth.me/soco4
 
 
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://shopbongda.vn/wp-content/uploads/2020/08/1598679356_972_Ra-mat-Logo-FA-Cup-hoan-toan-moi-cua-Emirates.png", 804 HD
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD
 http://vn2.vietanhtv.pw:8081/mytv804
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 17h00-07/03: U20 Việt Nam vs U20 Iran (Lượt trận 3 Bảng B U20 Châu Á 2023)
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 1 UDP
 http://vn2.vietanhtv.pw:8081/events1
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 17h00-07/03: U20 Qatar vs U20 Úc (Lượt trận 3 Bảng B U20 Châu Á 2023)
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 2 UDP
 http://vn2.vietanhtv.pw:8081/events2
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 21h00-07/03: U20 Iraq vs U20 Syria (Lượt trận 3 Bảng A U20 Châu Á 2023)
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 3 UDP
 http://vn2.vietanhtv.pw:8081/events3
-#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", 21h00-07/03: U20 Uzbekistan vs U20 Indonesia (Lượt trận 3 Bảng A U20 Châu Á 2023)
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 4 UDP
 http://vn2.vietanhtv.pw:8081/events4
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/19/9f/f8/8b/b8/8f/19f8b-lu20vitnamvsu20iranvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:45-07/03: U20 Việt Nam vs U20 Iran - VCK U20 châu Á 2023
-http://code.vthanhtivi.pw/list/mytvevent/7224/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/09/99/9f/f8/8b/b3/099f8-lu20qatarvsu20australiavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-07/03: U20 Qatar vs U20 Australia - VCK U20 châu Á 2023
-http://code.vthanhtivi.pw/list/mytvevent/7227/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/26/68/89/9e/ea/ac/2689e-llphchonmkhchmihoahunhthphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-07/03: Lớp Học Hoàn Mỹ: Khách mời Hoa Hậu Đỗ Nhật Hà - Phần 2
-http://code.vthanhtivi.pw/list/mytvevent/5850/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/33/3e/e5/58/85/5d/33e58-lu20iraqvsu20syriavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-07/03: U20 Iraq vs U20 Syria - VCK U20 châu Á 2023
-http://code.vthanhtivi.pw/list/mytvevent/7226/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/14/46/60/0e/eb/be/1460e-lu20iranvsu20iraqvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-11/03: U20 Iran vs U20 Iraq - VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7262/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1f/f4/44/4b/be/e6/1f44b-lu20uzbekistanvsu20australiavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-11/03: U20 Uzbekistan vs U20 Australia - VCK U20 châu Á 2023
+http://code.vthanhtivi.pw/list/mytvevent/7263/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ef/f9/94/45/53/38/ef945-lbundesligavng24bayernmunichvsaugsburg-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-11/03: Bundesliga - Vòng 24: Bayern Munich vs Augsburg
+http://code.vthanhtivi.pw/list/mytvevent/7244/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/30/08/85/5a/a7/70/3085a-lbundesligavng24schalke04vsborussiadortmund-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-12/03: Bundesliga - Vòng 24: Schalke 04 vs Borussia Dortmund
+http://code.vthanhtivi.pw/list/mytvevent/7243/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a4/45/5e/e4/4c/ca/a45e4-lu20hnqucvsu20trungqucvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-12/03: U20 Hàn Quốc vs U20 Trung Quốc - VCK U20 châu Á 2023
+http://code.vthanhtivi.pw/list/mytvevent/7264/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/05/5e/e6/61/15/5b/05e61-lu20nhtbnvsu20jordanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-12/03: U20 Nhật Bản vs U20 Jordan - VCK U20 châu Á 2023
+http://code.vthanhtivi.pw/list/mytvevent/7265/playlist.m3u8
+
+
+
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://media.cdnandroid.com/item_images/1132810/imagen-phim-ma-i-phimmoi-net-0thumb.webp?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", Phimmoi
 http://103.75.186.169/b4tv/b4tv/5.m3u8
