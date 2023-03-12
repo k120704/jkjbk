@@ -8,13 +8,13 @@ http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD MyTV
 https://iplogger.com/FA-CUP
 
-#EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://img.upanh.tv/2023/03/13/58377146_2225647697696157_1230129116619997184_n17c9b92eb2ef0938.png", 90p 1
+#EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://i.imgur.com/8EsIOJx.png", 90p 1
 https://hqth.me/90p1
-#EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://img.upanh.tv/2023/03/13/58377146_2225647697696157_1230129116619997184_n17c9b92eb2ef0938.png", 90p 2
+#EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://i.imgur.com/8EsIOJx.png", 90p 2
 https://hqth.me/90p2
-#EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://img.upanh.tv/2023/03/13/58377146_2225647697696157_1230129116619997184_n17c9b92eb2ef0938.png", 90p 3
+#EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://i.imgur.com/8EsIOJx.png", 90p 3
 https://hqth.me/90p3
-#EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://img.upanh.tv/2023/03/13/58377146_2225647697696157_1230129116619997184_n17c9b92eb2ef0938.png", 90p 4
+#EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://i.imgur.com/8EsIOJx.png", 90p 4
 https://hqth.me/90p4
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://yt3.googleusercontent.com/4cQMJa2x9GQ_QXzlk36KVm20LIUEHJvLD79sJNgS_S65S2n20Ru3NWGEVnzOHfs8gErg7_xlhA=s176-c-k-c0x00ffffff-no-rj", Socolive 1
 https://hqth.me/soco1
