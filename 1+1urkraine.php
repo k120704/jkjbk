@@ -1,18 +1,12 @@
 <?php
-// Get the HTML content of the webpage
-$html = file_get_contents('https://1plus1.video/tvguide/1plus1ukr/online');
+// Get the content of the M3U8 playlist file
+$m3u8Url = 'https://live-k2303-kbp.1plus1.video/live/1678717297/8BwfhuaWn-MuLhxXPjUtUQ/189931/smil:189931.smil/chunklist_b6328000.m3u8';
+$m3u8Content = file_get_contents($m3u8Url);
 
-// Create a new DOMDocument object and load the HTML content
-$dom = new DOMDocument();
-$dom->loadHTML($html);
+// Extract the URL of the first video segment
+$segmentUrls = explode("\n", $m3u8Content);
+$firstSegmentUrl = trim($segmentUrls[2]);
 
-// Use XPath to find the video element by its class or ID attribute
-$xpath = new DOMXPath($dom);
-$videoElement = $xpath->query("//video[@class='jw-video jw-reset']")->item(0);
-
-// Retrieve the source URL of the video element
-$videoUrl = $videoElement->getAttribute('src');
-
-// Output the video URL
-echo $videoUrl;
+// Output the video segment URL (you can use this URL to play the video)
+echo $firstSegmentUrl;
 ?>
