@@ -1,0 +1,2 @@
+git clone https://github.com/ytdl-org/youtube-dl.git
+./youtube-dl -f best -o - "https://www.youtube.com/watch?v=ASndlvhI8p0" | ffmpeg -i pipe:0 -codec copy -bsf:v h264_mp4toannexb -hls_time 10 -hls_list_size 6 -hls_wrap 10 "UAFreedom.m3u8"
