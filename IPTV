@@ -2769,3 +2769,39 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="🇷🇺| Nga và khối SNG",Салям
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzOTk4NzQtZjBhZC00YzM3LTgyMGUtNWJkMzIyMzVkZTdkXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_FMjpg_UY2048_.jpg", Nhân Danh Thần Linh: Sự Phản Bội Thiêng Liêng tập 1
+https://hd.hdbophim.com/20230304/32535_81786cde/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzOTk4NzQtZjBhZC00YzM3LTgyMGUtNWJkMzIyMzVkZTdkXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_FMjpg_UY2048_.jpg", Nhân Danh Thần Linh: Sự Phản Bội Thiêng Liêng tập 2
+https://hd.hdbophim.com/20230304/32536_c452b8ce/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzOTk4NzQtZjBhZC00YzM3LTgyMGUtNWJkMzIyMzVkZTdkXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_FMjpg_UY2048_.jpg", Nhân Danh Thần Linh: Sự Phản Bội Thiêng Liêng tập 3
+https://hd.hdbophim.com/20230304/32537_779271c8/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzOTk4NzQtZjBhZC00YzM3LTgyMGUtNWJkMzIyMzVkZTdkXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_FMjpg_UY2048_.jpg", Nhân Danh Thần Linh: Sự Phản Bội Thiêng Liêng tập 4
+https://hd.hdbophim.com/20230304/32538_43f8fd00/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzOTk4NzQtZjBhZC00YzM3LTgyMGUtNWJkMzIyMzVkZTdkXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_FMjpg_UY2048_.jpg", Nhân Danh Thần Linh: Sự Phản Bội Thiêng Liêng tập 5
+https://hd.hdbophim.com/20230304/32539_6e396277/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzOTk4NzQtZjBhZC00YzM3LTgyMGUtNWJkMzIyMzVkZTdkXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_FMjpg_UY2048_.jpg", Nhân Danh Thần Linh: Sự Phản Bội Thiêng Liêng tập 6
+https://hd.hdbophim.com/20230304/32540_248b487f/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzOTk4NzQtZjBhZC00YzM3LTgyMGUtNWJkMzIyMzVkZTdkXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_FMjpg_UY2048_.jpg", Nhân Danh Thần Linh: Sự Phản Bội Thiêng Liêng tập 7
+https://hd.hdbophim.com/20230304/32541_935bb990/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDkzOTk4NzQtZjBhZC00YzM3LTgyMGUtNWJkMzIyMzVkZTdkXkEyXkFqcGdeQXVyNjk1NzU1Mjk@._V1_FMjpg_UY2048_.jpg", Nhân Danh Thần Linh: Sự Phản Bội Thiêng Liêng tập Cuối
+https://hd.hdbophim.com/20230304/32542_f9d69647/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://motchill1.com/wp-content/uploads/2023/03/The-Glory-Phan-2.jpg", Vinh Quang Trong Thù Hận (Phần 2) Tập 1
+https://kd.hd-bophim.com/20230310/33580_0afd1917/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://motchill1.com/wp-content/uploads/2023/03/The-Glory-Phan-2.jpg", Vinh Quang Trong Thù Hận (Phần 2) Tập 2
+https://kd.hd-bophim.com/20230310/33581_8691dd52/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://motchill1.com/wp-content/uploads/2023/03/The-Glory-Phan-2.jpg", Vinh Quang Trong Thù Hận (Phần 2) Tập 3
+https://kd.hd-bophim.com/20230310/33579_77a60f32/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://motchill1.com/wp-content/uploads/2023/03/The-Glory-Phan-2.jpg", Vinh Quang Trong Thù Hận (Phần 2) Tập 4
+https://kd.hd-bophim.com/20230310/33582_5c4720a7/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://motchill1.com/wp-content/uploads/2023/03/The-Glory-Phan-2.jpg", Vinh Quang Trong Thù Hận (Phần 2) Tập 5
+https://kd.hd-bophim.com/20230310/33583_92e434ce/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://motchill1.com/wp-content/uploads/2023/03/The-Glory-Phan-2.jpg", Vinh Quang Trong Thù Hận (Phần 2) Tập 6
+https://kd.hd-bophim.com/20230310/33584_c2d3f6c0/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://motchill1.com/wp-content/uploads/2023/03/The-Glory-Phan-2.jpg", Vinh Quang Trong Thù Hận (Phần 2) Tập 7
+https://kd.hd-bophim.com/20230310/33585_cc97d0eb/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="Film Netflix" tvg-logo="https://motchill1.com/wp-content/uploads/2023/03/The-Glory-Phan-2.jpg", Vinh Quang Trong Thù Hận (Phần 2) Tập Cuối
+https://kd.hd-bophim.com/20230310/33586_fc740a8d/3000k/hls/mixed.m3u8
+
+
+
