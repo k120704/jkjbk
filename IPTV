@@ -2695,40 +2695,53 @@ https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-id="cctv1hd" group-title="CCTV" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD (Đợi 20s)
 #EXTVLCOPT:http-user-agent="CloudTV"
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8
-
-
+https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="cctv2" group-title="CCTV" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 SD
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv2_2/index.m3u8?BR=md&region=shanghai
 #EXTINF:-1 tvg-id="cctv2" group-title="CCTV" tvg-logo="https://i.ibb.co/2F7dpnF/cctv2-BEARTV.png", CCTV2 HD 
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="cctv3hd" group-title="CCTV" tvg-logo="http://gg.gg/12z5j8", CCTV3 HD
-#EXTVLCOPT:http-user-agent="CloudTV"
 http://0.vylc.name.vn/CCTV3
+#EXTINF:-1 tvg-id="cctv3hd" group-title="CCTV" tvg-logo="http://gg.gg/12z5j8", CCTV3 HD (sv2)
+https://api.olelive.com/dis/live/CCTV3HD/hls.m3u8
 #EXTINF:-1 tvg-id="cctv4hd" group-title="CCTV" tvg-logo="http://gg.gg/12z5id", CCTV4 HD
-#EXTVLCOPT:http-user-agent="CloudTV"
 http://0.vylc.name.vn/CCTV4
+#EXTINF:-1 tvg-id="cctv4hd" group-title="CCTV" tvg-logo="http://gg.gg/12z5id", CCTV4 HD
+https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" group-title="CCTV" tvg-logo="http://gg.gg/12z5id",CCTV4 Asia HD
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV",CCTV-5 高清
 #EXTVLCOPT:http-user-agent="CloudTV"
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
+https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="CCTV" tvg-logo="https://tiny.one/cctv5", CCTV-5 高清 (sv2)
 #http://0.vylc.name.vn/CCTV5
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV",CCTV5+ 高清
 #EXTVLCOPT:http-user-agent="CloudTV"
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="CCTV" tvg-logo="https://tiny.one/cctv5p", CCTV5+ 高清 (sv2)
+#EXTINF:-1 tvg-id="cctv6hd" group-title="CCTV" tvg-logo="https://tiny.one/cctv5p", CCTV5+ 高清 (sv2)
 #http://0.vylc.name.vn/CCTV5p
-#EXTINF:-1 tvg-id="cctv7hd" group-title="CCTV" tvg-logo="http://gg.gg/12z5ip", CCTV7 HD
+#EXTINF:-1 tvg-id="cctv6hd" group-title="CCTV" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6", CCTV6 HD
+https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 tvg-id="cctv6hd" group-title="CCTV" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7", CCTV7 HD (sv1)
+https://api.olelive.com/dis/live/CCTV7HD/hls.m3u8
+#EXTINF:-1 tvg-id="cctv7hd" group-title="CCTV" tvg-logo="http://gg.gg/12z5ip", CCTV7 HD (sv2)
 #EXTVLCOPT:http-user-agent="CloudTV"
 http://0.vylc.name.vn/CCTV7
-#EXTINF:-1 tvg-id="cctv13hd" group-title="CCTV" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 HD
+#EXTINF:-1 tvg-id="cctv8hd" group-title="CCTV" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV8", CCTV8 HD
+https://api.olelive.com/dis/live/CCTV8HD/hls.m3u8
+#EXTINF:-1 tvg-id="cctv9hd" group-title="CCTV" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9", CCTV9 HD
+https://api.olelive.com/dis/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 tvg-id="cctv9hd" group-title="CCTV" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV10", CCTV10 HD
+https://api.olelive.com/dis/live/CCTV10HD/hls.m3u8
+#EXTINF:-1 tvg-id="cctv11hd" group-title="CCTV" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV12", CCTV12 HD
+https://api.olelive.com/dis/live/CCTV12HD/hls.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" group-title="CCTV" tvg-logo="https://i.imgur.com/GGHckoY.png",CCTV13 HD
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
-#EXTINF:-1 tvg-id="CCTV13.cn" group-title="CCTV" tvg-logo="https://i.imgur.com/GGHckoY.png",CCTV13 HD
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" group-title="CCTV" tvg-logo="https://i.imgur.com/GGHckoY.png",CCTV13 HD(sv2)
+https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
+
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV",CCTV-16 高清
 #EXTVLCOPT:http-user-agent="CloudTV"
 http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
