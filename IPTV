@@ -2080,8 +2080,10 @@ https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 shttps://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-culture-radio.svg", РАДИО КУЛЬТУРА FM
 https://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-u.svg", РАДИО ЮНОСТЬ FM
-https://icecast-vgtrk.cdnvideo.ru/unost_mp3_128kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vesti22.tv/upload/iblock/835/8351d0d86b5106fcf5d036a95f08f7a0.png", Heart FM (Nga)
+https://icecast.gtrk22.ru:8443/heartfm
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdnn1.img.sputniknewslv.com/i/logo/logo.svg", Sputnik FM (Thổ Nhĩ Kỳ)
+https://icecast-rian.cdnvideo.ru/voicestm
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdnn1.img.sputniknewslv.com/i/logo/logo.svg", Sputnik FM (Nga)
 https://icecast-rian.cdnvideo.ru/voicerus
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdnn1.img.sputniknewslv.com/i/logo/logo.svg", Sputnik FM (Anh)
@@ -2105,6 +2107,7 @@ https://stream.zeno.fm/8456uy0bcm0uv
 https://stream.zeno.fm/a2dbs2tq1p8uv
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9zzhAgMogEEemVubw/image/", Radio Nhạc Xuân
 https://stream.zeno.fm/hvtxgd85rm0uv
+
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg", Zing MP3 - On Air
 https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8
@@ -2306,13 +2309,10 @@ https://cdn6.goprimetime.info/feed/202205171929/chpptvhd3/index.m3u8
 
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Gốc)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Đức) 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал(Rutube) 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://hqth.me/rutube
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/I1puHKA.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
@@ -2335,16 +2335,24 @@ https://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v3a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 SD (Ok.ru)
-https://vsd63.mycdn.me/hls/3151981054652.m3u8/sig/R_KUgykjAC8/expires/1675789255853/srcIp/123.16.54.123/urls/185.226.52.64/clientType/0/srcAg/CHROME/mid/4245710511804/video.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 SD 
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 HD
 http://109.200.130.123:7025/play/a00j
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия PTP
 http://109.200.130.123:7025/play/a00j
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/Qebn4Ud.png",Россия К
-https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201&ext=.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Сибирь 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_sdmid.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Сибирь 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/kavkaz/region/playlist_vtt.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
