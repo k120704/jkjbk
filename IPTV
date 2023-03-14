@@ -734,20 +734,18 @@ https:///e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8|Ref
 
 #-*--Kẹo-*--#
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 FHD (Vieon) (Thử nghiệm)
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_sport_1_22_08_2021.smil/manifest_2.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 FHD 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 FHD (FPT Play) (Thử nghiệm)
 http://103.75.186.169/b4tv/b4tv/2.m3u8
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 (FPT Play) (Thử nghiệm)
 http://103.75.186.169/b4tv/b4tv/6.m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (Vieon) (Thử nghiệm)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (FPT Play) (Thử nghiệm)
+http://103.75.186.169/b4tv/b4tv/7.m3u8
 
 
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png", K+ Life FHD (Vieon) (Thử nghiệm)
-
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png", K+ Life FHD (FPT Play) (Thử nghiệm)
+http://103.75.186.169/b4tv/b4tv/8.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (VTVCab)
 https://live1onsport.vtvcab.vn/K_CINE_6962/manifest.mpd
@@ -755,8 +753,6 @@ https://live1onsport.vtvcab.vn/K_CINE_6962/manifest.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png", K+ Life  HD (VTVCab)
 https://live1onsport.vtvcab.vn/K_LIFE_6962/manifest.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids (Vieon) (Thử nghiệm)
-https://livecdn-global-vnd.vieon.vn/wz/livetv_origin_drm/kplus_kid_22_08_2021.smil/manifest_2.m3u8
 
 
 
