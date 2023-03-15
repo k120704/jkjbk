@@ -27,15 +27,15 @@ https://hqth.me/soco4
 
 
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD
-http://vn2.vietanhtv.pw:8081/mytv804
+http://103.56.160.133:8081/mytv804
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 1 UDP
-http://vn2.vietanhtv.pw:8081/events1
+http://103.56.160.133:8081/event1
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 2 UDP
-http://vn2.vietanhtv.pw:8081/events2
+http://103.56.160.133:8081/event2
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 3 UDP
-http://vn2.vietanhtv.pw:8081/events3
+http://103.56.160.133:8081/event3
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 4 UDP
-http://vn2.vietanhtv.pw:8081/events4
+http://103.56.160.133:8081/event4
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/eb/b9/99/95/59/99/eb995-lu20uzbekistanvsu20hnqucbnkt2vcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-15/03: U20 Uzbekistan vs U20 Hàn Quốc - Bán kết 2 VCK U20 châu Á 2023
 https://code.vthanhtivi.pw/list/mytvevent/7282/playlist.m3u8
 
