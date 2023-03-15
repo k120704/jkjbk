@@ -2345,14 +2345,19 @@ http://109.200.130.123:7025/play/a00j
 http://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/19201&ext=.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Сибирь 24
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/358/507/4.png",Восток 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/358/507/5.png",Сибирь 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Сибирь 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_sdmid.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Сибирь 24
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/366/961/7.png",Башкортостан 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Сибирь 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/kavkaz/region/playlist_vtt.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/hd/344/652/9.png",Самара 24
+https://vgtrkregion.cdnvideo.ru/vgtrk/samara/regionHD/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/349/419/0.png",Нижний Новгород 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/344/024/9.png",Запад 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2361,7 +2366,7 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/kavkaz/region/playlist_vtt.m3u8
 http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd?checkedby:iptvcat.net
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВЦ Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s54/04.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/BdmmHS9.png",РЕН Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s85/04.m3u8
@@ -2446,7 +2451,7 @@ https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/lFwhJJU.png",Между.Net
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/HI1f5Ve.png",Москва 24
-http://188.191.160.238:9099/channel/Moskva_24.ts
+https://vgtrksmotrim.cdnvideo.ru/hls/moscow_24/playlist.m3u8?md5=xCyAATznKpiBkS8iK-ggBA&e=1678845780
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/hLD874K.jpg",Вечерняя Москва HD
 https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",Сочи 24 ТВ HD
