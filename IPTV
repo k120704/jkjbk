@@ -6,7 +6,7 @@ https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
 http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD MyTV
-https://iplogger.com/FA-CUP
+http://103.56.160.133:8081/mytv804
 
 #EXTINF:-1 group-title="🔴| Livestream| Bình loạn bóng đá" tvg-logo="https://i.imgur.com/E615qmd.png", 90p 1
 https://hqth.me/90p1
@@ -36,18 +36,8 @@ http://vn2.vietanhtv.pw:8081/events2
 http://vn2.vietanhtv.pw:8081/events3
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 4 UDP
 http://vn2.vietanhtv.pw:8081/events4
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/14/46/60/0e/eb/be/1460e-lu20iranvsu20iraqvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-11/03: U20 Iran vs U20 Iraq - VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7262/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1f/f4/44/4b/be/e6/1f44b-lu20uzbekistanvsu20australiavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-11/03: U20 Uzbekistan vs U20 Australia - VCK U20 châu Á 2023
-http://code.vthanhtivi.pw/list/mytvevent/7263/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ef/f9/94/45/53/38/ef945-lbundesligavng24bayernmunichvsaugsburg-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-11/03: Bundesliga - Vòng 24: Bayern Munich vs Augsburg
-http://code.vthanhtivi.pw/list/mytvevent/7244/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/30/08/85/5a/a7/70/3085a-lbundesligavng24schalke04vsborussiadortmund-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-12/03: Bundesliga - Vòng 24: Schalke 04 vs Borussia Dortmund
-http://code.vthanhtivi.pw/list/mytvevent/7243/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a4/45/5e/e4/4c/ca/a45e4-lu20hnqucvsu20trungqucvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-12/03: U20 Hàn Quốc vs U20 Trung Quốc - VCK U20 châu Á 2023
-http://code.vthanhtivi.pw/list/mytvevent/7264/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/05/5e/e6/61/15/5b/05e61-lu20nhtbnvsu20jordanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-12/03: U20 Nhật Bản vs U20 Jordan - VCK U20 châu Á 2023
-http://code.vthanhtivi.pw/list/mytvevent/7265/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/eb/b9/99/95/59/99/eb995-lu20uzbekistanvsu20hnqucbnkt2vcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-15/03: U20 Uzbekistan vs U20 Hàn Quốc - Bán kết 2 VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7282/playlist.m3u8
 
 
 
