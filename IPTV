@@ -2325,7 +2325,7 @@ http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.net
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 SD 
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 HD
-http://109.200.130.123:7025/play/a00j
+https://hqth.me/Rossiya_1_HD
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://www.gtrk-vyatka.ru/uploads/gtrk/vyatka24.jpg",Вятка 24 HD
 https://vsd63.mycdn.me/hls/1083110394556.m3u8/sig/aqXJPL2dG_s/expires/1678932078521/srcIp/118.70.211.226/urls/45.136.20.47/clientType/0/srcAg/CHROME/mid/2328067514044/video.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия PTP
