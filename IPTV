@@ -28,14 +28,7 @@ https://hqth.me/soco4
 
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD
 http://103.56.160.133:8081/mytv804
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 1 UDP
-http://103.56.160.133:8081/event1
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 2 UDP
-http://103.56.160.133:8081/event2
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 3 UDP
-http://103.56.160.133:8081/event3
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/2023_AFC_U-20_Asian_Cup.png", FPT Sự Kiện 4 UDP
-http://103.56.160.133:8081/event4
+
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/eb/b9/99/95/59/99/eb995-lu20uzbekistanvsu20hnqucbnkt2vcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-15/03: U20 Uzbekistan vs U20 Hàn Quốc - Bán kết 2 VCK U20 châu Á 2023
 https://code.vthanhtivi.pw/list/mytvevent/7282/playlist.m3u8
 
@@ -66,7 +59,14 @@ http://code.vthanhtivi.pw/getlink/onplus/ONSPORT9/m30_index.m3u8
 http://code.vthanhtivi.pw/getlink/onplus/ONSPORT10/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+
 http://live-zlr2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
-
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://fpt.com.vn/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg", FPT Sự Kiện 1 UDP
+http://103.56.160.133:8081/event1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://fpt.com.vn/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg", FPT Sự Kiện 2 UDP
+http://103.56.160.133:8081/event2
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://fpt.com.vn/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg", FPT Sự Kiện 3 UDP
+http://103.56.160.133:8081/event3
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://fpt.com.vn/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg", FPT Sự Kiện 4 UDP
+http://103.56.160.133:8081/event4
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
@@ -713,16 +713,20 @@ https:///e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/s1/index.m3u8|Ref
 #-*--Kẹo-*--#
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 FHD (FPT Play) (Thử nghiệm)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r_ps9LrSIg_LN4z7ebnzwkM/m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 (FPT Play) (Thử nghiệm)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-rw0VOWDNqQG4kavALwy6ANU/m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (FPT Play) (Thử nghiệm)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r9FFxHYlepbWy7K0C050yos/m3u8
 
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/86.png", K+ Life FHD (FPT Play) (Thử nghiệm)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r4iwK3IwSaraQwtjSTvKzOc/m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="http://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (VTVCab)
@@ -732,6 +736,7 @@ https://live1onsport.vtvcab.vn/K_CINE_6962/manifest.mpd
 https://live1onsport.vtvcab.vn/K_LIFE_6962/manifest.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids FHD (FPT Play) (Thử nghiệm)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://xui.tivifree.ml:80/play/ArVmFgfekwkGLVUQXh1-r5WwxxPbcOAQK7cz_IlVJig/m3u8
 
 
