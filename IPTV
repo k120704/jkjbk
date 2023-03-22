@@ -26,13 +26,6 @@ https://hqth.me/soco3
 https://hqth.me/soco4
 
 
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://vnpt.com.vn/Media/Images/03012020/Logo%20MyTV.jpg?w=500&mode=crop", 804 HD
-http://103.56.160.133:8081/mytv804
-
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/eb/b9/99/95/59/99/eb995-lu20uzbekistanvsu20hnqucbnkt2vcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-15/03: U20 Uzbekistan vs U20 Hàn Quốc - Bán kết 2 VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7282/playlist.m3u8
-
-
 
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://media.cdnandroid.com/item_images/1132810/imagen-phim-ma-i-phimmoi-net-0thumb.webp?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ue7WMnWNYs8AX_mxLdF&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBK-Kh8Zi4p1XqqIVm8IaA71Z5qVtxeICrUSRB-qikjww&oe=63FE40BD", Phimmoi
@@ -57,8 +50,20 @@ http://code.vthanhtivi.pw/getlink/onplus/ONSPORT8/m30_index.m3u8
 http://code.vthanhtivi.pw/getlink/onplus/ONSPORT9/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 10
 http://code.vthanhtivi.pw/getlink/onplus/ONSPORT10/m30_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png", TV360+
-http://live-zlr2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 10
+http://code.vthanhtivi.pw/getlink/onplus/ONSPORT10/m30_index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://yt3.googleusercontent.com/o0aIR3C3jIMXrgcd45WaGeLCrCXUx4ec193TMNgSspwRi37f_1kH0mJiwyEVxOCNMFoHXDmcqQ=s176-c-k-c0x00ffffff-no-rj", ON Gaming A
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679527348/ei/VDkbZMfFH8KjlQTPh4K4Dg/ip/27.73.99.65/id/WJxtJHdexEc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIhk_wY260YyY-QG_NR8cIvG0MV6jxu560VsABLPfS7DAiEA51ejhXHuPbEEaGuktdDgYOEWnFSmBEBVKWN4FMitAUI%3D/file/index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://yt3.googleusercontent.com/o0aIR3C3jIMXrgcd45WaGeLCrCXUx4ec193TMNgSspwRi37f_1kH0mJiwyEVxOCNMFoHXDmcqQ=s176-c-k-c0x00ffffff-no-rj", ON Gaming N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679527377/ei/cTkbZIiKBYj64gKwhbOoAw/ip/27.73.99.65/id/OfHhDtr2Cik.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZ0ROJKMtzg5Z5Rjh9P-t4Vi2nPm3HLV4_gtbIVmdf84CIQCqLqGg5ditk_g9Czl5YFWbb50WZTshg_yFZ6bzl24rQA%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_640_360.png", TV360 + 1
+https://code.vthanhtivi.pw/getlink/tv360/2554/3.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_640_360.png", TV360 + 2
+https://code.vthanhtivi.pw/getlink/tv360/1/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png", TV360 + 3
+https://code.vthanhtivi.pw/getlink/tv360/148/1.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360 + 4
+http://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://fpt.com.vn/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg", FPT Sự Kiện 1 UDP
 http://103.56.160.133:8081/event1
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://fpt.com.vn/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg", FPT Sự Kiện 2 UDP
@@ -2473,10 +2478,83 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn.teleon.tv/logo/belarus-3-transparent.png",Беларусь 3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.stream_720p.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn.teleon.tv/logo/belarus-24-transparent.png",Беларусь 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn.teleon.tv/logo/belros-transparent.png",БелРос
 https://live3.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 tvg-id="xabar24" group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/x89nJgB.png",Хабар 24 HD
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.imgur.com/rsYbFE8.png" group-title="Tây Á",Каббала ТВ
+http://edge3.uk.kab.tv/live/tv66-rus-high/chunks.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/aFy3soi.png",Առաջին Ալիք HD
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="H2.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/fMOopjK.png",Հ2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1 tvg-id="ShantTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/tUQ8vQT.png",Շանթ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/EqkF0O8.jpg",Արմենիա
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 tvg-id="KentronTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/SrHncfk.png",Կենտրոն
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 tvg-id="5TVArmenia.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/TejnGpV.jpg",5-րդ ալիք
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 tvg-id="YerkirMediaTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/FKpxkVH.png",Երկիր Մեդիա
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 tvg-id="atv-armenia" group-title="Tây Á" tvg-logo="https://i.imgur.com/A3bmTWO.png",ATV Armenia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 tvg-id="21TV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/NV6ZeW9.png",Դար 21
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 tvg-id="ArmNews.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/0vrFGY5.png",Արմնյուզ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 tvg-id="NorHayastanTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/EmOsMTC.png",Նոր Հայաստան
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 tvg-id="ShoghakatTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/e4VxCnn.png",Շողակաթ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaPremium.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/IxOFvqz.png",Armenia Premium
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaHayKino.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/XwbLfqd.png",Հայ Կինո
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaJanTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/AhX46e5.png",Ջան TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaKomedi.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/pvF7dGN.png",Քոմեդի
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTownTownik.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/XjhkUXy.png",Տուն Թունիկ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaSinemaks.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/fRfGuQg.png",Սինեմաքս
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 tvg-id="ATVTavaTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/cndJCRU.png",Թավա TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 tvg-id="ATVKhaghaliqTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/mrfm9uY.png",ԽաղԱլիք TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 tvg-id="ATVKinoman.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/lidNHkH.png",Կինոման TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 tvg-id="ATVHayTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/KCkzU5R.png",Հայ TV 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 tvg-id="ATVFilmzone.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/uWBrDpV.png",Ֆիլմզոն
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s48/index.m3u8
 #EXTINF:-1 group-title="🎧| MTV/FTV" tvg-logo="http://gg.gg/12z90j",MTV India
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2474
 #EXTINF:-1 group-title="🎧| MTV/FTV" tvg-logo="http://gg.gg/12z90d",MTV Beats
