@@ -2819,12 +2819,18 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 https://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1063281032.m3u8
 #EXTINF:-1 tvg-id="" group-title="Hong Kong" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/phoenix-infonews-live-vipotv-china.png", PHOENIX INFONEWS
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="Hong Kong" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/phoenix-infonews-live-vipotv-china.png",PHOENIX INFONEWS HD
+http://0.vylc.name.vn/phxinfo
 #EXTINF:-1 tvg-id=""group-title="Hong Kong" tvg-logo="https://vipotv.com/wp-content/uploads/2022/09/RTHK-32-live-vipotv-china.png", RTHK 32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Hong Kong" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/goodtv-vipotv.png", GOOD TV 1
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Hong Kong" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/goodtv2-vipotv.png", GOOD TV 2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+#EXTINF:-1 group-title="Hong Kong" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/1200px-Phoenix_Chinese.svg.png",Phoenix TV
+http://0.vylc.name.vn/phxcn
+
+
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/pWWjld2.png",CLUBBING TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
