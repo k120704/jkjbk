@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/vagroup_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/vagroup_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,http://0.vylc.name.vn:8080/xmltv/channels"
 
 #-*-- Livestream -*--#
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
@@ -1025,11 +1025,6 @@ https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="https://i.imgur.com/dsACYxF.png",Bein Sport Xtra Espanol Plain
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12y8c8",Bein Sport 2 Max
-
-#EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12ytng",Bein Sport 3 Max
-
-#EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12ytnn",Bein Sport 4 Max
 
 
 #-*--THỂ THAO-*--#
@@ -1067,16 +1062,13 @@ http://xcui.vitvabc.xyz:8880/287994003501/287994003501/16725
 #EXTINF: group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12zfie",ESPN4 HD
 http://xcui.vitvabc.xyz:8880/287994003501/287994003501/31148
 #http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/31148.m3u8
-#EXTINF: group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/1304eo",ESPN Extra HD
+
 
 
 #EXTINF: group-title="🏆| Thể Thao Nước Ngoài" tvg logo="http://gg.gg/12zfit",ESPN2 US
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/272119
 #EXTINF: group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12zfie",ESPN4 US
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/272121
-#EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12wxeu",Star Sports Select 1
-
-#EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12wxfu",Star Sports Select 2
 
 #EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12wxeu",Star Sports Select 1 sv1
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82628
@@ -1089,15 +1081,7 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3631
 #EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="http://gg.gg/12ygmq",Star Sports 3
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/62584
 
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🏆| Thể Thao Nước Ngoài",CCTV-5 高清
-#EXTVLCOPT:http-user-agent="CloudTV"
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🏆| Thể Thao Nước Ngoài",CCTV5+ 高清
-#EXTVLCOPT:http-user-agent="CloudTV"
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🏆| Thể Thao Nước Ngoài",CCTV-16 高清
-#EXTVLCOPT:http-user-agent="CloudTV"
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
+
 
   
 #EXTINF:-1 group-title="🏆| Thể Thao Nước Ngoài" tvg-logo="https://i.ibb.co/X76FGhP/SPOTV.png",SPOTV1
@@ -2854,6 +2838,129 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="🇷🇺| Nga và khối SNG",Салям
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
+http://0.vylc.name.vn/BBC1
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+http://0.vylc.name.vn/BBC2
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png",ITV
+http://0.vylc.name.vn/ITV
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Channel_4_logo_2015.svg/1200px-Channel_4_logo_2015.svg.png",Channel 4
+http://0.vylc.name.vn/channel4
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Channel_5_Logo_2016_SVG.svg/1200px-Channel_5_Logo_2016_SVG.svg.png",Channel 5
+http://0.vylc.name.vn/channel5
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CBBC_%282022%29.svg/1200px-CBBC_%282022%29.svg.png",CBBC
+http://0.vylc.name.vn/CBBC
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+http://0.vylc.name.vn/bbcnews
+
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1200px-BBC_Parliament_Logo.svg.png",BBC Parliament
+https://origin-fra14-cf.pzaz.tv/live/parliament/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png",ITV2
+http://0.vylc.name.vn/ITV2
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png",ITV3
+http://0.vylc.name.vn/ITV3
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png",ITV4
+https://origin-fra14-cf.pzaz.tv/live/itv4/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Channel_4_2022.svg/665px-Channel_4_2022.svg.png",Channel 4
+https://origin-fra14-cf.pzaz.tv/live/ch4-hd/tracks-v3a1/mono.m3u8 
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Channel_5_%28UK%29_2016.svg/800px-Channel_5_%28UK%29_2016.svg.png",Channel 5
+https://origin-fra01-cf.pzaz.tv/live/channel-5-hd/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png",STV
+http://0.vylc.name.vn/STV
+#EXTINF:-1 group-title="Quốc tế | Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+http://0.vylc.name.vn/SkyNews
+
+#------Đức------#
+#EXTINF:-1 group-title="Quốc tế | Đức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Das_Erste-Logo_klein.svg/1200px-Das_Erste-Logo_klein.svg.png",Das Erste
+http://0.vylc.name.vn/DasErste
+#EXTINF:-1 group-title="Quốc tế | Đức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
+http://0.vylc.name.vn/ZDF
+#EXTINF:-1 group-title="Quốc tế | Đức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png",RTL
+http://0.vylc.name.vn/RTL
+
+
+#------Ý------#
+#EXTINF:-1 group-title="Quốc tế | Ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png",Rai 1
+http://0.vylc.name.vn/Rai1
+#EXTINF:-1 group-title="Quốc tế | Ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png",Rai 2
+http://0.vylc.name.vn/Rai2
+#EXTINF:-1 group-title="Quốc tế | Ý" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png",Rai 3
+http://0.vylc.name.vn/Rai3
+
+#------Thổ------#
+#EXTINF:-1 group-title="Quốc tế | Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/640px-TRT_1_logo_%282021-%29.svg.png",TRT1
+http://0.vylc.name.vn/TRT1
+#EXTINF:-1 group-title="Quốc tế | Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/1200px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber
+http://0.vylc.name.vn/TRT_Haber
+#EXTINF:-1 group-title="Quốc tế | Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/2560px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
+http://0.vylc.name.vn/TRT_Turk
+#EXTINF:-1 group-title="Quốc tế | Thổ Nhĩ Kỳ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/2560px-TRT_Spor_logo_%282022%29.svg.png",TRT Spor
+http://0.vylc.name.vn/TRTSpor
+
+#----------------Poland-----------------
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png",TVP 1
+http://0.vylc.name.vn/TVP1
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png",TVP 2
+http://0.vylc.name.vn/TVP2
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png",TVP 3
+http://0.vylc.name.vn/TVP3
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png",TVP HD
+http://0.vylc.name.vn/TVPHD
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png",TVP Info
+http://0.vylc.name.vn/TVPInfo
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport
+http://0.vylc.name.vn:8080/stream/channelid/1560768115
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png" tvg-id="PolsatNews.pl",Polsat News
+http://0.vylc.name.vn/PolsatNews
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-id="PolsatSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/800px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+http://0.vylc.name.vn:8080/stream/channelid/701074256
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+http://0.vylc.name.vn:8080/stream/channelid/842661572
+#EXTINF:-1 group-title="Quốc tế | Ba Lan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Polsat_Sport_News_2021_gradient.svg/1280px-Polsat_Sport_News_2021_gradient.svg.png",Polsat Sport News
+http://0.vylc.name.vn:8080/stream/channelid/1209045940
+
+#----------------USA-----------------
+#EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="NBCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/800px-NBC_logo.svg.png",NBC
+http://0.vylc.name.vn/NBC
+#EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="CBSEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/2560px-CBS_logo.svg.png",CBS
+http://0.vylc.name.vn/CBS
+#EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="ABCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/1200px-ABC_%282013%29_Dark_Grey.svg.png",ABC
+http://0.vylc.name.vn/ABC
+#EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="FoxEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1200px-FOX_wordmark-red_2.svg.png",FOX
+http://0.vylc.name.vn/FOX
+#EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="ESPN.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/e748f3c0-3f7c-3088-a90a-0ccb2588e0ed.png",ESPN US
+http://0.vylc.name.vn/ESPN
+#EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="ESPN2.us" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png",ESPN2 US
+http://0.vylc.name.vn/ESPN2
+#EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png",FS1
+http://0.vylc.name.vn/FS1
+#EXTINF:-1 group-title="Quốc tế | Mỹ" tvg-id="FoxSports2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
+http://0.vylc.name.vn/FS2
+
+#----------------Australia-----------------
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel10.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
+http://0.vylc.name.vn/Ten
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="10Bold.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png",10 Bold
+http://0.vylc.name.vn/Bold
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel7.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/1200px-Seven_Network_logo.svg.png",7 HD
+http://0.vylc.name.vn/Seven
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="Channel9.au" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Nine2008.svg/1200px-Nine2008.svg.png",9 HD
+http://0.vylc.name.vn/Nine
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="9Gem.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/9Gem_logo.png",9Gem
+http://0.vylc.name.vn/Gem
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="SBS.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/800px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
+http://0.vylc.name.vn/SBSOne
+#EXTINF:-1 group-title="Quốc tế | Úc" tvg-id="SBSViceland.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6a/SBS_Viceland_logo_2016.png",SBS Viceland
+http://0.vylc.name.vn/SBSViceland
+
+
+#EXTINF:-1 group-title="Quốc tế | Pháp"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png",TF1
+https://origin-fra14-cf.pzaz.tv/live/tf1/tracks-v2a1/mono.m3u8
+
+
 
 #EXTM3U
 #EXTINF:-1 group-title="Kênh Mỹ Tổng hợp",USA A&E UHD
