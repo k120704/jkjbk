@@ -192,11 +192,9 @@ http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", catchup="append" catchup-days="2" 
-catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (Độ trễ thấp) (sv1)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (Độ trễ thấp) (sv1)
 http://103.56.160.133:8081/vtv1
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png",catchup="append" catchup-days="2" 
-catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8" VTV1 (Độ trễ thấp) (sv2)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (Độ trễ thấp) (sv2)
 http://live.vthanhtivi.pw/vtv1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 (Độ trễ thấp)
 http://103.56.160.133:8081/vtv2
@@ -358,6 +356,9 @@ https://code.vthanhtivi.pw/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/p
 https://iplogger.com/vtvcab6
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/hls/HAY_TV_kitlkgmndj/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}", ON Sports+ sv3
 http://code.vthanhtivi.pw/getlink/onplus/HAY_TV/m401_index.m3u8
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://i.ibb.co/pj4qYdP/tb-cab6.webp", ON Sports+ sv4 (VTV Go)
+#EXTVLCOPT:http-user-agent="CloudTV"
+https://iplogger.com/ON-Sports
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/dvr-${start}-${offset}.m3u8", ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/playlist.m3u8
