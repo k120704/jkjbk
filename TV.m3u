@@ -812,7 +812,7 @@ https://sglivevega.kplus.vn/bpk-tv/prod_ucl4/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1gNT9vX7GvZq9LqBJPRCmg","kid":"Rh9cpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"eMr9GRHIgscXF6UCmKvqBA","kid":"jmNcpYhBGGHdJ81O+EHPWg"},{"kty":"oct","k":"6lBJy/L4bqiv8DNrJ6MC0A","kid":"m2eg1ohBGGHdJ81O+EHPWg"},{"kty":"oct","k":"t/A+Ss9g96Hkk90WbG8TIQ","kid":"h3Sg7tdBGGHdJ81O+EHPWg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TMDoVTcnXHpMTWgFNi03IA","kid":"3+vI+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"/BvZJI1SffDJ9HV8ysTwLQ","kid":"Jy/I+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"voXqVVDExP1pmKulvI24EQ","kid":"NDMMK4hqKCVeld4A7K6PTw"},{"kty":"oct","k":"CwPwez37ctYxXw/Ga1IUfA","kid":"IEAMQ9dqKCVeld4A7K6PTw"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (sv2)
@@ -826,7 +826,7 @@ https://hqth.me/kplussports1hd?id=klifesports291/seasonid:83112232211/sports.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n6k+TEUTx+p5Bj+XB69aQw","kid":"55jZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"WG+ZbXW/pusa9Z7BwtiVow","kid":"L9zZeGj4rhMV4y/yxpkZww"},{"kty":"oct","k":"l5Iw6Kja8Q6B95kPL5nk5w","kid":"POAdqWj4rhMV4y/yxpkZww"},{"kty":"oct","k":"aASJKkeMlZ63BNMI5sF3Og","kid":"KO0dwbf4rhMV4y/yxpkZww"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QGRc9H4H0knLGyNXPWDXrA","kid":"0Eh9RdUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"OgI3k8/whYNbbMTWI7qiCA","kid":"GIx9RdUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"OvDny0yhuqRdidjGwLS0Ig","kid":"JZDBdtUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"/mRuPv1jfG+I/kQvaTDmGQ","kid":"EZ3BjiQNoRDtg4ns5P0MRQ"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (sv2)
@@ -839,7 +839,7 @@ https://hqth.me/kplussports2hd?id=klifesports821/seasonid:1777288822/sports.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Qg+QQeS1MmBhQI7u2n80aA","kid":"nQdw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"F+eU3yitSHnkFFYtE4+Z2Q","kid":"5Utw4OOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"sbTHo540AyIwLSJXW37szQ","kid":"8k+0EeOK2e/i8ZU5nQ1apQ"},{"kty":"oct","k":"P7qdnqQX/GQO0jZmMdQYrw","kid":"3ly0KTKK2e/i8ZU5nQ1apQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rNLT0fBeQLOiHILcLt2EWg","kid":"KCL6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"zd3EV24wkxB1xRe998vSyg","kid":"cGb6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"lwr28l3mSxilUeQTqtl7oA","kid":"fWo+ZWCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"ktgiOizMSX188ZdboSMraA","kid":"aXc+fa+FEKHi0oeoxgPTIA"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (sv2)
@@ -852,7 +852,7 @@ https://hqth.me/kpluscinehd?id=kplus20/seasonid:2991/cine.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rYzTVA6IU25BWyCi6eFMsw","kid":"LDpBJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"/RhsW9MUFJ2qkzxx0M61SA","kid":"dH5BJJeYlI9krXpiPNl76Q"},{"kty":"oct","k":"MZj/PKMmrAC+/gj9Mb9tPA","kid":"gYKFVZeYlI9krXpiPNl76Q"},{"kty":"oct","k":"JhP3tQTc0MyUQBhFKh5wSQ","kid":"bY+FbeaYlI9krXpiPNl76Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eoFc7ZPGNixnScZe1AYzSg","kid":"6I3nUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"QgYo1ahv86DwZ6KfIr9bJg","kid":"MNHnUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"vzuHb7/KrbaYDgH5eyWNwg","kid":"PdUrglTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"q1DW4xxIrQ/ZVmTD83GrnA","kid":"KeIrmqPHNE4yhooVj9EzcQ"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (sv2)
@@ -865,7 +865,7 @@ https://hqth.me/kpluslifehd?id=20/seasonid:4763/live992/life.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v5MmYy+l2IhTvDRiE3lXgA","kid":"kS2SZJp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"kLankYJEAdmZHSw57nFviw","kid":"2XGSZJp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"0aRRVnZ7VALgmN9A5iCA1w","kid":"5nXWlZp/WqLbUq1WfcNa3Q"},{"kty":"oct","k":"++8GSN8CtWli97j9iTr24A","kid":"0oLWrel/WqLbUq1WfcNa3Q"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kwAYUr/wCSV2ZXc1laATvA","kid":"pRjxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"ur2jrzVRTsK4HFYvh9H5/w","kid":"7VzxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"zno/k3//E6vEwzg5ReYhFA","kid":"+mA1XykZBptdiE4ryF6wTg"},{"kty":"oct","k":"6JaIssGFoclnvC59GVMTSw","kid":"5m01d3gZBptdiE4ryF6wTg"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (sv2)
