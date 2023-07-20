@@ -75,6 +75,13 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT10/man
 https://livestream-zlr1.tv360.vn/origin01/20230718/64b68f6d71bd140b6eb2d82d/1080p50f5Mb/playlist.m3u8
 #EXTINF:-1 group-title="🔴| Livestream | Gaming" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/11/14/1689059227658/a198883dd710_640_360.png", BLAST Premier Fall Groups 2023 (sv2)
 https://livestream-zlr2.tv360.vn/origin01/20230718/64b68f6d71bd140b6eb2d82d/1080p50f5Mb/playlist.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Gaming" tvg-logo="https://i.ytimg.com/vi/IrsGgZw5BVU/hqdefault_live.jpg", Bình Luận Tiếng Việt: KDF vs GEN | DRX vs NS | Tuần 7 Ngày 2 | LCK Mùa Hè 2023
+https://manifest.googlevideo.com/api/manifest/dash/expire/1689862155/ei/q-u4ZIupL4aevcAP7pmKoAY/ip/117.1.134.157/id/IrsGgZw5BVU.1/source/yt_live_broadcast/requiressl/yes/hfr/all/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/siu/1/spc/Ul2Sq1o19Yxzz6mBF_LQWiym-GxTd76VyrsaYahWtCdG2B4O3smxQyg/vprv/1/pacing/0/keepalive/yes/fexp/24007246%2C24362685%2C51000012/beids/24350017/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cas%2Csiu%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVbEKai35osMq5642Or3YwVO_duvOZ_CwWoZP3ptvtzECIQD-D451ZwDLIkveSl4P_NI--bhqMR2ZHBj7esch8k09Rw%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689862155/ei/q-u4ZIupL4aevcAP7pmKoAY/ip/117.1.134.157/id/IrsGgZw5BVU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/siu/1/spc/Ul2Sq1o19Yxzz6mBF_LQWiym-GxTd76VyrsaYahWtCdG2B4O3smxQyg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKeg35Lmkm_YIm6SkHcXbpj_VJ8cY00SMN4fxXXrqZC7AiEAx872h66JgTSxUkbXdiRNyUZMKNSUMaQhtpv4zQ6K9jE%3D/file/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv1)
 http://128.199.214.24/QHTV/mpegts
