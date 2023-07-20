@@ -100,10 +100,8 @@ http://103.9.211.134:8080/QHTV/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp) (50fps)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s1ZROBvu4lf5LSiAF8IANx/m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp) (sv1)
-http://128.199.214.24/ONF/mpegts
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp) (sv2)
 http://103.56.160.133:8081/onfootball
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp) (sv3)
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp) (sv2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.anttv.xyz/antmedia/onfootball
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (ClipTV)
