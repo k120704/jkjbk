@@ -2985,11 +2985,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227378/index.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🇨🇳 | Trung Quốc",CCTV-5 高清
 #EXTVLCOPT:http-user-agent="CloudTV"
 https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
-
 #EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🇨🇳 | Trung Quốc",CCTV5+ 高清
 #EXTVLCOPT:http-user-agent="CloudTV"
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-
+#http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 tvg-id="cctv6hd" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6", CCTV6 HD
 https://api.olelive.com/dis/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-id="cctv6hd" group-title="🇨🇳 | Trung Quốc" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7", CCTV7 HD 
