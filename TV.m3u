@@ -128,15 +128,6 @@ http://103.9.211.134:8080/OSN/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vtc3hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023"  tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc3-hd/${start}/${offset}", VTC3 HD (Độ trễ thấp) 
-http://103.9.211.134:8080/vtc3/mpegts
-#EXTINF:-1 tvg-id="vtc3hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023"  tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc3-hd/${start}/${offset}", VTC3 HD (sv1)
-https://1117141481.vnns.net/VTC3/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023"  tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc3-hd/${start}/${offset}", VTC3 HD (sv2)
-https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023"  tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc3-hd/${start}/${offset}", VTC3 HD (Độ trễ thấp) (Chiếu trong trận)
-http://103.9.211.134:8080/vtc3/index.m3u8
-
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao (Độ trễ thấp)
 http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao | 50fps
