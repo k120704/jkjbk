@@ -448,7 +448,7 @@ http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ (TV360)
 https://code.vthanhtivi.pw/getlink/tv360/157/2.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
