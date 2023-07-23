@@ -577,7 +577,7 @@ http://103.56.160.133:8081/onfootball
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp)(sv3)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.anttv.xyz/antmedia/onfootball
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (ClipTV)
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (ClipTV)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://arcgmoblie.site/cliptv/cliptv.php?id=on-football
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Ko chiếu được WC đâu)
