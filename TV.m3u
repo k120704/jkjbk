@@ -446,7 +446,7 @@ http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ (TV360)
 https://code.vthanhtivi.pw/getlink/tv360/157/2.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
@@ -914,7 +914,7 @@ http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tYMrSEXvn
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s8Zm4QQc6bcBx2336I5rks/m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv2)
-http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vxNXhcNtTciDISstk484jD/m3u8
+http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDqT9MdFh7yjDp16/m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sRho_pn5x1G3-Ny6WAVpjp/m3u8
 
@@ -937,7 +937,7 @@ http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vX_jmhEZM
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sdSo_CDJzKPyLBLNZKfMlm/m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv2)
-http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uR4AV8pMMHVX_47auYN1wo/m3u8
+http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vxNXhcNtTciDISstk484jD/m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uZ0ohXjTyZ4z9eHP7tsJC8/m3u8
 
@@ -945,8 +945,7 @@ http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uZ0ohXjTy
 #EXTINF:-1 tvg-id="Kkidshd"group-title="🍭| K+ giải mã"  tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uFKPDVVARMjF5oOTVUaWxi/m3u8
 #EXTINF:-1 tvg-id="Kkidshd"group-title="🍭| K+ giải mã"  tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (sv2)
-http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDqT9MdFh7yjDp16/m3u8
-
+http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uR4AV8pMMHVX_47auYN1wo/m3u8
 
 
 
