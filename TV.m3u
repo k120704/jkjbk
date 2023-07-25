@@ -10,7 +10,8 @@ https://code.vthanhtivi.pw/getlink/mytv/447/hd.m3u8
 #EXTINF:-1 tvg-name="804" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 
 https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8 
 
-
+#EXTINF:-1 group-title="🔴| Livestream | Gaming" tvg-logo="https://i.ytimg.com/vi/u6U0a60ldB8/hqdefault.jpg", 🏆 INTEL GAMER DAYS: SURVIVAL RACE - VÒNG CHUNG KẾT: RAMBO, NHISM, PINO, FUNKYM, SNAKE, DJCHIP,...
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690314343/ei/B9K_ZLt51Y69wA_cw77QDQ/ip/123.16.54.123/id/u6U0a60ldB8.1/source/yt_live_broadcast/requiressl/yes/tx/51000487/txs/51000487%2C51000488/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Ul2Sq5i7HtNxdYVieKKjHWVPWXOf_KU48MfN09E5iS7sZ-v5g25G8TE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYGN9QE3n-NZGpWAd4LqzkSD31O3OlM6msfMknrqJnQECIGjRTcWe_hp1_SIfW14vCwDECwuEWQXw6sPIgdc3M8iz/file/index.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cms.spotvasia.com/upload/boards/file_9314e71c-8863-4884-b332-8940ff84c5da.jpg", SPOTV
 http://103.56.160.133:8081/SPOTV
