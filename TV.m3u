@@ -71,10 +71,7 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT9/mani
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"pmN2Il5lQv+q7FZ3m+lVdQ", "kid":"wcMxvn2cQAG90ymmM0wpZQ" } ], "type":"temporary"}
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONSPORT10/manifest.mpd
 
-#EXTINF:-1 group-title="🔴| Livestream | Gaming" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/11/14/1689059227658/a198883dd710_640_360.png", BLAST Premier Fall Groups 2023 (sv1)
-https://livestream-zlr1.tv360.vn/origin01/20230718/64b68f6d71bd140b6eb2d82d/1080p50f5Mb/playlist.m3u8
-#EXTINF:-1 group-title="🔴| Livestream | Gaming" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/11/14/1689059227658/a198883dd710_640_360.png", BLAST Premier Fall Groups 2023 (sv2)
-https://livestream-zlr2.tv360.vn/origin01/20230718/64b68f6d71bd140b6eb2d82d/1080p50f5Mb/playlist.m3u8
+
 
 
 
