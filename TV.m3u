@@ -1,20 +1,27 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml, http://lichphatsong.xyz/schedule/vagroup_epg.xml, https://hqth.me/fsphimleepg, https://7pal.short.gy/alex-epg "
 
 #-*-- Livestream -*--#
-#EXTINF:-1 tvg-name="801" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
+#EXTINF:-1 tvg-name="801" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv1)
 https://code.vthanhtivi.pw/getlink/mytv/267/hd.m3u8
-#EXTINF:-1 tvg-name="802" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 
+#EXTINF:-1 tvg-name="801" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv2)
+http://vmttv.anttv.xyz/mytv.php?id=267
+#EXTINF:-1 tvg-name="802" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD (sv1)
 https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8 
-#EXTINF:-1 tvg-name="803" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 
+#EXTINF:-1 tvg-name="802" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD (sv2)
+http://vmttv.anttv.xyz/mytv.php?id=349
+#EXTINF:-1 tvg-name="803" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD (sv1)
 https://code.vthanhtivi.pw/getlink/mytv/447/hd.m3u8
-#EXTINF:-1 tvg-name="804" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 
+#EXTINF:-1 tvg-name="803" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD (sv2)
+http://vmttv.anttv.xyz/mytv.php?id=447
+#EXTINF:-1 tvg-name="804" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv1)
 https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8 
+#EXTINF:-1 tvg-name="804" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv2)
+http://vmttv.anttv.xyz/mytv.php?id=449
 
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://cms.spotvasia.com/upload/boards/file_9314e71c-8863-4884-b332-8940ff84c5da.jpg", SPOTV
-http://103.56.160.133:8081/SPOTV
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2-656x388.jpg", SPOTV2
-http://103.56.160.133:8081/SPOTV2
+
+
+
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png", EURO SPORT 4K
 http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 
@@ -127,14 +134,16 @@ https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-H
 https://code.vthanhtivi.pw/getlink/mytv/18/hd.m3u8
 
 
-#EXTINF:-1 tvg-name="801" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
+#EXTINF:-1 tvg-name="801" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv1)
 https://code.vthanhtivi.pw/getlink/mytv/267/hd.m3u8
-#EXTINF:-1 tvg-name="804" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 
+#EXTINF:-1 tvg-name="801" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv2)
+http://vmttv.anttv.xyz/mytv.php?id=267
+#EXTINF:-1 tvg-name="804" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv1)
 https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8 
-#EXTINF:-1 tvg-name="804" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", TV360+ 4 
+#EXTINF:-1 tvg-name="804" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv2)
+http://vmttv.anttv.xyz/mytv.php?id=449
+#EXTINF:-1 group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360 + 4
 https://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
-
-
 
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://103.195.238.135:8080/logo", Dolphin x B4TV : BLV CÁ HEO (Bình loạn bóng đá)
@@ -387,7 +396,7 @@ http://stream.cvmtv.site/vtv5?token=live
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-id="vtv5hdtnb" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png",VTV5 Tây Nam Bộ (ĐỘ TRỄ THẤP)
 http://stream.cvmtv.site/vtv5tnb?token=live
 #EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ (ĐỘ TRỄ THẤP) (sv1)
-http://103.56.160.133:8081/vtvcantho
+http://103.56.160.133/vmt/vtvcantho
 #EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (ĐỘ TRỄ THẤP) (sv2)
 http://live.anttv.xyz/antmedia/vtvct
 #EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7 (ĐỘ TRỄ THẤP)
@@ -1156,7 +1165,10 @@ http://103.90.220.236/vovlive/tv1live.m3u8
 
 
 #-*--THỂ THAO-*--#
-
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://cms.spotvasia.com/upload/boards/file_9314e71c-8863-4884-b332-8940ff84c5da.jpg", SPOTV
+http://103.56.160.133:8081/SPOTV
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2-656x388.jpg", SPOTV2
+http://103.56.160.133:8081/SPOTV2
 #EXTINF: 0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/JrrmZdB/onegolf-HD-BEARTV.png", ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5L2KxmL/racing-com-BEARTV.jpg" group-title="KÊNH THỂ THAO",Racing.com
