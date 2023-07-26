@@ -123,8 +123,6 @@ https://arcgmoblie.site/cliptv/cliptv.php?id=on-sports-news
 http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao | 50fps
 https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao (Độ trễ thấp) (Chiếu trong trận)
-http://103.9.211.134:8080/htvthethao/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao
 https://code.vthanhtivi.pw/getlink/mytv/18/hd.m3u8
 
