@@ -1824,14 +1824,14 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD (sv1)
-http://live.hqth.xyz/hbo/index.m3u8
+http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD (sv2)
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uGHlrYytytPGhHwQUfnUBA/m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD (sv1)
-http://live.hqth.xyz/cinemax/index.m3u8
+http://live.vthanhtivi.pw/cinemax
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD (sv2)
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD (sv3)
