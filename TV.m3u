@@ -3196,7 +3196,7 @@ https://tv.tchgroup.vn/live/radio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://danangtv.vn/images/radio.png", Đà Nẵng
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://mediadrt.mediatech.vn/upload/files/image/3654ffddce980fc65689.jpg", Đắk Lắk
-https://edge1-eu-west.picarto.tv/stream/hls/golive%2bdangha/0_1/index.m3u8
+https://livept.drt.vn/245634343017
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/131.png", Đắk Nông
 https://c0fthcxjokliv.vcdn.cloud/daknong_radio/index.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png", Đồng Nai
@@ -3210,9 +3210,9 @@ http://113.162.84.113:8081/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png", Hà Nam
 http://103.90.220.236/thhnlive/radio.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788c89d47e06ff5.jpg", Hà Nội FM 90
-https://1028513096.vnns.net/fm90/chunks.m3u8
+https://cecex9g5cpliv.vcdn.cloud/audio/fm90/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110840/110840_z3846211089905_39c77a676e0692f17b29aa41d76314a1.jpg", Hà Nội FM 96
-https://1028513096.vnns.net/fm96/chunks.m3u8
+https://cecex9g5cpliv.vcdn.cloud/audio/fm96/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png", Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://www.haiduongtv.com.vn/upload/news/icon//20.2018/1526269157_NENPHATTHANH.jpg", Hải Dương
@@ -3257,9 +3257,9 @@ http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png", QNR2 - Quảng Ninh
 http://103.90.220.236/qtvlive/qnr2.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/170.png", Quảng Trị
-http://103.90.220.236/qrtvlive/radio.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://thst.vn/Content/images/fm.png", Sóc Trăng (lúc lên lúc đóng)
-http://113.163.189.104:8135/liveeventf.m3u8
+#http://103.90.220.236/qrtvlive/radio.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://thst.vn/Content/images/fm.png", Sóc Trăng
+http://115.78.3.164:8088/liveeventf.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://media.sonlatv.vn/upload/files/image/Back-PT.jpg", Sơn La
 http://103.90.220.236/sltvlive/radio-transmux.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://trt.com.vn/frontend/home/images/bg_radio.jpg", Thừa Thiên Huế
@@ -3275,7 +3275,7 @@ http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/FM96_2.jpg", Tiền Giang
 http://123.25.238.45:1935/live/radio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://quantri.travinhtv.vn/wp-content/uploads/2022/03/HINH-NEN-WEB-RADIO.jpg", Trà Vinh
-http://202.43.109.144:1935/TV/tvaudio/playlist.m3u8
+https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png", Tuyên Quang
 https://live.tuyenquangtv.vn/hls/radio.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/255.png", Vĩnh Long
@@ -3558,72 +3558,12 @@ https://code.vthanhtivi.pw/bongda/vebo/rkGTrnq.m3u8
       
 https://code.vthanhtivi.pw/bongda/vebo/c6i0qRz.m3u8
 
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 17:00-27/07: Australia (w) vs Nigeria (w) - Women's World Cup 2023
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png", 19:00-27/07: Ekibastuzets vs Astana B - Kazakhstan Division 1
        
-https://code.vthanhtivi.pw/bongda/vebo/05fXbUK.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 08:00-27/07: USA (w) vs Netherland (w) - Women's World Cup 2023
-       
-https://code.vthanhtivi.pw/bongda/vebo/zFkt6ua.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 14:30-27/07: Portugal (w) vs Vietnam (w) - Women's World Cup 2023
-       
-https://code.vthanhtivi.pw/bongda/vebo/qfP6Rrh.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png", 02:15-27/07: Stjarnan Gardabaer vs Fram Reykjavik - Iceland Premier League
-       
-https://code.vthanhtivi.pw/bongda/vebo/tM7Aycn.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/c80157ca8b22dbdd45ef9feece285a2b.png", 06:00-27/07: Pittsburgh Riverhounds vs Indy Eleven - United States Soccer Leagues First Division
-       
-https://code.vthanhtivi.pw/bongda/vebo/1pS8vL7.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/c80157ca8b22dbdd45ef9feece285a2b.png", 09:00-27/07: Oakland Roots vs Las Vegas Lights - United States Soccer Leagues First Division
-       
-https://code.vthanhtivi.pw/bongda/vebo/RkNeq2s.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/c80157ca8b22dbdd45ef9feece285a2b.png", 10:00-27/07: Sacramento Republic FC vs Phoenix Rising FC - United States Soccer Leagues First Division
-       
-https://code.vthanhtivi.pw/bongda/vebo/jbyEojd.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/9a08deb047648a03f68a11ed52c89923.png", 07:00-27/07: CD Independiente Juniors vs Macara - Ecuadorian Campeonato Serie B
-       
-https://code.vthanhtivi.pw/bongda/vebo/sgunpe4.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 17:00-27/07: Al-Nasr(KSA) vs Inter Milan - International Club Friendly
+https://code.vthanhtivi.pw/bongda/vebo/1JVDGgV.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 17:20-27/07: Al-Nasr(KSA) vs Inter Milan - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/vebo/ny0XSFd.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/21373345355d0d46050508d0818a463a.png", 04:00-27/07: Excursionistas vs Almagro - Copa Argentina
-       
-https://code.vthanhtivi.pw/bongda/vebo/jHIHXsr.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/21373345355d0d46050508d0818a463a.png", 07:10-27/07: San Lorenzo vs CA Platense - Copa Argentina
-       
-https://code.vthanhtivi.pw/bongda/vebo/YfDX9an.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png", 01:30-27/07: Stade Ouchy vs Lugano - Switzerland Super League
-       
-https://code.vthanhtivi.pw/bongda/vebo/qnYG4zt.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 09:30-27/07: LA Galaxy vs Club Leon - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/vebo/HMQF25k.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 06:30-27/07: Atletico San Luis vs New England Revolution - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/vebo/jyp59g0.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 06:30-27/07: Montreal Impact vs DC United - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/vebo/eTCR9Ie.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 06:30-27/07: New York City Football Club vs Toronto FC - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/vebo/ACUDlEE.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 06:30-27/07: Philadelphia Union vs Queretaro FC - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/vebo/XeRZenz.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 08:30-27/07: Monterrey vs Real Salt Lake - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/vebo/0HWQwQ7.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 10:00-27/07: Tigres UANL vs Portland Timbers - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/vebo/5BQJ1Ce.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/1027723af57b4762a68aa269dc07b86b.png", 09:00-27/07: Deportivo Saprissa vs Sporting San Jose - Costa Rica Primera Division
-       
-https://code.vthanhtivi.pw/bongda/vebo/HlE0P2K.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/1027723af57b4762a68aa269dc07b86b.png", 08:00-27/07: Santos De Guapiles vs Alajuelense - Costa Rica Primera Division
-       
-https://code.vthanhtivi.pw/bongda/vebo/o5MDrh2.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 07:15-27/07: Chelsea vs Newcastle United - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/7nDUuoU.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 18:00-27/07: K League All Stars vs Atletico Madrid - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/vebo/Pn7lKdz.m3u8
@@ -3642,39 +3582,12 @@ https://code.vthanhtivi.pw/bongda/vebo/D27tBh8.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png", 19:15-27/07: Viettel vs Hà Tĩnh - V League
        
 https://code.vthanhtivi.pw/bongda/vebo/nXoWoDk.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 07:30-27/07: Real Madrid vs Đầu cầu MU - International Club Friendly
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/3ade18e8a8a4e33f331267d4eba9d503.png", 20:00-27/07: Al-Sadd vs Wydad Casablanca - UAFA Club Cup
        
-https://code.vthanhtivi.pw/bongda/vebo/i3DZjbf.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 07:00-27/07: Crystal Palace vs Millonarios - International Club Friendly
+https://code.vthanhtivi.pw/bongda/vebo/QpIBM0D.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/3ade18e8a8a4e33f331267d4eba9d503.png", 22:00-27/07: Sifakesi vs Al Shorta - UAFA Club Cup
        
-https://code.vthanhtivi.pw/bongda/vebo/hJtE1wz.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 06:00-27/07: Fulham vs Aston Villa - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/KccS6Xu.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 04:30-27/07: Brentford vs Brighton Hove Albion - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/C9YbUnu.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 01:45-27/07: KI Klaksvik vs Hacken - UEFA Champions League
-       
-https://code.vthanhtivi.pw/bongda/vebo/gcZWpHg.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 01:45-27/07: Ludogorets Razgrad vs NK Olimpija Ljubljana - UEFA Champions League
-       
-https://code.vthanhtivi.pw/bongda/vebo/c5daL1O.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 01:15-27/07: Rakow Czestochowa vs Qarabag - UEFA Champions League
-       
-https://code.vthanhtivi.pw/bongda/vebo/7t6hDGb.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/55f09f44c319763fd155d3d68895f405.png", 10:05-27/07: Atletico La Paz vs Celaya FC - Mexico Ascenso MX
-       
-https://code.vthanhtivi.pw/bongda/vebo/l0aE18p.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/55fd0d3e82c8cd6db8f5b58d0de7b415.png", 07:30-27/07: Gremio (RS) vs Flamengo - Copa do Brasil
-       
-https://code.vthanhtivi.pw/bongda/vebo/gmFgxW7.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/11ca0fe4febca9e749bb30205c3c1326.png", 06:00-27/07: Forward Madison FC vs Tormenta FC - United States National Premier Soccer League
-       
-https://code.vthanhtivi.pw/bongda/vebo/aX0bruu.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/11ca0fe4febca9e749bb30205c3c1326.png", 06:00-27/07: North Carolina vs Northern Colorado - United States National Premier Soccer League
-       
-https://code.vthanhtivi.pw/bongda/vebo/ECXC9U2.m3u8
+https://code.vthanhtivi.pw/bongda/vebo/yZkPseT.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 22:00-27/07: Alashkert vs Debrecin VSC - Europa Conference League
        
 https://code.vthanhtivi.pw/bongda/vebo/aoip3Qb.m3u8
@@ -3684,58 +3597,13 @@ https://code.vthanhtivi.pw/bongda/vebo/TcGv64Q.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 22:00-27/07: Inter Club Escaldes vs Hibernian - Europa Conference League
        
 https://code.vthanhtivi.pw/bongda/vebo/taIyq6r.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png", 03:30-27/07: Tigres Zipaquira vs Deportivo Pereira - Colombian Copa BetPlay DIMAYOR
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/4c561dfd587835ac774d5bb5515db8e4.jpg", 22:00-27/07: Buxoro FK vs Turon Nukus - Uzbekistan Super League
        
-https://code.vthanhtivi.pw/bongda/vebo/LEYAnrP.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png", 08:00-27/07: America de Cali vs Atletico Nacional Medellin - Colombian Copa BetPlay DIMAYOR
+https://code.vthanhtivi.pw/bongda/vebo/CqqAnQo.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png", 22:30-27/07: Netherlands (w) U19 vs Spain (w)  U19 - UEFA European U19 Women's Championship
        
-https://code.vthanhtivi.pw/bongda/vebo/ia3VBph.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png", 06:30-27/07: Alianza Petrolera vs Deportes Tolima - Colombian Copa BetPlay DIMAYOR
-       
-https://code.vthanhtivi.pw/bongda/vebo/bbnQKh5.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Glasgow Rangers vs Olympiakos Piraeus - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/8KPThGp.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Macclesfield Town vs Altrincham - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/rbErDyi.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="", 06:00-27/07: Trem-AP vs Independente AP - BRA AMP
-       
-https://code.vthanhtivi.pw/bongda/vebo/O6aCeR7.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:30-27/07: Bradford City vs Middlesbrough - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/awlUfm5.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 07:30-27/07: Đầu cầu Real vs Manchester United - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/uVp7srG.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/3856d1c82c6896c8c53370e31f36365d.png", 05:00-27/07: CA Talleres de Córdoba Reserves vs Newell's Reserves - Argentine Reserve League
-       
-https://code.vthanhtivi.pw/bongda/vebo/gbq0asS.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Koninklijke HFC vs AZ Alkmaar (Youth) - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/OOysD3I.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:30-27/07: North Ferriby United vs Hull City - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/6kmvNVd.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:30-27/07: Belper Town vs Burton Albion - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/Sin8CEz.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Long Eaton Utd vs Mansfield Town - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/8UWNzN5.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Boston United vs Grimsby Town - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/Hs25XAp.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 02:00-27/07: Sporting Braga vs AS Roma - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/w5lUwBD.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 09:30-27/07: Arsenal vs Barcelona - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/7NJAJXV.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 08:00-27/07: Tlaxcala FC vs Real Oviedo - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/vebo/Xp1V1Wt.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 18:00-27/07: RKC vs Marseille - International Club Friendly
+https://code.vthanhtivi.pw/bongda/vebo/FGN0Z4v.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 18:07-27/07: RKC vs Marseille - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/vebo/ExgHfPB.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Pisa vs US Fiorenzuola - International Club Friendly
@@ -3747,6 +3615,42 @@ https://code.vthanhtivi.pw/bongda/vebo/RfAvGE9.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-27/07: SudTirol vs Sassuolo - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/vebo/53e3L07.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Apollon Limassol FC vs Al-Garrafa - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/ZhaU3ad.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-27/07: Pendikspor vs Ankaragucu - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/dTZxQ63.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Banni Yas vs Galanta - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/9vkfpwh.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: FK Skopje vs FK Rinija Gostivar - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/OKqOegV.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Gubbio vs Cosenza Calcio 1914 - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/djiMD1P.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-27/07: Rabotnicki Skopje vs Al-Ettifaq - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/YY0C8oI.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-27/07: Granada CF B vs Dhamk - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/VvTqcR2.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-27/07: Mladost Novi Sad vs Kabel Novi Sad - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/YUAHHuY.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 19:00-27/07: Tanzania U18 (W) vs Ethiopia U18 (W) - Giao hữu quốc tế
+       
+https://code.vthanhtivi.pw/bongda/vebo/rHit0pX.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 22:00-27/07: Uganda (W) U18 vs Zanzibar(W) U18 - Giao hữu quốc tế
+       
+https://code.vthanhtivi.pw/bongda/vebo/5DlQFXh.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Al-Tai vs Ittihad Kalba - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/SoIVdyN.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-27/07: Al Ahli(UAE) vs Al Wehda(UAE) - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/vebo/K0P1NGC.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 07:00-28/07: Argentina (w) vs South Africa (w) - Women's World Cup 2023
                
 https://code.vthanhtivi.pw/bongda/vebo/phAaRvS.m3u8
@@ -3756,6 +3660,9 @@ https://code.vthanhtivi.pw/bongda/vebo/SfR95Eh.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 18:00-28/07: China (w) vs Pending - Women's World Cup 2023
                
 https://code.vthanhtivi.pw/bongda/vebo/oSK3QDL.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/31beaaee73f7b112e64c14e0c20b0fbe.png", 04:00-28/07: Angostura FC vs Deportivo La Guaira - Venezuela Primera Division
+               
+https://code.vthanhtivi.pw/bongda/vebo/ySh35be.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/44ef0488e528aa6d2578f73d50837a2b.png", 20:00-28/07: Kelantan United vs PDRM - Malaysian Super League
                
 https://code.vthanhtivi.pw/bongda/vebo/rmdj9qa.m3u8
@@ -3774,7 +3681,7 @@ https://code.vthanhtivi.pw/bongda/vebo/kbxtO46.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png", 18:35-28/07: Henan Songshan Longmen vs Shenzhen FC - China Super League
                
 https://code.vthanhtivi.pw/bongda/vebo/HAbDZSB.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 18:00-28/07: Cerezo Osaka vs Paris Saint Germain (PSG) - International Club Friendly
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 17:20-28/07: Cerezo Osaka vs Paris Saint Germain (PSG) - International Club Friendly
                
 https://code.vthanhtivi.pw/bongda/vebo/yXkmkXK.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/529b2a49c763bc4349fdf9b0f94742f7.png", 22:15-28/07: Dukla Prague vs Vyskov - Czech National Football League
@@ -3894,7 +3801,10 @@ https://code.vthanhtivi.pw/bongda/vebo/P9cQd3x.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png", 19:15-28/07: Hà Nội vs Nam Định - V League
                
 https://code.vthanhtivi.pw/bongda/vebo/SZK3jWn.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 19:00-28/07: Bordeaux vs Osasuna - International Club Friendly
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/3ade18e8a8a4e33f331267d4eba9d503.png", 00:00-28/07: Al-Ahli Tripoli vs Al Hilal - UAFA Club Cup
+               
+https://code.vthanhtivi.pw/bongda/vebo/zrn10Ma.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 21:00-28/07: Bordeaux vs Osasuna - International Club Friendly
                
 https://code.vthanhtivi.pw/bongda/vebo/awbSckE.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 01:00-28/07: B36 Torshavn vs Haverfordwest County - Europa Conference League
@@ -3942,7 +3852,7 @@ https://code.vthanhtivi.pw/bongda/vebo/eqt6dzm.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 01:45-28/07: Linfield FC vs Pogon Szczecin - Europa Conference League
                
 https://code.vthanhtivi.pw/bongda/vebo/awHaMnC.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 00:00-28/07: KF Dukagjini vs Rijeka - Europa Conference League
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 01:00-28/07: KF Dukagjini vs Rijeka - Europa Conference League
                
 https://code.vthanhtivi.pw/bongda/vebo/wR8h7de.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 02:00-28/07: FK Shkupi vs Levski Sofia - Europa Conference League
@@ -3984,18 +3894,54 @@ https://code.vthanhtivi.pw/bongda/vebo/pcXy6Yo.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:00-28/07: Feyenoord vs Villarreal - International Club Friendly
                
 https://code.vthanhtivi.pw/bongda/vebo/AtVpXmN.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 12:30-28/07: Hapoel Marmorek lrony Rehovot vs Hapoel Raanana - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/ZvMdiuw.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:00-28/07: AS Furiani Agliani vs Bastia - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/YATIwCB.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:30-28/07: Kortrijk U21 vs Wevelgem City - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/meNrPU4.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-28/07: Nottingham Forest vs Leeds United - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/8wb6Z83.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:30-28/07: HSC 21 Brein vs Motherwell - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/Rj7OdtY.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png", 13:15-28/07: Tianjin Shengde Women vs Guangzhou FC Women - Chinese Women's FA Cup
+               
+https://code.vthanhtivi.pw/bongda/vebo/zabPoeF.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png", 13:15-28/07: Changchun Masses Properties (w) vs Beijing (w) - Chinese Women's FA Cup
+               
+https://code.vthanhtivi.pw/bongda/vebo/OPqH4Vx.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png", 15:30-28/07: ShanXi Oya (w) vs Yongchuan Chashan bamboo sea Women's - Chinese Women's FA Cup
+               
+https://code.vthanhtivi.pw/bongda/vebo/3fKzVPp.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png", 15:30-28/07: Guangdong Meizhou Huijun (w) vs Wuhan Jianghan (w) - Chinese Women's FA Cup
+               
+https://code.vthanhtivi.pw/bongda/vebo/Hd6pa5o.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 19:00-28/07: Freiburg II vs TSG Hoffenheim (Youth) - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/x1dwcZT.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 16:00-28/07: Como vs Pro Patria - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/521IOTy.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-28/07: KFUM Roskilde vs Roskilde - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/4Xboqef.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-28/07: Avranches vs Concarneau - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/o5MYL0Y.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-28/07: Preuben Munster vs Kickers Offenbach - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/3DKc70r.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-28/07: Fortuna Koln vs FC Koln - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/haPmxzH.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  90p" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-28/07: FC Rouen vs St Pryve St Hilaire - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/vebo/MPmeuyZ.m3u8
 
 
 
@@ -4162,72 +4108,12 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/StgKFsY.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c80157ca8b22dbdd45ef9feece285a2b.png", 09:00-27/07: Oakland Roots vs Las Vegas Lights - United States Soccer Leagues First Division
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/8p82riY.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/9a08deb047648a03f68a11ed52c89923.png", 07:00-27/07: CD Independiente Juniors vs Macara - Ecuadorian Campeonato Serie B
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/5Kh3Idq.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c80157ca8b22dbdd45ef9feece285a2b.png", 06:00-27/07: Pittsburgh Riverhounds vs Indy Eleven - United States Soccer Leagues First Division
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/Lu973Yz.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c80157ca8b22dbdd45ef9feece285a2b.png", 10:00-27/07: Sacramento Republic FC vs Phoenix Rising FC - United States Soccer Leagues First Division
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/6bONZne.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 17:00-27/07: Australia (w) vs Nigeria (w) - Women's World Cup 2023
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/oNTQq5S.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 14:30-27/07: Portugal (w) vs Vietnam (w) - Women's World Cup 2023
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/2CNur7N.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png", 02:15-27/07: Stjarnan Gardabaer vs Fram Reykjavik - Iceland Premier League
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/9pcWTOp.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 17:00-27/07: Al-Nasr(KSA) vs Inter Milan - International Club Friendly
+
+
+
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 17:20-27/07: Al-Nasr(KSA) vs Inter Milan - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/tsEpUpy.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 08:00-27/07: USA (w) vs Netherland (w) - Women's World Cup 2023
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/YJYOSJU.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/21373345355d0d46050508d0818a463a.png", 04:00-27/07: Excursionistas vs Almagro - Copa Argentina
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/dTOJOVy.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/21373345355d0d46050508d0818a463a.png", 07:10-27/07: San Lorenzo vs CA Platense - Copa Argentina
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/qb8D1Df.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png", 01:30-27/07: Stade Ouchy vs Lugano - Switzerland Super League
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/UVtpNSf.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 09:30-27/07: LA Galaxy vs Club Leon - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/l7kkhAM.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 06:30-27/07: Atletico San Luis vs New England Revolution - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/jnvPTSy.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 06:30-27/07: Montreal Impact vs DC United - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/hHvujYj.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 06:30-27/07: New York City Football Club vs Toronto FC - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/FHpwD0I.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 06:30-27/07: Philadelphia Union vs Queretaro FC - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/huRNeFu.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 08:30-27/07: Monterrey vs Real Salt Lake - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/eAbuL0s.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 10:00-27/07: Tigres UANL vs Portland Timbers - North America League Cup
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/4CEDo8D.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/1027723af57b4762a68aa269dc07b86b.png", 08:00-27/07: Santos De Guapiles vs Alajuelense - Costa Rica Primera Division
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/hUDxFTP.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/1027723af57b4762a68aa269dc07b86b.png", 09:00-27/07: Deportivo Saprissa vs Sporting San Jose - Costa Rica Primera Division
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/XBX9p88.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 07:15-27/07: Chelsea vs Newcastle United - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/G79cIGG.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 18:00-27/07: K League All Stars vs Atletico Madrid - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/yhkysXr.m3u8
@@ -4246,39 +4132,12 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/dsMbtsB.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png", 19:15-27/07: Viettel vs Hà Tĩnh - V League
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/wlYGBZW.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 07:30-27/07: Real Madrid vs Manchester United - International Club Friendly
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/3ade18e8a8a4e33f331267d4eba9d503.png", 20:00-27/07: Al-Sadd vs Wydad Casablanca - UAFA Club Cup
        
-https://code.vthanhtivi.pw/bongda/thapcamtv/Q2Iloqr.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 07:00-27/07: Crystal Palace vs Millonarios - International Club Friendly
+https://code.vthanhtivi.pw/bongda/thapcamtv/2WM8qlJ.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/3ade18e8a8a4e33f331267d4eba9d503.png", 22:00-27/07: Sifakesi vs Al Shorta - UAFA Club Cup
        
-https://code.vthanhtivi.pw/bongda/thapcamtv/nWk4WHO.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 06:00-27/07: Fulham vs Aston Villa - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/wcSxcGK.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 04:30-27/07: Brentford vs Brighton Hove Albion - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/KlIHpge.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 01:45-27/07: KI Klaksvik vs Hacken - UEFA Champions League
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/Z12sgCT.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 01:45-27/07: Ludogorets Razgrad vs NK Olimpija Ljubljana - UEFA Champions League
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/0EVrmDD.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 01:15-27/07: Rakow Czestochowa vs Qarabag - UEFA Champions League
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/VHPC0kb.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/55f09f44c319763fd155d3d68895f405.png", 10:05-27/07: Atletico La Paz vs Celaya FC - Mexico Ascenso MX
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/bopyfTL.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/55fd0d3e82c8cd6db8f5b58d0de7b415.png", 07:30-27/07: Gremio (RS) vs Flamengo - Brazilian Cup
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/71gYzdF.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/11ca0fe4febca9e749bb30205c3c1326.png", 06:00-27/07: Forward Madison FC vs Tormenta FC - United States National Premier Soccer League
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/YB9570V.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/11ca0fe4febca9e749bb30205c3c1326.png", 06:00-27/07: North Carolina vs Northern Colorado - United States National Premier Soccer League
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/oU3kXyG.m3u8
+https://code.vthanhtivi.pw/bongda/thapcamtv/RpxMzBv.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 22:00-27/07: Alashkert vs Debrecin VSC - Europa Conference League
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/CkRhe9c.m3u8
@@ -4288,70 +4147,25 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/tKAnu6d.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 22:00-27/07: Inter Club Escaldes vs Hibernian - Europa Conference League
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/vlLqSHq.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png", 03:30-27/07: Tigres Zipaquira vs Deportivo Pereira - Colombian Copa BetPlay DIMAYOR
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/wwqRATd.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png", 06:30-27/07: Alianza Petrolera vs Deportes Tolima - Colombian Copa BetPlay DIMAYOR
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/dnfFbQO.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d280a6d7e9637bc02b3b64511474c3f0.png", 08:00-27/07: America de Cali vs Atletico Nacional Medellin - Colombian Copa BetPlay DIMAYOR
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/dLPUpYK.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://i.imgur.com/LDybNeK.png", 07:00-27/07: Sharks 9-Ball vs Open - Shark 9-Ball Open
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/X6ntmvo.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/badminton.png", 08:00-27/07: DAIHATSU Japan Open vs 2023 - Cầu lông
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/4c561dfd587835ac774d5bb5515db8e4.jpg", 22:00-27/07: Buxoro FK vs Turon Nukus - Uzbekistan Super League
        
-https://code.vthanhtivi.pw/bongda/thapcamtv/6CMJaXy.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Glasgow Rangers vs Olympiakos Piraeus - International Club Friendly
+https://code.vthanhtivi.pw/bongda/thapcamtv/R0ZbQGp.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/files/tennis1.png", 18:00-27/07: ATP 500 vs Hamburg - Tennis
        
-https://code.vthanhtivi.pw/bongda/thapcamtv/ge80ISY.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Macclesfield Town vs Altrincham - International Club Friendly
+https://code.vthanhtivi.pw/bongda/thapcamtv/NXzZCDx.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png", 22:30-27/07: Netherlands (w) U19 vs Spain (w)  U19 - UEFA European U19 Women's Championship
        
-https://code.vthanhtivi.pw/bongda/thapcamtv/gj2ShZR.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="", 06:00-27/07: Trem-AP vs Independente AP - BRA AMP
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/aWFxPyb.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:30-27/07: Bradford City vs Middlesbrough - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/aZmfEbB.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 07:30-27/07: Real Madrid vs Manchester United - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/QvcPeq2.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/3856d1c82c6896c8c53370e31f36365d.png", 05:00-27/07: CA Talleres de Córdoba Reserves vs Newell's Reserves - Argentine Reserve League
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/DZr0Dzq.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:30-27/07: North Ferriby United vs Hull City - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/SMxqEzi.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Boston United vs Grimsby Town - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/hyLeLX9.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 09:30-27/07: Arsenal vs Barcelona - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/V1fWSPs.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:30-27/07: Belper Town vs Burton Albion - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/jOJ0vPG.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Long Eaton Utd vs Mansfield Town - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/QsWNb6W.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 02:00-27/07: Sporting Braga vs AS Roma - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/8gEN2Xz.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-27/07: Koninklijke HFC vs AZ Alkmaar (Youth) - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/MhcplXM.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 08:00-27/07: Tlaxcala FC vs Real Oviedo - International Club Friendly
-       
-https://code.vthanhtivi.pw/bongda/thapcamtv/T3m5r3n.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 22:00-27/07: Pháp vs Việt Nam - FIFA Women's Challenger Cup
+https://code.vthanhtivi.pw/bongda/thapcamtv/AHZjVWA.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 22:00-27/07: Pháp vs Việt Nam - FIVB Women's Challenger Cup
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/mRdOb40.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Pisa vs US Fiorenzuola - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/omD3EJe.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 18:00-27/07: RKC vs Marseille - International Club Friendly
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 18:07-27/07: RKC vs Marseille - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/ynF2jXU.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Naesby vs Middelfart G og - International Club Friendly
@@ -4360,6 +4174,42 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/wx2uoL4.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-27/07: SudTirol vs Sassuolo - International Club Friendly
        
 https://code.vthanhtivi.pw/bongda/thapcamtv/R5yBeyt.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-27/07: Pendikspor vs Ankaragucu - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/Z6XUn0T.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Apollon Limassol FC vs Al-Garrafa - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/i9x2vGX.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Banni Yas vs Galanta - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/NgN8LYH.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-27/07: Rabotnicki Skopje vs Al-Ettifaq - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/GKuSDno.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-27/07: Granada CF B vs Dhamk - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/9JzqEOU.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: FK Skopje vs FK Rinija Gostivar - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/ZKlP3KF.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Gubbio vs Cosenza Calcio 1914 - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/1IbFSdf.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-27/07: Mladost Novi Sad vs Kabel Novi Sad - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/Md70fGD.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 19:00-27/07: Tanzania U18 (W) vs Ethiopia U18 (W) - Giao hữu
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/VZAP8MJ.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png", 22:00-27/07: Uganda (W) U18 vs Zanzibar(W) U18 - Giao hữu
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/3jqrCyv.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-27/07: Al-Tai vs Ittihad Kalba - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/W6U2JBt.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-27/07: Al Ahli(UAE) vs Al Wehda(UAE) - International Club Friendly
+       
+https://code.vthanhtivi.pw/bongda/thapcamtv/CWDdgDo.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/8639c9ab792fbae1efdc56d398cc664c.png", 18:45-28/07: Albirex Niigata FC vs Tampines Rovers FC - Singapore Premier League
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/3T83avL.m3u8
@@ -4372,6 +4222,9 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/77ILkAn.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/44ef0488e528aa6d2578f73d50837a2b.png", 20:00-28/07: Terengganu vs Negeri Sembilan - Malaysian Super League
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/jE7TVkm.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/31beaaee73f7b112e64c14e0c20b0fbe.png", 04:00-28/07: Angostura FC vs Deportivo La Guaira - Venezuela Primera Division
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/w8xr5PY.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 07:00-28/07: Argentina (w) vs South Africa (w) - Women's World Cup 2023
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/jfHILb0.m3u8
@@ -4387,7 +4240,7 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/kxc9opX.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png", 18:35-28/07: Henan Songshan Longmen vs Shenzhen FC - China Super League
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/NizZJHz.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 18:00-28/07: Cerezo Osaka vs Paris Saint Germain (PSG) - International Club Friendly
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 17:20-28/07: Cerezo Osaka vs Paris Saint Germain (PSG) - International Club Friendly
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/Rsia2tq.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/529b2a49c763bc4349fdf9b0f94742f7.png", 22:15-28/07: Dukla Prague vs Vyskov - Czech National Football League
@@ -4507,7 +4360,10 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/Gyo2AI5.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png", 19:15-28/07: Hà Nội vs Nam Định - V League
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/37pRpnJ.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 19:00-28/07: Bordeaux vs Osasuna - International Club Friendly
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/3ade18e8a8a4e33f331267d4eba9d503.png", 00:00-28/07: Al-Ahli Tripoli vs Al Hilal - UAFA Club Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/i6pS4zR.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 21:00-28/07: Bordeaux vs Osasuna - International Club Friendly
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/1ychqnT.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 01:00-28/07: B36 Torshavn vs Haverfordwest County - Europa Conference League
@@ -4558,7 +4414,7 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/vOIfUzu.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 02:00-28/07: FK Shkupi vs Levski Sofia - Europa Conference League
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/ldKGBSy.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 00:00-28/07: KF Dukagjini vs Rijeka - Europa Conference League
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 01:00-28/07: KF Dukagjini vs Rijeka - Europa Conference League
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/EHKLdLn.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 02:00-28/07: FK Sutjeska Niksic vs FC Santa Coloma - Europa Conference League
@@ -4573,6 +4429,9 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/T9qLBZJ.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png", 00:00-28/07: Torpedo Kutaisi vs FK Aktobe Lento - Europa Conference League
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/b5rJ2xl.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/badminton.png", 08:00-28/07: DAIHATSU Japan Open vs 2023 - Cầu lông
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/6CMJaXy.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png", 03:00-28/07: Sporting Cristal vs EM Deportivo Binacional - Peru - Primera Division
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/BJAIj2V.m3u8
@@ -4597,61 +4456,193 @@ https://code.vthanhtivi.pw/bongda/thapcamtv/F2zWkGk.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:00-28/07: Feyenoord vs Villarreal - International Club Friendly
                
 https://code.vthanhtivi.pw/bongda/thapcamtv/9Ff1JYZ.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 12:30-28/07: Hapoel Marmorek lrony Rehovot vs Hapoel Raanana - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/jpT3V8U.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:30-28/07: Kortrijk U21 vs Wevelgem City - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/UCFBm6I.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:00-28/07: AS Furiani Agliani vs Bastia - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/uk57Fzu.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 01:45-28/07: Nottingham Forest vs Leeds United - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/dDvka3U.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:30-28/07: HSC 21 Brein vs Motherwell - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/lBVpL3s.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png", 13:15-28/07: Tianjin Shengde Women vs Guangzhou FC Women - Chinese Women's FA Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/KWJMn1U.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png", 13:15-28/07: Changchun Masses Properties (w) vs Beijing (w) - Chinese Women's FA Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/cYUtKFX.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png", 15:30-28/07: ShanXi Oya (w) vs Yongchuan Chashan bamboo sea Women's - Chinese Women's FA Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/Ch9gvR3.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/c33807273285bfde53dbbc5bf70a698e.png", 15:30-28/07: Guangdong Meizhou Huijun (w) vs Wuhan Jianghan (w) - Chinese Women's FA Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/LoM1FZi.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 01:30-28/07: Ukraine vs Croatia - FIVB Women's Challenger Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/kdh1SGK.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 15:00-28/07: Tunisia vs Chile - FIVB Men's Challenger Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/W9LpuS7.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 18:00-28/07: Ukraine vs Trung Quốc - FIVB Men's Challenger Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/OlDPaVQ.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 21:00-28/07: Qatar vs Thái Lan - FIVB Men's Challenger Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/qRy3GZN.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 01:30-28/07: Ukraine vs Croatia - FIVB Women's Challenger Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/rDn2XNq.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://static.vebotv.app/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png", 22:00-28/07: Mexico vs Thụy Điển - FIVB Women's Challenger Cup
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/jeAQcyG.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:00-28/07: KFUM Roskilde vs Roskilde - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/kReUSXI.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 19:00-28/07: Freiburg II vs TSG Hoffenheim (Youth) - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/VCE4P2c.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-28/07: Fortuna Koln vs FC Koln - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/6LHpMS2.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 22:00-28/07: Avranches vs Concarneau - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/vXRgaYm.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 16:00-28/07: Como vs Pro Patria - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/8oJMOvT.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-28/07: FC Rouen vs St Pryve St Hilaire - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/BhllncX.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá | ThapcamTV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 23:30-28/07: Preuben Munster vs Kickers Offenbach - International Club Friendly
+               
+https://code.vthanhtivi.pw/bongda/thapcamtv/c1w5we5.m3u8
 
 	
 
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 21:30-26/07: Georgia U18 - Bosnia & Herzegovina U18 (ECMU18B) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 21:30-26/07: Iceland U18 - North Macedonia U18 (ECMU18B) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 21:30-26/07: Netherlands U18 - Ireland U18 (ECMU18B) - KING
-https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230716/4f54210625a67ef19ff3fc5dbd7d55db.jpg", 22:00-26/07: Metta/LU Riga - FK Liepaja (LAT D1) - LUCY
-https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 22:00-26/07: Metta/LU Riga - FK Liepaja (LAT D1) - BLV SÓI
-https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 22:00-26/07: Metta/LU Riga - FK Liepaja (LAT D1) - BLV ODIN
-https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 22:00-26/07: Metta/LU Riga - FK Liepaja (LAT D1) - BLV QUICK
-https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 22:00-26/07: Metta/LU Riga - FK Liepaja (LAT D1) - TẠ BIÊN GIỚI
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 22:00-26/07: Metta/LU Riga - FK Liepaja (LAT D1) - BLV PELE
-https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 22:00-26/07: FC Struga Trim-Lum - FK Buducnost Podgorica (UEFA ECL) - BLV Củ Cải
-https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 22:00-26/07: FC Struga Trim-Lum - FK Buducnost Podgorica (UEFA ECL) - BLV RID
-https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg", 22:00-26/07: FC Struga Trim-Lum - FK Buducnost Podgorica (UEFA ECL) - GIÀ LÀNG
-https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png", 22:00-26/07: FC Struga Trim-Lum - FK Buducnost Podgorica (UEFA ECL) - A PHẠCH
-https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 22:00-26/07: FC Struga Trim-Lum - FK Buducnost Podgorica (UEFA ECL) - CỦ CHUỐI
-https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 22:00-26/07: FC Struga Trim-Lum - FK Buducnost Podgorica (UEFA ECL) - BLV GÀ RỪNG
-https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 22:30-26/07: Fakel Voronezh - PFC Sochi (RUS CUP) - TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 22:30-26/07: Fakel Voronezh - PFC Sochi (RUS CUP) - BLV Maximus
-https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 22:30-26/07: Fakel Voronezh - PFC Sochi (RUS CUP) - DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 22:30-26/07: Fakel Voronezh - PFC Sochi (RUS CUP) - BLV  TYPN
-https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230723/686ce85eb51b3c47ec213499e3d2ea0c.jpg", 22:30-26/07: Fakel Voronezh - PFC Sochi (RUS CUP) - BLV A LÔI
-https://code.vthanhtivi.pw/bongda/socolive/342075.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 22:30-26/07: Krylya Sovetov Samara - Baltika Kaliningrad (RUS CUP) - BLV RICARDO
-https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 22:30-26/07: Krylya Sovetov Samara - Baltika Kaliningrad (RUS CUP) - MĂNG CỤT
-https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg", 22:30-26/07: Krylya Sovetov Samara - Baltika Kaliningrad (RUS CUP) - BLV LOTELLI
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 17:15-27/07: Inter Milan - Al-Nassr FC (INT CF) - BLV SINGER
+https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 17:15-27/07: Inter Milan - Al-Nassr FC (INT CF) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 17:15-27/07: Inter Milan - Al-Nassr FC (INT CF) - BLV TONY
+https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 17:15-27/07: Inter Milan - Al-Nassr FC (INT CF) - SAITAMA
+https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 17:15-27/07: Inter Milan - Al-Nassr FC (INT CF) - BLV CAPTAIN
+https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/73129bbc17c8d8af00f222127c307a91.jpg", 17:15-27/07: Inter Milan - Al-Nassr FC (INT CF) - G HIP
+https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg", 18:00-27/07: K-League All Stars - Atletico Madrid (INT CF) - BLV LOTELLI
 https://code.vthanhtivi.pw/bongda/socolive/195586.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 22:30-26/07: Krylya Sovetov Samara - Baltika Kaliningrad (RUS CUP) - BLV RAM
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 18:00-27/07: K-League All Stars - Atletico Madrid (INT CF) - PHI HÀNH
+https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 18:00-27/07: K-League All Stars - Atletico Madrid (INT CF) - BLV POPPY
+https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 18:00-27/07: K-League All Stars - Atletico Madrid (INT CF) - BLV LOGAN
+https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 18:00-27/07: K-League All Stars - Atletico Madrid (INT CF) - CỦ CHUỐI
+https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 18:00-27/07: K-League All Stars - Atletico Madrid (INT CF) - BABY BOY
+https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 18:00-27/07: CLB Thanh Hoa - CLB Binh DInh (VIE D1) - BLV Củ Cải
+https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 18:00-27/07: CLB Thanh Hoa - CLB Binh DInh (VIE D1) - BLV RID
+https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 18:00-27/07: CLB Thanh Hoa - CLB Binh DInh (VIE D1) - BLV PELE
+https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 18:00-27/07: CLB Thanh Hoa - CLB Binh DInh (VIE D1) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 18:00-27/07: CLB Thanh Hoa - CLB Binh DInh (VIE D1) - BLV ZICO
+https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg", 18:00-27/07: Waalwijk - Marseille (INT CF) - BLV BACAR
+https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 18:00-27/07: Waalwijk - Marseille (INT CF) - VAN PEPSI
+https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 18:00-27/07: Waalwijk - Marseille (INT CF) - BLV SÓI
+https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 18:00-27/07: Waalwijk - Marseille (INT CF) - SUNNY
+https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 18:00-27/07: Waalwijk - Marseille (INT CF) - CÔNG LÝ
+https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 18:00-27/07: Waalwijk - Marseille (INT CF) - LIAN
+https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 19:15-27/07: Viettel FC - Hong Linh Ha Tinh (VIE D1) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 19:15-27/07: Viettel FC - Hong Linh Ha Tinh (VIE D1) - BLV EDWARD
+https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg", 19:15-27/07: Viettel FC - Hong Linh Ha Tinh (VIE D1) - BLV KAIDO
+https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230723/686ce85eb51b3c47ec213499e3d2ea0c.jpg", 19:15-27/07: Viettel FC - Hong Linh Ha Tinh (VIE D1) - BLV A LÔI
+https://code.vthanhtivi.pw/bongda/socolive/342075.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 19:15-27/07: Viettel FC - Hong Linh Ha Tinh (VIE D1) - BLV RAM
 https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg", 22:30-26/07: Krylya Sovetov Samara - Baltika Kaliningrad (RUS CUP) - DƯƠNG QUÁ
-https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg", 22:30-26/07: Krylya Sovetov Samara - Baltika Kaliningrad (RUS CUP) - BLV BÁC SĨ
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg", 19:15-27/07: Viettel FC - Hong Linh Ha Tinh (VIE D1) - GIÀ LÀNG
+https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 20:00-27/07: Al-Sadd - Wydad (INT CF) - SUNNY
+https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 20:00-27/07: Al-Sadd - Wydad (INT CF) - BLV VĂN TÍCH
+https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 20:00-27/07: Al-Sadd - Wydad (INT CF) - BLV ENZO
+https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 20:00-27/07: Al-Sadd - Wydad (INT CF) - BLV SHOGUN
+https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg", 20:00-27/07: Al-Sadd - Wydad (INT CF) - BLV BÁC SĨ
 https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 20:00-27/07: Al-Sadd - Wydad (INT CF) - BLV TONY
+https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 20:00-27/07: Malta U16 - Albania U16 (ECMU16C) - KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 20:00-27/07: Malta U16 - Albania U16 (ECMU16C) - IVANN
+https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 21:00-27/07: FC Bukovyna chernivtsi - Nyva Ternopil (UKR D2) - BLV HOPE
+https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 21:00-27/07: FC Bukovyna chernivtsi - Nyva Ternopil (UKR D2) - BLV CAPTAIN
+https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/73129bbc17c8d8af00f222127c307a91.jpg", 21:00-27/07: FC Bukovyna chernivtsi - Nyva Ternopil (UKR D2) - G HIP
+https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 21:00-27/07: FC Bukovyna chernivtsi - Nyva Ternopil (UKR D2) - TAM MAO
+https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 21:00-27/07: FC Bukovyna chernivtsi - Nyva Ternopil (UKR D2) - BLV Maximus
+https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg", 21:00-27/07: FC Bukovyna chernivtsi - Nyva Ternopil (UKR D2) - BLV FANCY
+https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 22:00-27/07: Ordabasy - Legia Warszawa (UEFA ECL) - DECO
+https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 22:00-27/07: Ordabasy - Legia Warszawa (UEFA ECL) - BLV CHOVY
+https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 22:00-27/07: Ordabasy - Legia Warszawa (UEFA ECL) - BLV TOMIA
+https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 22:00-27/07: Ordabasy - Legia Warszawa (UEFA ECL) - BLV LONG
+https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 22:00-27/07: Alashkert - Debreceni VSC (UEFA ECL) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg", 22:00-27/07: Alashkert - Debreceni VSC (UEFA ECL) - BLV BÁC SĨ
+https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 22:00-27/07: Alashkert - Debreceni VSC (UEFA ECL) - BLV QUICK
+https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/e803f7107eddb39ce7a0c31ecd3f436a.jpg", 22:00-27/07: Alashkert - Debreceni VSC (UEFA ECL) - THẦY PHÁN
+https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg", 22:00-27/07: FC Ararat-Armenia - Aris Thessaloniki (UEFA ECL) - BLV HAKI
+https://code.vthanhtivi.pw/bongda/socolive/359236.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230716/4f54210625a67ef19ff3fc5dbd7d55db.jpg", 22:00-27/07: FC Ararat-Armenia - Aris Thessaloniki (UEFA ECL) - LUCY
+https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 22:00-27/07: FC Ararat-Armenia - Aris Thessaloniki (UEFA ECL) - BLV MÍM
+https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 22:00-27/07: FC Ararat-Armenia - Aris Thessaloniki (UEFA ECL) - SAITAMA
+https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 22:00-27/07: Inter Club D'Escaldes - Hibernian FC (UEFA ECL) - BLV RICARDO
+https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 22:00-27/07: Inter Club D'Escaldes - Hibernian FC (UEFA ECL) - MĂNG CỤT
+https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg", 22:00-27/07: Inter Club D'Escaldes - Hibernian FC (UEFA ECL) - BLV KAKA
+https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 22:00-27/07: Inter Club D'Escaldes - Hibernian FC (UEFA ECL) - BIGBA BALL
+https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg", 23:00-27/07: Bodo Glimt - FC Bohemians 1905 (UEFA ECL) - GIÀ LÀNG
 https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg", 23:00-27/07: Bodo Glimt - FC Bohemians 1905 (UEFA ECL) - BLV TAP
@@ -4668,6 +4659,8 @@ https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg", 23:00-27/07: Qabala - AC Omonia Nicosia (UEFA ECL) - BLV KAIDO
 https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg", 00:00-28/07: Racing Santander - Ath Bilbao (INT CF) - BLV FANCY
+https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 00:00-28/07: FC Krasnodar - Spartak Moscow (RUS CUP) - BLV PELE
 https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 00:00-28/07: FC Krasnodar - Spartak Moscow (RUS CUP) - BLV PEWPEW
@@ -4678,8 +4671,12 @@ https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg", 00:00-28/07: FC Krasnodar - Spartak Moscow (RUS CUP) - SONBAEMIN
 https://code.vthanhtivi.pw/bongda/socolive/201986.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg", 00:00-28/07: FC Krasnodar - Spartak Moscow (RUS CUP) - BLV KAKA
+https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/e803f7107eddb39ce7a0c31ecd3f436a.jpg", 00:00-28/07: CSKA Sofia - Sepsi OSK Sfantul Gheorghe (UEFA ECL) - THẦY PHÁN
 https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 00:00-28/07: CSKA Sofia - Sepsi OSK Sfantul Gheorghe (UEFA ECL) - BABY BOY
+https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg", 00:00-28/07: Djurgardens - Luzern (UEFA ECL) - BLV BÁC SĨ
 https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 00:00-28/07: Djurgardens - Luzern (UEFA ECL) - BLV ZICO
@@ -4700,8 +4697,6 @@ https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 00:30-28/07: FC Basel 1893 - Tobol Kostanai (UEFA ECL) - BLV CAPTAIN
 https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 00:30-28/07: FC Basel 1893 - Tobol Kostanai (UEFA ECL) - BLV RID
-https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg", 00:30-28/07: CFR Cluj - Adana Demirspor (UEFA ECL) - BLV BACAR
 https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 00:30-28/07: CFR Cluj - Adana Demirspor (UEFA ECL) - CỦ CHUỐI
@@ -4726,8 +4721,6 @@ https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg", 01:30-28/07: Austria Wien - Borac Banja Luka (UEFA ECL) - BLV KAIDO
 https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 01:30-28/07: Austria Wien - Borac Banja Luka (UEFA ECL) - BLV LONG
-https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 01:45-28/07: Derry City - KuPs (UEFA ECL) - BLV PUKA
 https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 01:45-28/07: Nottingham - Leeds (INT CF) - BLV LONG
@@ -4742,14 +4735,14 @@ https://code.vthanhtivi.pw/bongda/socolive/214855.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 01:45-28/07: Nottingham - Leeds (INT CF) - BLV TOMIA
 https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 02:30-28/07: Los Angeles Sparks W - Indiana Fever W (WNBA) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg", 03:00-28/07: Sporting Cristal - EM Deportivo Binacional (PER D1) - BLV MESSI
 https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 03:00-28/07: Sporting Cristal - EM Deportivo Binacional (PER D1) - BLV CHOVY
 https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 03:00-28/07: Sporting Cristal - EM Deportivo Binacional (PER D1) - BLV CHARLIE
 https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 03:00-28/07: Sporting Cristal - EM Deportivo Binacional (PER D1) - BLV MÁT GAI
-https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 04:00-28/07: Cucuta - Atletico Junior Barranquilla (COL Cup) - BLV TOMIA
 https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 04:00-28/07: Cucuta - Atletico Junior Barranquilla (COL Cup) - BLV LONG
@@ -4762,6 +4755,14 @@ https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/214855.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 04:00-28/07: Cucuta - Atletico Junior Barranquilla (COL Cup) - BLV GÀ RỪNG
 https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 06:00-28/07: New York Liberty W - Atlanta Dream W (WNBA) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 06:00-28/07: New York Liberty W - Atlanta Dream W (WNBA) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 06:00-28/07: New York Liberty W - Atlanta Dream W (WNBA) - IVANN
+https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 06:00-28/07: New York Liberty W - Atlanta Dream W (WNBA) - KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 07:00-28/07: Argentina Women - South Africa Women (WWC) - DECO
 https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 07:00-28/07: Argentina Women - South Africa Women (WWC) - RICKHANTER
@@ -4786,10 +4787,10 @@ https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 07:00-28/07: Chivas Guadalajara - FC Cincinnati (CNCF LC) - CHÂU TINH TRÌ
 https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg", 07:00-28/07: Chivas Guadalajara - FC Cincinnati (CNCF LC) - BLV KAKA
-https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230628/ac2371709b24b0ecf56da5ffad4f75e2.jpg", 07:00-28/07: Chivas Guadalajara - FC Cincinnati (CNCF LC) - BLV TIGER
 https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg", 07:00-28/07: Chivas Guadalajara - FC Cincinnati (CNCF LC) - BLV KAKA
+https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 07:30-28/07: Minnesota United FC - Chicago Fire (CNCF LC) - BLV SHOGUN
 https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 07:30-28/07: Minnesota United FC - Chicago Fire (CNCF LC) - VAN PEPSI
@@ -4798,20 +4799,20 @@ https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/214855.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 07:30-28/07: Nashville - Toluca (CNCF LC) - BABY BOY
 https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 07:30-28/07: Nashville - Toluca (CNCF LC) - CÔNG LÝ
-https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 07:30-28/07: Nashville - Toluca (CNCF LC) - LIAN
 https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg", 07:30-28/07: Nashville - Toluca (CNCF LC) - BLV LOTELLI
+https://code.vthanhtivi.pw/bongda/socolive/195586.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 08:00-28/07: Deportivo Cali - Independiente Santa Fe (COL Cup) - BLV POPPY
 https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230708/6ff96ec135238573bb4b9239e32a9393.jpg", 08:00-28/07: Deportivo Cali - Independiente Santa Fe (COL Cup) - BLV SHELBY
 https://code.vthanhtivi.pw/bongda/socolive/386223.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 08:00-28/07: Deportivo Cali - Independiente Santa Fe (COL Cup) - BLV TONY
 https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 08:30-28/07: AD San Carlos - AD Grecia (CRC D1) - BLV QUICK
-https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 08:30-28/07: AD San Carlos - AD Grecia (CRC D1) - BLV ENZO
 https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 08:30-28/07: AD San Carlos - AD Grecia (CRC D1) - CÔNG LÝ
+https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 09:00-28/07: Cartagines Deportiva SA - AD Guanacasteca (CRC D1) - BLV FIREMAN
 https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 09:00-28/07: Cartagines Deportiva SA - AD Guanacasteca (CRC D1) - BLV AK47
@@ -4842,8 +4843,6 @@ https://code.vthanhtivi.pw/bongda/socolive/195586.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg", 09:30-28/07: Juventus - AC Milan (INT CF) - BLV RIO
 https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 09:30-28/07: SD Loyal - Dortmund (INT CF) - BLV LOGAN
-https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 09:30-28/07: SD Loyal - Dortmund (INT CF) - KHÔNG NGỦ
 https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 09:30-28/07: SD Loyal - Dortmund (INT CF) - BLV HOPE
@@ -4852,6 +4851,24 @@ https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/73129bbc17c8d8af00f222127c307a91.jpg", 09:30-28/07: SD Loyal - Dortmund (INT CF) - G HIP
 https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 09:30-28/07: SD Loyal - Dortmund (INT CF) - BLV SINGER
+https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 14:00-28/07: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 14:00-28/07: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV LOGAN
+https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 14:00-28/07: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - SÙNG A MÚP
+https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 14:00-28/07: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV ODIN
+https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/73129bbc17c8d8af00f222127c307a91.jpg", 14:00-28/07: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - G HIP
+https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 14:30-28/07: Northern Kahu W - Mid-North Whai W (WNZT) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 14:30-28/07: Northern Kahu W - Mid-North Whai W (WNZT) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 14:30-28/07: Northern Kahu W - Mid-North Whai W (WNZT) - IVANN
+https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 15:00-28/07: Persikabo 1973 - Persita Tangerang (IDN D1) - BLV MÍM
 https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 15:00-28/07: Persikabo 1973 - Persita Tangerang (IDN D1) - CHÂU TINH TRÌ
@@ -4866,16 +4883,14 @@ https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 15:00-28/07: PSIS Semarang - Borneo FC (IDN D1) - SAITAMA
 https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg", 15:00-28/07: PSIS Semarang - Borneo FC (IDN D1) - BLV LOTELLI
-https://code.vthanhtivi.pw/bongda/socolive/195586.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230628/ac2371709b24b0ecf56da5ffad4f75e2.jpg", 15:00-28/07: PSIS Semarang - Borneo FC (IDN D1) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 15:00-28/07: PSIS Semarang - Borneo FC (IDN D1) - BLV MÁT GAI
 https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230708/6ff96ec135238573bb4b9239e32a9393.jpg", 15:00-28/07: PSIS Semarang - Borneo FC (IDN D1) - BLV SHELBY
 https://code.vthanhtivi.pw/bongda/socolive/386223.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 15:00-28/07: PSIS Semarang - Borneo FC (IDN D1) - BLV RICARDO
 https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 15:00-28/07: PSIS Semarang - Borneo FC (IDN D1) - BLV QUICK
+https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png", 15:30-28/07: England Women - Denmark Women (WWC) - BLV NONAME
 https://code.vthanhtivi.pw/bongda/socolive/167414.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 15:30-28/07: England Women - Denmark Women (WWC) - TẠ BIÊN GIỚI
@@ -4908,8 +4923,10 @@ https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 16:00-28/07: Ayeyawady united - Mahar United (MYA D1) - BLV ENZO
 https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 16:30-28/07: Sydney FC (Youth) - Spirit FC (AUS NSW) - BLV QUICK
-https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 16:00-28/07: Gold Coast Rollers - South West Metro Pirates (NBL1N) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 16:30-28/07: Sydney FC (Youth) - Spirit FC (AUS NSW) - BLV RID
+https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg", 16:30-28/07: Shan United - Myawady (MYA D1) - BLV HAKI
 https://code.vthanhtivi.pw/bongda/socolive/359236.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 16:30-28/07: Shan United - Myawady (MYA D1) - BLV ROMEO
@@ -4918,12 +4935,14 @@ https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 16:30-28/07: Shan United - Myawady (MYA D1) - BLV GEM
 https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg", 17:00-28/07: Moreton Bay United - Brisbane City (AUS NPLQ) - BLV KAIDO
-https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 16:30-28/07: Nigeria W - DR Congo W (AWFBC) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 17:00-28/07: Moreton Bay United - Brisbane City (AUS NPLQ) - CÔNG LÝ
 https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 17:00-28/07: Moreton Bay United - Brisbane City (AUS NPLQ) - LIAN
 https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 17:00-28/07: Moreton Bay United - Brisbane City (AUS NPLQ) - BLV GÀ RỪNG
+https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 17:15-28/07: Riverside Olympic - Launceston City (AUS TPL) - BLV EDWARD
 https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/e803f7107eddb39ce7a0c31ecd3f436a.jpg", 17:20-28/07: Paris Saint-Germain - Cerezo (INT CF) - THẦY PHÁN
@@ -4974,16 +4993,16 @@ https://code.vthanhtivi.pw/bongda/socolive/201986.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 18:35-28/07: Henan Football Club - Shenzhen Football Club (CHA SL) - BLV TONY
 https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 18:35-28/07: Henan Football Club - Shenzhen Football Club (CHA SL) - BLV A NÚI
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/73129bbc17c8d8af00f222127c307a91.jpg", 18:35-28/07: Henan Football Club - Shenzhen Football Club (CHA SL) - G HIP
 https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 18:35-28/07: Henan Football Club - Shenzhen Football Club (CHA SL) - SAITAMA
 https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 18:35-28/07: Henan Football Club - Shenzhen Football Club (CHA SL) - BLV VĂN TÍCH
+https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 18:45-28/07: Albirex Niigata FC - Tampines Rovers FC (SIN D1) - SUNNY
 https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 18:45-28/07: Albirex Niigata FC - Tampines Rovers FC (SIN D1) - BLV VĂN TÍCH
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 18:45-28/07: Albirex Niigata FC - Tampines Rovers FC (SIN D1) - BLV ENZO
+https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 18:45-28/07: DPMM FC - Geylang International (SIN D1) - BLV POPPY
 https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230716/4f54210625a67ef19ff3fc5dbd7d55db.jpg", 18:45-28/07: DPMM FC - Geylang International (SIN D1) - LUCY
@@ -5008,12 +5027,12 @@ https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg", 19:15-28/07: T T Hanoi - Nam Dinh FC (VIE D1) - GIÀ LÀNG
 https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg", 19:15-28/07: T T Hanoi - Nam Dinh FC (VIE D1) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 19:15-28/07: T T Hanoi - Nam Dinh FC (VIE D1) - DECO
 https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 19:15-28/07: T T Hanoi - Nam Dinh FC (VIE D1) - BLV GÀ RỪNG
-https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg", 19:15-28/07: T T Hanoi - Nam Dinh FC (VIE D1) - BLV KAIDO
+https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 19:15-28/07: T T Hanoi - Nam Dinh FC (VIE D1) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 19:30-28/07: Vitesse Arnhem - Eintracht Frankfurt (INT CF) - TAM MAO
 https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 19:30-28/07: Vitesse Arnhem - Eintracht Frankfurt (INT CF) - BLV BOM
@@ -5026,22 +5045,26 @@ https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 19:30-28/07: Vitesse Arnhem - Eintracht Frankfurt (INT CF) - PHI HÀNH
 https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 19:30-28/07: Ho Chi Minh City Wings - Can Tho Catfish (VBA) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg", 19:30-28/07: Ho Chi Minh City Wings - Can Tho Catfish (VBA) - DR STRANGE
+https://code.vthanhtivi.pw/bongda/socolive/252519.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 19:30-28/07: Mali W - Uganda W (AWFBC) - KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 20:00-28/07: Kelantan United - PDRM (MAS SL) - SÙNG A MÚP
 https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 20:00-28/07: Kelantan United - PDRM (MAS SL) - CHÂU TINH TRÌ
 https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 20:00-28/07: Kelantan United - PDRM (MAS SL) - TẠ BIÊN GIỚI
 https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg", 20:00-28/07: Kelantan United - PDRM (MAS SL) - BLV LOTELLI
-https://code.vthanhtivi.pw/bongda/socolive/195586.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 20:00-28/07: Terengganu - Negeri Sembilan (MAS SL) - BLV PEWPEW
-https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg", 20:00-28/07: Terengganu - Negeri Sembilan (MAS SL) - SONBAEMIN
-https://code.vthanhtivi.pw/bongda/socolive/201986.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 20:00-28/07: Terengganu - Negeri Sembilan (MAS SL) - BLV CAPTAIN
-https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 20:00-28/07: Kelantan United - PDRM (MAS SL) - BLV Củ Cải
+https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 20:00-28/07: Terengganu - Negeri Sembilan (MAS SL) - BLV MÁT GAI
 https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230723/686ce85eb51b3c47ec213499e3d2ea0c.jpg", 20:00-28/07: Terengganu - Negeri Sembilan (MAS SL) - BLV A LÔI
+https://code.vthanhtivi.pw/bongda/socolive/342075.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 20:00-28/07: Terengganu - Negeri Sembilan (MAS SL) - BLV LOGAN
+https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 21:00-28/07: Obolon Kiev - Kolos Kovalyovka (UKR D1) - BLV PELE
 https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 21:00-28/07: Obolon Kiev - Kolos Kovalyovka (UKR D1) - BLV SÓI
@@ -5050,16 +5073,12 @@ https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 21:00-28/07: Obolon Kiev - Kolos Kovalyovka (UKR D1) - VAN PEPSI
 https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 21:00-28/07: Bordeaux - Osasuna (INT CF) - BABY BOY
-https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 21:00-28/07: Bordeaux - Osasuna (INT CF) - BLV QUICK
-https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 21:00-28/07: Bordeaux - Osasuna (INT CF) - LIAN
 https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 21:00-28/07: Bordeaux - Osasuna (INT CF) - BLV CAPTAIN
+https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg", 21:00-28/07: Union Berlin - Pafos (INT CF) - BLV BACAR
 https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 21:00-28/07: Union Berlin - Pafos (INT CF) - BLV LOGAN
-https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 21:00-28/07: Union Berlin - Pafos (INT CF) - BLV EDWARD
 https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 22:00-28/07: Ilves Tampere - Vaasa VPS (FIN D1) - MĂNG CỤT
@@ -5082,10 +5101,14 @@ https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 22:00-28/07: Olympic FK Tashkent - Pakhtakor (UZB PFL) - BLV SINGER
 https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 22:00-28/07: Olympic FK Tashkent - Pakhtakor (UZB PFL) - BLV BOM
-https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 22:00-28/07: Olympic FK Tashkent - Pakhtakor (UZB PFL) - BLV PUKA
 https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 22:00-28/07: Olympic FK Tashkent - Pakhtakor (UZB PFL) - BLV Maximus
+https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 22:00-28/07: Iceland U20 W - Austria U20 W (EBCWU20B) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 22:00-28/07: Romania U20 W - Georgia U20 W (EBCWU20B) - KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 22:30-28/07: Universitatea Craiova - Universitaea Cluj (ROM D1) - BLV ENZO
 https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg", 22:30-28/07: Universitatea Craiova - Universitaea Cluj (ROM D1) - GIÀ LÀNG
@@ -5098,8 +5121,6 @@ https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 22:30-28/07: Universitatea Craiova - Universitaea Cluj (ROM D1) - BLV Củ Cải
 https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 22:45-28/07: Trenkwalder Admira Wacker - SV Stripfing Weiden (AUT D2) - BLV A NÚI
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230714/73129bbc17c8d8af00f222127c307a91.jpg", 22:45-28/07: Trenkwalder Admira Wacker - SV Stripfing Weiden (AUT D2) - G HIP
 https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 22:45-28/07: Trenkwalder Admira Wacker - SV Stripfing Weiden (AUT D2) - BLV GÀ RỪNG
@@ -5118,10 +5139,10 @@ https://code.vthanhtivi.pw/bongda/socolive/195586.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 22:45-28/07: Lafnitz - Kapfenberg (AUT D2) - BLV SHOGUN
 https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 22:45-28/07: Lafnitz - Kapfenberg (AUT D2) - BLV Maximus
-https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg", 22:45-28/07: Lafnitz - Kapfenberg (AUT D2) - BLV MESSI
 https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
+#EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 22:45-28/07: Lafnitz - Kapfenberg (AUT D2) - BLV BOM
+https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg", 22:45-28/07: Leoben - SV Horn (AUT D2) - BLV KAIDO
 https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 22:45-28/07: Leoben - SV Horn (AUT D2) - BLV CÁ
@@ -5134,4 +5155,3 @@ https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
 #EXTINF:-1 group-title="⚽️| Bình loạn bóng đá |  Socolive" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 22:45-28/07: FC Liefering - FC Dornbirn (AUT D2) - CỦ CHUỐI
 https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8	
-	
