@@ -18,7 +18,10 @@ https://code.vthanhtivi.pw/getlink/mytv/449/hd.m3u8
 #EXTINF:-1 tvg-name="804" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv2)
 http://vmttv.anttv.xyz/mytv.php?id=449
 
-
+#EXTINF:-1 group-title="NIGHT WOLF V-LEAGUE 1 2023" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_lE 1go.svg.png", V-LEAGUE 1
+http://103.56.160.133/vleague1
+#EXTINF:-1 group-title="NIGHT WOLF V-LEAGUE 1 2023" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_lE 1go.svg.png", V-LEAGUE 2
+http://103.56.160.133/vleague2
 
 
 
