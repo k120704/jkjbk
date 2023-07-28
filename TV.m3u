@@ -157,6 +157,9 @@ http://vmttv.anttv.xyz/mytv.php?id=449
 https://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
+
+EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://mgkdc.com/logo", The Main Grandstand (Bình loạn đua xe)
+https://mgkdc.com/hls/stream.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://103.195.238.135:8080/logo", Dolphin x B4TV : BLV CÁ HEO (Bình loạn bóng đá)
 http://103.195.238.135:8080/hls/0/stream.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv.png", B4TV Connect (Kênh kết nối bóng đá)
