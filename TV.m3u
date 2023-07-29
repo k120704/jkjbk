@@ -164,8 +164,7 @@ https://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
 
-EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://mgkdc.com/logo", The Main Grandstand (Bình loạn đua xe)
-https://mgkdc.com/hls/stream.m3u8
+
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://103.195.238.135:8080/logo", Dolphin x B4TV : BLV CÁ HEO (Bình loạn bóng đá)
 http://103.195.238.135:8080/hls/0/stream.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv.png", B4TV Connect (Kênh kết nối bóng đá)
@@ -182,7 +181,8 @@ http://b4tv.live/b4tv/b4tv/1.m3u8
 http://b4tv.live/b4tv/b4tv/2.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://live.bep40.shop/b4tv4.png", B4TUBE (Kênh tin tức & đời sống)
 http://b4tv.live/b4tv/b4tv/4.m3u8
-
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://mgkdc.com/logo", The Main Grandstand (Bình loạn đua xe)
+https://mgkdc.com/hls/stream.m3u8
 
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_640_360.png", TV360 + 1
