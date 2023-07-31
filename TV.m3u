@@ -3170,7 +3170,16 @@ https://cntv.sbs/lhws?auth=2307100804
 https://cntv.sbs/fs?id=fhhk&auth=2307100804
 
 
-
+#EXTINF:-1 group-title="🇭🇰 | Hồng Kông" tvg-id="jade" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
+http://stream.cvmtv.site/Jade?token=live
+#EXTINF:-1 group-title="🇭🇰 | Hồng Kông" tvg-id="pearl" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Free-Pearl.png",TVB Pearl
+http://stream.cvmtv.site/Pearl?token=live
+#EXTINF:-1 group-title="🇭🇰 | Hồng Kông" tvg-id="j2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/j2.png",TVB J2
+http://stream.cvmtv.site/J2?token=live
+#EXTINF:-1 group-title="🇭🇰 | Hồng Kông" tvg-id="viu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1920px-ViuTV_logo.svg.png",ViuTV
+http://stream.cvmtv.site/Viu?token=live
+#EXTINF:-1 group-title="🇭🇰 | Hồng Kông" tvg-id="viu6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png",ViuTVsix
+http://stream.cvmtv.site/Viu6?token=live
 
 #EXTINF:-1 tvg-id="" group-title="🇭🇰 | Hồng Kông" tvg-logo="https://vipotv.com/wp-content/uploads/2022/11/hkibc-live-vipotv-china.png", HKIBC
 https://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w736934132.m3u8
