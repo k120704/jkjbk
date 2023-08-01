@@ -419,21 +419,21 @@ http://trx.p13.one/live/Americo/Americo/1872119.m3u8
 http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=250781&extension=ts&play_token=jHsQdsEZoZ
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 (ĐỘ TRỄ THẤP) (sv1)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 (ĐỘ TRỄ THẤP) (sv1)
 http://stream.cvmtv.site/vtv1?token=live
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 (ĐỘ TRỄ THẤP) (sv2)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 (ĐỘ TRỄ THẤP) (sv2)
 http://103.56.160.133/vmt/vtv1
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/337/hd/dvr-${start}-${end}.m3u8", VTV2 (ĐỘ TRỄ THẤP)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/337/hd/dvr-${start}-${end}.m3u8", VTV2 (ĐỘ TRỄ THẤP)
 http://103.56.160.133/vmt/vtv2
-#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 (ĐỘ TRỄ THẤP) (sv1)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 (ĐỘ TRỄ THẤP) (sv1)
 http://stream.cvmtv.site/vtv3?token=live
-#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 (ĐỘ TRỄ THẤP) (sv2)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 (ĐỘ TRỄ THẤP) (sv2)
 http://103.56.160.133/vmt/vtv3
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 (ĐỘ TRỄ THẤP) (sv1)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 (ĐỘ TRỄ THẤP) (sv1)
 http://103.56.160.133/vmt/vtv5
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 (ĐỘ TRỄ THẤP) (sv2)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 (ĐỘ TRỄ THẤP) (sv2)
 http://stream.cvmtv.site/vtv5?token=live
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-id="vtv5hdtnb" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png",VTV5 Tây Nam Bộ (ĐỘ TRỄ THẤP)
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-id="vtv5hdtnb" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png",VTV5 Tây Nam Bộ (ĐỘ TRỄ THẤP)
 http://stream.cvmtv.site/vtv5tnb?token=live
 
 
@@ -442,139 +442,166 @@ http://stream.cvmtv.site/vtv5tnb?token=live
 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 (MyTV)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 (MyTV)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1 (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=210
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 (MyTV)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/377/hd.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 (MyTV)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8", VTV2 (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=377
-#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 (MyTV)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/211/hd.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 (MyTV)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8", VTV3 (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=211
-#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8", VTV4 (MyTV)
+#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8", VTV4 (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8 
-#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8", VTV4 (MyTV)
+#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8", VTV4 (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=378
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 (MyTV)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8", VTV5 (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/379/hd.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ (MyTV)
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (MyTV)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/212/hd.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (MyTV)
+#EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=212
-#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7 (MyTV)
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7 (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/459/hd.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7 (MyTV)
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7 (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=459
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8 (MyTV)
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8 (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8 (MyTV)
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8 (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=380
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8", VTV9 (MyTV)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8", VTV9 (MyTV)
 https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8", VTV9 (MyTV)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8", VTV9 (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=381
 
 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (TV360)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (TV360)
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 (TV360)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 (TV360)
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
-#EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (TV360)
+#EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (TV360)
 https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
-#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV4 (TV360)
+#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV4 (TV360)
 https://tiemnhazunn.click/tv360/tv360.php?id=108
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8",VTV5 (TV360)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8",VTV5 (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8",VTV5 (TV360) (50fps)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8",VTV5 (TV360) (50fps)
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ (TV360)
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ (TV360)
 https://tiemnhazunn.click/tv360/tv360.php?id=157
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://tiemnhazunn.click/tv360/tv360.php?id=207
-#EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (TV360)
+#EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (TV360)
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv7hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV7 (TV360)
+#EXTINF:-1 tvg-id="vtv7hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV7 (TV360)
 https://tiemnhazunn.click/tv360/tv360.php?id=6
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8", VTV8 (TV360)
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8", VTV8 (TV360)
 https://tiemnhazunn.click/tv360/tv360.php?id=115
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", VTV9 (TV360)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", VTV9 (TV360)
 https://tiemnhazunn.click/tv360/tv360.php?id=8
 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (FPT Play)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv1-hd
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 (FPT Play)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv2-hd
-#EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (FPT Play)
+#EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv3-hd
-#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV4 (FPT Play)
+#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV4 (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv4-hd
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8",VTV5 (FPT Play)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8",VTV5 (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv5-hd
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ (FPT Play)
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nam Bộ (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv5-tay-nam-bo
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nguyên (FPT Play)
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 Tây Nguyên (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv5-tay-nguyen
-#EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (FPT Play)
+#EXTINF:-1 tvg-id="vtv6hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV Cần Thơ (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv-can-tho
-#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7 (FPT Play)
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8", VTV7 (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv7-hd
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8 (FPT Play)
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8", VTV8 (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv8-hd
-#EXTINF:-1 tvg-id="vtv9hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV9 (FPT Play)
+#EXTINF:-1 tvg-id="vtv9hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8", VTV9 (FPT Play)
 https://fbvip88.com/fptplay/getfpt.php?id=vtv9-hd
 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (VTVCab)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (VTVCab)
 https://liveh12.vtvcab.vn/hls/VTV1_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 (VTVCab)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 (VTVCab)
 https://liveh12.vtvcab.vn/hls/VTV2_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (VTVCab)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (VTVCab)
 https://liveh12.vtvcab.vn/hls/VTV3_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8",VTV4 (VTVCab)
+#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${end}.m3u8",VTV4 (VTVCab)
 https://liveh12.vtvcab.vn/hls/VTV4_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv6hd: group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8",VTV Cần Thơ (VTVCab)
+#EXTINF:-1 tvg-id="vtv6hd: group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/212/hd/dvr-${start}-${end}.m3u8",VTV Cần Thơ (VTVCab)
 https://liveh12.vtvcab.vn/hls/VTV6_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8",VTV7 (VTVCab)
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${end}.m3u8",VTV7 (VTVCab)
 https://liveh12.vtvcab.vn/hls/VTV7_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",VTV8 (VTVCab)
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",VTV8 (VTVCab)
 https://liveh12.vtvcab.vn/hls/VTV8_HD/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8",VTV9 (VTVCab)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${end}.m3u8",VTV9 (VTVCab)
 https://liveh12.vtvcab.vn/hls/VTV9_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png"  catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV4
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV5
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV5 Tay Nam Bộ 
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?khichtv|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtv6hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV7
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/46_3fad28d7.jpg?khichtv" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start} -${offset}.m3u8", VTV9
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
 
 
 
 
-
-
-#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (Vieon)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1 (Vieon)
 https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 (Vieon)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/377/hd/dvr-${start}-${end}.m3u8",VTV2 (Vieon)
 https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (Vieon)
+#EXTINF:-1 tvg-id="vtv3hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (Vieon)
 https://code.vthanhtivi.pw/getlink/vieon/vtv3-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV4 (Vieon)
+#EXTINF:-1 tvg-id="vtv4hd"group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV4 (Vieon)
 https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${offset}.m3u8", VTV5 (Vieon)
+#EXTINF:-1 tvg-id="vtv5hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${offset}.m3u8", VTV5 (Vieon)
 https://code.vthanhtivi.pw/getlink/vieon/vtv5-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8", VTV7 (Vieon)
+#EXTINF:-1 tvg-id="vtv7hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8", VTV7 (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8", VTV8 (Vieon)
+#EXTINF:-1 tvg-id="vtv8hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8", VTV8 (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", VTV9 (Vieon)
+#EXTINF:-1 tvg-id="vtv9hd" group-title="📦| VTV" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8", VTV9 (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 
@@ -736,110 +763,110 @@ https://hqth.me/onsportjungo
 
 
 
-#EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc1-hd/dvr-${start}-${offset}.m3u8", VTC1 HD
+#EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc1-hd/dvr-${start}-${offset}.m3u8", VTC1 HD
 https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc2-reidius-tv/dvr-${start}-${offset}.m3u8", VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc2-reidius-tv/dvr-${start}-${offset}.m3u8", VTC2
 https://code.vthanhtivi.pw/getlink/tv360/196/0.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc3-hd/dvr-${start}-${offset}.m3u8", VTC3 HD
+#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc3-hd/dvr-${start}-${offset}.m3u8", VTC3 HD
 https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc4-yeah1-family-hd/dvr-${start}-${offset}.m3u8", VTC4 HD
+#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc4-yeah1-family-hd/dvr-${start}-${offset}.m3u8", VTC4 HD
 https://code.vthanhtivi.pw/getlink/mytv/396/hd.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc5-hd/dvr-${start}-${offset}.m3u8", VTC5 HD
+#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc5-hd/dvr-${start}-${offset}.m3u8", VTC5 HD
 https://code.vthanhtivi.pw/getlink/mytv/397/hd.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc6/dvr-${start}-${offset}.m3u8", VTC6 HD
+#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc6/dvr-${start}-${offset}.m3u8", VTC6 HD
 https://code.vthanhtivi.pw/getlink/mytv/22/high.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc7-todaytv-hd/dvr-${start}-${offset}.m3u8", VTC7 HD - TodayTV
+#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc7-todaytv-hd/dvr-${start}-${offset}.m3u8", VTC7 HD - TodayTV
 https://code.vthanhtivi.pw/getlink/mytv/398/hd.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc8/dvr-${start}-${offset}.m3u8", VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc8/dvr-${start}-${offset}.m3u8", VTC8
 https://code.vthanhtivi.pw/getlink/tv360/202/0.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc9-hd/dvr-${start}-${offset}.m3u8", VTC9 HD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc9-hd/dvr-${start}-${offset}.m3u8", VTC9 HD
 https://code.vthanhtivi.pw/getlink/mytv/399/hd.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc10-1/dvr-${start}-${offset}.m3u8", VTC10 HD
+#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc10-1/dvr-${start}-${offset}.m3u8", VTC10 HD
 https://code.vthanhtivi.pw/getlink/mytv/29/hd.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc11-kids-tv/dvr-${start}-${offset}.m3u8", VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc11-kids-tv/dvr-${start}-${offset}.m3u8", VTC11
 https://code.vthanhtivi.pw/getlink/tv360/205/0.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K
+#EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K
 https://code.vthanhtivi.pw/getlink/mytv/463/high.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc13-hd/dvr-${start}-${offset}.m3u8", VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc13-hd/dvr-${start}-${offset}.m3u8", VTC13 HD
 https://code.vthanhtivi.pw/getlink/mytv/184/hd.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc14-hd/dvr-${start}-${offset}.m3u8", VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc14-hd/dvr-${start}-${offset}.m3u8", VTC14 HD
 https://code.vthanhtivi.pw/getlink/mytv/32/hd.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc16-hd/dvr-${start}-${offset}.m3u8", VTC16 HD
+#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtc16-hd/dvr-${start}-${offset}.m3u8", VTC16 HD
 http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 
 
-#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2 (Vieon)
+#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2 (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc2-reidius-tv
-#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc4-yeah1-family-hd/${start}/${offset}", VTC4 HD (Vieon)
+#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc4-yeah1-family-hd/${start}/${offset}", VTC4 HD (Vieon)
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc4-yeah1-family-hd
 #EXTVLCOPT:http-user-agent=VThanhTivi
-#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc5-hd/${start}/${offset}", VTC5 HD (Vieon)
+#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/36.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc5-hd/${start}/${offset}", VTC5 HD (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc5-hd
-#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD (Vieon)
+#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/37.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc6
-#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV (Vieon)
+#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/38.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc7-todaytv-hd/${start}/${offset}", VTC7 HD - TodayTV (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc7-todaytv-hd
-#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8 (Vieon)
+#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/39.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc8/${start}/${offset}", VTC8 (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD (Vieon)
+#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/40.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc9-hd/${start}/${offset}", VTC9 HD (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc9-hd
-#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD (Vieon)
+#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD (Vieon)
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc10-hd
-#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11 (Vieon)
+#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11 (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc11-kids-tv
-#EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K (Vieon)
+#EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc12
-#EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD (Vieon)
+#EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/44.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD (Vieon)
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc13-hd
-#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc14-hd/${start}/${offset}", VTC14 HD (Vieon)
+#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/45.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc14-hd/${start}/${offset}", VTC14 HD (Vieon)
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc14-hd
-#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16 HD (Vieon)
+#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/46.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtc16-hd/${start}/${offset}", VTC16 HD (Vieon)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tiemnhazunn.click/vieon/vieon.php?id=vtc16-hd
 
 
 
-#EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/41.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc1-hd/${start}/${offset}.m3u8", VTC1 HD
+#EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/41.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc1-hd/${start}/${offset}.m3u8", VTC1 HD
 https://1117141481.vnns.net/VTC1/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/42.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
 https://1117141481.vnns.net/VTC2/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/43.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc3-hd/${start}/${offset}.m3u8", VTC3 HD
+#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/43.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc3-hd/${start}/${offset}.m3u8", VTC3 HD
 https://1117141481.vnns.net/VTC3/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/44.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc4-yeah1-family-hd/${start}/${offset}.m3u8", VTC4 HD
+#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/44.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc4-yeah1-family-hd/${start}/${offset}.m3u8", VTC4 HD
 https://1117141481.vnns.net/VTC4/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/45.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc5-hd/${start}/${offset}.m3u8", VTC5 HD
+#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/45.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc5-hd/${start}/${offset}.m3u8", VTC5 HD
 https://1117141481.vnns.net/VTC5/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/46.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
+#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/46.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
 https://1117141481.vnns.net/VTC6/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/47.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc7-todaytv-hd/${start}/${offset}.m3u8.m3u8", VTC7 HD - TodayTV
+#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/47.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc7-todaytv-hd/${start}/${offset}.m3u8.m3u8", VTC7 HD - TodayTV
 https://1117141481.vnns.net/VTC7/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/48.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc8/${start}/${offset}.m3u8", VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/48.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc8/${start}/${offset}.m3u8", VTC8
 https://1117141481.vnns.net/VTC8/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/49.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc9-hd/${start}/${offset}.m3u8", VTC9 HD
+#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/49.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc9-hd/${start}/${offset}.m3u8", VTC9 HD
 https://1117141481.vnns.net/VTC9/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/50.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
+#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/50.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
 https://1117141481.vnns.net/VTC10/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
 https://1117141481.vnns.net/VTC11/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/52.png", VTC12 - VTC K
+#EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/52.png", VTC12 - VTC K
 https://1117141481.vnns.net/VTC12/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
+#EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC13 HD
 https://1117141481.vnns.net/VTC13/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/54.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc14-hd/${start}/${offset}.m3u8", VTC14 HD
+#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/54.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc14-hd/${start}/${offset}.m3u8", VTC14 HD
 https://1117141481.vnns.net/VTC14/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" tvg-logo="https://logo.anttv.xyz/55.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc16-hd/${start}/${offset}.m3u8", VTC16 HD
+#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" group-logo="https://logo.anttv.xyz/group/VTC.png" tvg-logo="https://logo.anttv.xyz/55.png" catchup="append" catchup-days="2" catchup-source="https://code.anttv.xyz/xemlai/vieon/vtc16-hd/${start}/${offset}.m3u8", VTC16 HD
 https://1117141481.vnns.net/VTC16/chunks.m3u8
 
 #-*--HTV&HTVC-*--#
@@ -970,50 +997,50 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
  
  
  
-#EXTINF:-1 tvg-id="klive1hd" group-title="🍭| K+ giải mã" tvg-logo="https://logo.anttv.xyz/101.png", K+ Live 1 (MyK+)
+#EXTINF:-1 tvg-id="klive1hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/101.png", K+ Live 1 (MyK+)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vw-i1bSHz9dkN-5L5FQ9Vf/m3u8
-#EXTINF:-1 tvg-id="klive2hd" group-title="🍭| K+ giải mã" tvg-logo="https://logo.anttv.xyz/102.png", K+ Live 2 (MyK+)
+#EXTINF:-1 tvg-id="klive2hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/102.png", K+ Live 2 (MyK+)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3u81fc88sUk_Rj6nQL5XrnG/m3u8
-#EXTINF:-1 tvg-id="klive3hd" group-title="🍭| K+ giải mã" tvg-logo="https://logo.anttv.xyz/103.png", K+ Live 3 (MyK+)
+#EXTINF:-1 tvg-id="klive3hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/103.png", K+ Live 3 (MyK+)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tduZwiei-zZDzVNOA0nWRB/m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv1)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s8Zm4QQc6bcBx2336I5rks/m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv2)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv2)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vxNXhcNtTciDISstk484jD/m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv3)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sRho_pn5x1G3-Ny6WAVpjp/m3u8
 
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 HD (sv1)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vUJIuwVXXLfzpy6BKECMDA/m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 HD (sv2)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 HD (sv2)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uf7M8WkjR68uhGC_SynKCk/m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 HD (sv3)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tYMrSEXvn3jK0YF_pANffI/m3u8
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (sv1)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3v4mbj5YthRNc-X95OiUTM4/m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (sv2)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (sv2)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ulOaEBo46W6kfSpD0vBOqI/m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (sv3)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vX_jmhEZMB1deSNJ1YFG4T/m3u8
 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv1)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sdSo_CDJzKPyLBLNZKfMlm/m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv2)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv2)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uR4AV8pMMHVX_47auYN1wo/m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv3)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uZ0ohXjTyZ4z9eHP7tsJC8/m3u8
 
 
-#EXTINF:-1 tvg-id="Kkidshd"group-title="🍭| K+ giải mã"  tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (sv1)
+#EXTINF:-1 tvg-id="Kkidshd"group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uFKPDVVARMjF5oOTVUaWxi/m3u8
-#EXTINF:-1 tvg-id="Kkidshd"group-title="🍭| K+ giải mã"  tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (sv2)
+#EXTINF:-1 tvg-id="Kkidshd"group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (sv2)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDqT9MdFh7yjDp16/m3u8
 
 
@@ -1022,7 +1049,7 @@ http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDq
 
 
 
-#EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive1/dvr-${start}-${end}.mpd", K+ Live 1 HD (MyK+) 
+#EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/101.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive1/dvr-${start}-${end}.mpd", K+ Live 1 HD (MyK+) 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dmp6prmr4QliOzzggkupjQ","kid":"lyUbdnxAQ3GgzwzyX//fNg"},{"kty":"oct","k":"+TCOiAyPnaUkGdOp99iOjA","kid":"32kbdnxAQ3GgzwzyX//fNg"},{"kty":"oct","k":"I9i6mGzMXKrjePDxNOH9Sw","kid":"7G1fp3xAQ3GgzwzyX//fNg"},{"kty":"oct","k":"I9j2urVJm71OROxK4gRPsw","kid":"2Hpfv8tAQ3GgzwzyX//fNg"}], "type":"temporary"} 
@@ -1031,7 +1058,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive2/dvr-${start}-${end}.mpd", K+ Live 2 HD (MyK+)
+#EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/102.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive2/dvr-${start}-${end}.mpd", K+ Live 2 HD (MyK+)
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dDne6KZ62B+Zto18e/p50g","kid":"QXSdPAX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"WMcAvoA7wlZrHX++La6QdA","kid":"ibidPAX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"6spodc4nCHDLP4ePZkqD7A","kid":"lrzhbQX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"oCLuUmYfnzsdM7n4hREgpA","kid":"gsnhhVT5TOyqmN8rMVrTCQ"}], "type":"temporary"} 
@@ -1040,7 +1067,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive3/dvr-${start}-${end}.mpd", K+ Live 3 HD (MyK+)
+#EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive3/dvr-${start}-${end}.mpd", K+ Live 3 HD (MyK+)
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jhwqqk/xL0jngyEDMeCguQ","kid":"jcHanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"0CMpqYfSyJYc8wUYbey75Q","kid":"1QXanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"iISnsTUxlCbyPNE0S28YVw","kid":"4gkezWFdRuGVteyGkVB4hw"},{"kty":"oct","k":"uGhZQ/L3uBQx+zqLZuU5Xw","kid":"zhYe5bBdRuGVteyGkVB4hw"}], "type":"temporary"} 
@@ -1050,56 +1077,32 @@ https://sglivevng.kplus.vn/bpk-tv/prod_klive3/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="sktt1" group-title="🍭| K+ MPD " tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_ProgramThumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 1 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cRGXB4ok02n1drY8L0ru7w","kid":"VTscnkBjS4Opiqre77aQ2Q"},{"kty":"oct","k":"qL0THpRuhcBLrghs+BNACg","kid":"nX8cnkBjS4Opiqre77aQ2Q"},{"kty":"oct","k":"u0rbvB6QwF+dZCyD+PCUQQ","kid":"qoNgz0BjS4Opiqre77aQ2Q"},{"kty":"oct","k":"2/nG1ZMKw5SQtgTr7hhlAA","kid":"lpBg549jS4Opiqre77aQ2Q"}], "type":"temporary"} 
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl1/default/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="sktt2" group-title="🍭| K+ MPD " tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_ProgramThumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 2 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M8oOpIDpKplABv9lDd0JnQ","kid":"AM/tP0PtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"MYlLEzqBIKivYfKANs4TTg","kid":"SBPtP0PtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"RT8Qj+V1n5GK7P0P6J9mGQ","kid":"VRcxcEPtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"HF1m5mMd0c0gg7O7pXteZg","kid":"QSQxiJLtRTKcIdMn8x/zQQ"}], "type":"temporary"} 
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl2/default/index.mpd 
-
-
-#EXTINF:-1 tvg-id="sktt3" group-title="🍭| K+ MPD " tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_ProgramThumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 3 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"98tTNDhiLyVMABQPl0VeBw","kid":"NU5UMdbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"CfU12UgTfEHlx9S73Qer8Q","kid":"fZJUMdbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"W4B3aNAAgttkVJu+tC6y6Q","kid":"ipaYYtbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"fWIxdhmBSBhVnFYSO0F5cA","kid":"dqOYeiXAQQGT83ZHoJ4swQ"}], "type":"temporary"} 
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl3/default/index.mpd 
-
-
-#EXTINF:-1 tvg-id="sktt4" group-title="🍭| K+ MPD " tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_ProgramThumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 4 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sw2LncHCrGirokQCRfPezQ","kid":"A3yTt8mOT1mayhVwYODLXg"},{"kty":"oct","k":"Jkz6MF+kZKo2CEfwyqRfYQ","kid":"S8CTt8mOT1mayhVwYODLXg"},{"kty":"oct","k":"cp7qxl/cert37LpoKVUL0Q","kid":"WMTX6MmOT1mayhVwYODLXg"},{"kty":"oct","k":"ubzwGmIrgMII7dS5/pVSYQ","kid":"RNHXABiOT1mayhVwYODLXg"}], "type":"temporary"} 
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl4/default/index.mpd
 
 
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (Viettel)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (Viettel)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TMDoVTcnXHpMTWgFNi03IA","kid":"3+vI+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"/BvZJI1SffDJ9HV8ysTwLQ","kid":"Jy/I+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"voXqVVDExP1pmKulvI24EQ","kid":"NDMMK4hqKCVeld4A7K6PTw"},{"kty":"oct","k":"CwPwez37ctYxXw/Ga1IUfA","kid":"IEAMQ9dqKCVeld4A7K6PTw"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (VNPT)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (VNPT)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TMDoVTcnXHpMTWgFNi03IA","kid":"3+vI+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"/BvZJI1SffDJ9HV8ysTwLQ","kid":"Jy/I+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"voXqVVDExP1pmKulvI24EQ","kid":"NDMMK4hqKCVeld4A7K6PTw"},{"kty":"oct","k":"CwPwez37ctYxXw/Ga1IUfA","kid":"IEAMQ9dqKCVeld4A7K6PTw"}],"type":"temporary"}
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxrate=3000000
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (FPT)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (FPT và các nhà mạng khác) (sv1)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "TMDoVTcnXHpMTWgFNi03IA", "kid": "3+vI+ohqKCVeld4A7K6PTw"}, {"kty": "oct", "k": "/BvZJI1SffDJ9HV8ysTwLQ", "kid": "Jy/I+ohqKCVeld4A7K6PTw"}, {"kty": "oct", "k": "voXqVVDExP1pmKulvI24EQ", "kid": "NDMMK4hqKCVeld4A7K6PTw"}, {"kty": "oct", "k": "CwPwez37ctYxXw/Ga1IUfA", "kid": "IEAMQ9dqKCVeld4A7K6PTw"}], "type": "temporary"}
+https://vngothers.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (FPT và các nhà mạng khác) (sv2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1107,14 +1110,28 @@ https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxrate=30
 https://antmedia.anttv.xyz/getplay/mykplus/ksport1hd/manifest.mpd 
 
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (Viettel)
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 SD (TV360)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport1.php 
+https://tiemnhazunn.click/tv360/tv360.php?id=230 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (Viettel)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QGRc9H4H0knLGyNXPWDXrA","kid":"0Eh9RdUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"OgI3k8/whYNbbMTWI7qiCA","kid":"GIx9RdUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"OvDny0yhuqRdidjGwLS0Ig","kid":"JZDBdtUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"/mRuPv1jfG+I/kQvaTDmGQ","kid":"EZ3BjiQNoRDtg4ns5P0MRQ"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (VNPT)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (VNPT)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1122,28 +1139,54 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
 
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (FPT)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (FPT và các nhà mạng khác) (sv1)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QGRc9H4H0knLGyNXPWDXrA", "kid": "0Eh9RdUNoRDtg4ns5P0MRQ"}, {"kty": "oct", "k": "OgI3k8/whYNbbMTWI7qiCA", "kid": "GIx9RdUNoRDtg4ns5P0MRQ"}, {"kty": "oct", "k": "OvDny0yhuqRdidjGwLS0Ig", "kid": "JZDBdtUNoRDtg4ns5P0MRQ"}, {"kty": "oct", "k": "/mRuPv1jfG+I/kQvaTDmGQ", "kid": "EZ3BjiQNoRDtg4ns5P0MRQ"}], "type": "temporary"}
+https://vngothers.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (FPT và các nhà mạng khác) (sv2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QGRc9H4H0knLGyNXPWDXrA","kid":"0Eh9RdUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"OgI3k8/whYNbbMTWI7qiCA","kid":"GIx9RdUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"OvDny0yhuqRdidjGwLS0Ig","kid":"JZDBdtUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"/mRuPv1jfG+I/kQvaTDmGQ","kid":"EZ3BjiQNoRDtg4ns5P0MRQ"}],"type":"temporary"}
 https://antmedia.anttv.xyz/getplay/mykplus/ksport2hd/manifest.mpd 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (Viettel)
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 SD (TV360)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport2.php 
+https://tiemnhazunn.click/tv360/tv360.php?id=231 
+
+
+
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (Viettel)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rNLT0fBeQLOiHILcLt2EWg","kid":"KCL6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"zd3EV24wkxB1xRe998vSyg","kid":"cGb6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"lwr28l3mSxilUeQTqtl7oA","kid":"fWo+ZWCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"ktgiOizMSX188ZdboSMraA","kid":"aXc+fa+FEKHi0oeoxgPTIA"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (VNPT)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (VNPT)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rNLT0fBeQLOiHILcLt2EWg","kid":"KCL6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"zd3EV24wkxB1xRe998vSyg","kid":"cGb6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"lwr28l3mSxilUeQTqtl7oA","kid":"fWo+ZWCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"ktgiOizMSX188ZdboSMraA","kid":"aXc+fa+FEKHi0oeoxgPTIA"}],"type":"temporary"}
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd?maxrate=3000000
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (FPT)
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (FPT và các nhà mạng khác) (sv1)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "rNLT0fBeQLOiHILcLt2EWg", "kid": "KCL6NGCFEKHi0oeoxgPTIA"}, {"kty": "oct", "k": "zd3EV24wkxB1xRe998vSyg", "kid": "cGb6NGCFEKHi0oeoxgPTIA"}, {"kty": "oct", "k": "lwr28l3mSxilUeQTqtl7oA", "kid": "fWo+ZWCFEKHi0oeoxgPTIA"}, {"kty": "oct", "k": "ktgiOizMSX188ZdboSMraA", "kid": "aXc+fa+FEKHi0oeoxgPTIA"}], "type": "temporary"}
+https://akaothers.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (FPT và các nhà mạng khác) (sv2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1152,15 +1195,25 @@ https://antmedia.anttv.xyz/getplay/mykplus/kcinehd/manifest.mpd
 
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine SD (TV360)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keycine.php 
+https://tiemnhazunn.click/tv360/tv360.php?id=229 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (Viettel)
+
+
+
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (Viettel)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eoFc7ZPGNixnScZe1AYzSg","kid":"6I3nUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"QgYo1ahv86DwZ6KfIr9bJg","kid":"MNHnUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"vzuHb7/KrbaYDgH5eyWNwg","kid":"PdUrglTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"q1DW4xxIrQ/ZVmTD83GrnA","kid":"KeIrmqPHNE4yhooVj9EzcQ"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (VNPT)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (VNPT)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1168,36 +1221,71 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrate=3000000
 
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT và các nhà mạng khác) (sv1)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eoFc7ZPGNixnScZe1AYzSg", "kid": "6I3nUVTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "QgYo1ahv86DwZ6KfIr9bJg", "kid": "MNHnUVTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "vzuHb7/KrbaYDgH5eyWNwg", "kid": "PdUrglTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "q1DW4xxIrQ/ZVmTD83GrnA", "kid": "KeIrmqPHNE4yhooVj9EzcQ"}], "type": "temporary"}
+https://vngothers.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT và các nhà mạng khác) (sv2)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eoFc7ZPGNixnScZe1AYzSg", "kid": "6I3nUVTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "QgYo1ahv86DwZ6KfIr9bJg", "kid": "MNHnUVTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "vzuHb7/KrbaYDgH5eyWNwg", "kid": "PdUrglTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "q1DW4xxIrQ/ZVmTD83GrnA", "kid": "KeIrmqPHNE4yhooVj9EzcQ"}], "type": "temporary"}
+https://vngothers.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT và các nhà mạng khác) (sv3)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eoFc7ZPGNixnScZe1AYzSg","kid":"6I3nUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"QgYo1ahv86DwZ6KfIr9bJg","kid":"MNHnUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"vzuHb7/KrbaYDgH5eyWNwg","kid":"PdUrglTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"q1DW4xxIrQ/ZVmTD83GrnA","kid":"KeIrmqPHNE4yhooVj9EzcQ"}],"type":"temporary"}
 https://antmedia.anttv.xyz/getplay/mykplus/klifehd/manifest.mpd 
 
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life SD (TV360)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keylife.php 
+https://tiemnhazunn.click/tv360/tv360.php?id=228 
 
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (Viettel)
+
+
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (Viettel)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kwAYUr/wCSV2ZXc1laATvA","kid":"pRjxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"ur2jrzVRTsK4HFYvh9H5/w","kid":"7VzxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"zno/k3//E6vEwzg5ReYhFA","kid":"+mA1XykZBptdiE4ryF6wTg"},{"kty":"oct","k":"6JaIssGFoclnvC59GVMTSw","kid":"5m01d3gZBptdiE4ryF6wTg"}],"type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (VNPT)
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (VNPT)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kwAYUr/wCSV2ZXc1laATvA","kid":"pRjxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"ur2jrzVRTsK4HFYvh9H5/w","kid":"7VzxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"zno/k3//E6vEwzg5ReYhFA","kid":"+mA1XykZBptdiE4ryF6wTg"},{"kty":"oct","k":"6JaIssGFoclnvC59GVMTSw","kid":"5m01d3gZBptdiE4ryF6wTg"}],"type":"temporary"}
 https://vngvnpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrate=3000000
 
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (FPT)
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (FPT và các nhà mạng khác) (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kwAYUr/wCSV2ZXc1laATvA","kid":"pRjxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"ur2jrzVRTsK4HFYvh9H5/w","kid":"7VzxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"zno/k3//E6vEwzg5ReYhFA","kid":"+mA1XykZBptdiE4ryF6wTg"},{"kty":"oct","k":"6JaIssGFoclnvC59GVMTSw","kid":"5m01d3gZBptdiE4ryF6wTg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kwAYUr/wCSV2ZXc1laATvA", "kid": "pRjxLikZBptdiE4ryF6wTg"}, {"kty": "oct", "k": "ur2jrzVRTsK4HFYvh9H5/w", "kid": "7VzxLikZBptdiE4ryF6wTg"}, {"kty": "oct", "k": "zno/k3//E6vEwzg5ReYhFA", "kid": "+mA1XykZBptdiE4ryF6wTg"}, {"kty": "oct", "k": "6JaIssGFoclnvC59GVMTSw", "kid": "5m01d3gZBptdiE4ryF6wTg"}], "type": "temporary"}
+https://vngothers.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (FPT và các nhà mạng khác) (sv2)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kwAYUr/wCSV2ZXc1laATvA", "kid": "pRjxLikZBptdiE4ryF6wTg"}, {"kty": "oct", "k": "ur2jrzVRTsK4HFYvh9H5/w", "kid": "7VzxLikZBptdiE4ryF6wTg"}, {"kty": "oct", "k": "zno/k3//E6vEwzg5ReYhFA", "kid": "+mA1XykZBptdiE4ryF6wTg"}, {"kty": "oct", "k": "6JaIssGFoclnvC59GVMTSw", "kid": "5m01d3gZBptdiE4ryF6wTg"}], "type": "temporary"}
 https://antmedia.anttv.xyz/getplay/mykplus/kkidshd/manifest.mpd 
 
-
-
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids SD (TV360)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keykids.php 
+https://tiemnhazunn.click/tv360/tv360.php?id=228
 
 
 
@@ -2045,6 +2133,11 @@ http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/cartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD (DRM) 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "lifSWm5SHazqJstZ6U22rg", "kid": "DQvuCN4+NJOWKhX5NaTfVg"}], "type": "temporary"}
+https://hbolive.kplus.vn/msky-live/live_kplus/cn.smil/manifest.mpd
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Dreamworks
 #EXTVLCOPT:http-user-agent="KIIP"
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
