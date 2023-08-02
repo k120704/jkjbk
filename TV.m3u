@@ -1060,7 +1060,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_klive2/default/index.mpd
 
 
 
-#EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive3/dvr-${start}-${end}.mpd", K+ Live 3 HD (MyK+)
+#EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/103.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive3/dvr-${start}-${end}.mpd", K+ Live 3 HD (MyK+)
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jhwqqk/xL0jngyEDMeCguQ","kid":"jcHanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"0CMpqYfSyJYc8wUYbey75Q","kid":"1QXanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"iISnsTUxlCbyPNE0S28YVw","kid":"4gkezWFdRuGVteyGkVB4hw"},{"kty":"oct","k":"uGhZQ/L3uBQx+zqLZuU5Xw","kid":"zhYe5bBdRuGVteyGkVB4hw"}], "type":"temporary"} 
