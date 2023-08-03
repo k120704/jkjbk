@@ -225,6 +225,9 @@ https://live-ali2.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 https://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Play
+https://arcgmoblie.site/fptplay/getfpt.php?id=fpt-play
+
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -240,14 +243,9 @@ https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", FPT Play Pladio
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://synguyen.net/vthanhtivi_getlink/vips-livecdn.fptplay.net/MjgxMzcwMDB8cGxhZGlvX2hscy5zbWlsfHZpZXR0ZWx8MTY4Nzc5MzEzOXwxMjUuMjEyLjE5Mi4yMzN8NWIzNWJiNTM1MDk4MTg0MDUxOTdmY2E0MjUzZmNiNGU/epzhd2/pladio_hls.smil/chunklist_b2500000.m3u8
-
-
-
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png",FPT Play
-https://arcgmoblie.site/fptplay/getfpt.php?id=fpt-play
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",FPT Play Pladio
 https://arcgmoblie.site/fptplay/getfpt.php?id=pladio
+
+
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/8M7Rkvz/FPT-Play-Sport.png",FPT Play Sport 1
 https://arcgmoblie.site/fptplay/getfpt.php?id=the-thao-1
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/8M7Rkvz/FPT-Play-Sport.png",FPT Play Sport 2
