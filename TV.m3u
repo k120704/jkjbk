@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml, http://lichphatsong.xyz/schedule/vagroup_epg.xml, https://hqth.me/fsphimleepg, https://7pal.short.gy/alex-epg "
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 #-*-- Livestream -*--#
 #EXTINF:-1 tvg-name="801" group-title="🔴| Livestream" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv1)
@@ -739,15 +739,18 @@ https://liveh12.vtvcab.vn/hls/ONSPORTNEWSTA/04.m3u8
 https://liveh12.vtvcab.vn/hls/ONGOLFTA/04.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🧡| VTVcab"  tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng đá Việt
- https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
- #EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng đá Việt (DRM)
+https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/71581b3f-c347-448a-b813-1a2cb25c4a25.jpg", Bóng đá Việt (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"tZWlvuY3SWa8Rc1x8N7Z6w", "kid":"N4pO4dBJSEGOby6ChpPy4w" } ], "type":"temporary"}
 https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVFFTV/manifest.mpd
+
 #EXTINF:-1 tvg-id="" group-title="🧡| VTVcab"  tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt
- https://liveh12.vtvcab.vn/hls/VOLLEYBALL/index.m3u8
- #EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt (DRM)
+https://liveh12.vtvcab.vn/hls/VOLLEYBALL/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg", Thể thao Việt (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"42iRHDsBSVKMhox1zznEqg", "kid":"dhotN0BSREOWWUKwyXKikg" } ], "type":"temporary" }
@@ -1100,6 +1103,14 @@ https://antmedia.anttv.xyz/getplay/mykplus/ksport1hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"tR8yWkoC2Yh8qE6w6+uAzA", "kid":"Jl1e2h/2RWa2oaY+qyR/nQ" } ], "type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 SD (MyTV)
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "M0nc5vCFD1eX13wNeUEgyQ", "kid": "sa+eLZy7QM+EjLFK7EJ19Q"}], "type": "temporary"}
+http://s2129199.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv313&offset=1&nodelay=1
+
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 SD (TV360)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
