@@ -1009,16 +1009,12 @@ http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3u81fc88sU
 #EXTINF:-1 tvg-id="klive3hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/103.png", K+ Live 3 (MyK+)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tduZwiei-zZDzVNOA0nWRB/m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s8Zm4QQc6bcBx2336I5rks/m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv2)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vxNXhcNtTciDISstk484jD/m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ Sport 1 HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sRho_pn5x1G3-Ny6WAVpjp/m3u8
-
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ Sport 2 HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vUJIuwVXXLfzpy6BKECMDA/m3u8
@@ -1034,14 +1030,12 @@ http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ulOaEBo46
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vX_jmhEZMB1deSNJ1YFG4T/m3u8
 
-
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sdSo_CDJzKPyLBLNZKfMlm/m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv2)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uR4AV8pMMHVX_47auYN1wo/m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ Life HD (sv3)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uZ0ohXjTyZ4z9eHP7tsJC8/m3u8
-
 
 #EXTINF:-1 tvg-id="Kkidshd"group-title="🍭| K+ giải mã" group-logo="https://logo.anttv.xyz/group/K+.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (sv1)
 http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uFKPDVVARMjF5oOTVUaWxi/m3u8
@@ -1060,31 +1054,17 @@ http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDq
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dmp6prmr4QliOzzggkupjQ","kid":"lyUbdnxAQ3GgzwzyX//fNg"},{"kty":"oct","k":"+TCOiAyPnaUkGdOp99iOjA","kid":"32kbdnxAQ3GgzwzyX//fNg"},{"kty":"oct","k":"I9i6mGzMXKrjePDxNOH9Sw","kid":"7G1fp3xAQ3GgzwzyX//fNg"},{"kty":"oct","k":"I9j2urVJm71OROxK4gRPsw","kid":"2Hpfv8tAQ3GgzwzyX//fNg"}], "type":"temporary"} 
 https://sglivevng.kplus.vn/bpk-tv/prod_klive1/default/index.mpd 
 
-
-
-
 #EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/102.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive2/dvr-${start}-${end}.mpd", K+ Live 2 HD (MyK+)
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dDne6KZ62B+Zto18e/p50g","kid":"QXSdPAX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"WMcAvoA7wlZrHX++La6QdA","kid":"ibidPAX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"6spodc4nCHDLP4ePZkqD7A","kid":"lrzhbQX5TOyqmN8rMVrTCQ"},{"kty":"oct","k":"oCLuUmYfnzsdM7n4hREgpA","kid":"gsnhhVT5TOyqmN8rMVrTCQ"}], "type":"temporary"} 
 https://sglivevng.kplus.vn/bpk-tv/prod_klive2/default/index.mpd 
 
-
-
-
 #EXTINF:-1 tvg-id="" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://logo.anttv.xyz/103.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/klive3/dvr-${start}-${end}.mpd", K+ Live 3 HD (MyK+)
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jhwqqk/xL0jngyEDMeCguQ","kid":"jcHanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"0CMpqYfSyJYc8wUYbey75Q","kid":"1QXanGFdRuGVteyGkVB4hw"},{"kty":"oct","k":"iISnsTUxlCbyPNE0S28YVw","kid":"4gkezWFdRuGVteyGkVB4hw"},{"kty":"oct","k":"uGhZQ/L3uBQx+zqLZuU5Xw","kid":"zhYe5bBdRuGVteyGkVB4hw"}], "type":"temporary"} 
 https://sglivevng.kplus.vn/bpk-tv/prod_klive3/default/index.mpd 
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (Viettel)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1127,12 +1107,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport1.php 
 https://tiemnhazunn.click/tv360/tv360.php?id=230 
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (Viettel)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1177,10 +1151,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keysport2.php 
 https://tiemnhazunn.click/tv360/tv360.php?id=231 
 
-
-
-
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (Viettel)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1210,7 +1180,6 @@ https://akaothers.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rNLT0fBeQLOiHILcLt2EWg","kid":"KCL6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"zd3EV24wkxB1xRe998vSyg","kid":"cGb6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"lwr28l3mSxilUeQTqtl7oA","kid":"fWo+ZWCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"ktgiOizMSX188ZdboSMraA","kid":"aXc+fa+FEKHi0oeoxgPTIA"}],"type":"temporary"}
 https://antmedia.anttv.xyz/getplay/mykplus/kcinehd/manifest.mpd 
 
-
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ Cine HD (MyTV)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1224,10 +1193,6 @@ https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/tiviba60/keycine.php 
 https://tiemnhazunn.click/tv360/tv360.php?id=229 
-
-
-
-
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (Viettel)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
