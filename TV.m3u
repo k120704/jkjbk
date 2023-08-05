@@ -24,8 +24,13 @@ http://vmttv.anttv.xyz/mytv.php?id=449
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png", EURO SPORT 4K
 http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://i.ytimg.com/vi/zRpjU0fizqM/hqdefault.jpg", Bình Luận Tiếng Việt: Vitality vs C9, Heroic vs Astralis | IEM Cologne 2023 | Tứ Kết | On Gaming
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691191622/ei/5jTNZIfaLcG0juMP1IC6mAE/ip/123.16.54.123/id/zRpjU0fizqM.1/source/yt_live_broadcast/requiressl/yes/tx/51000487/txs/51000487%2C51000488/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f9qWLqH3GS_y1JKixSMpuiDLE97n1vPwdVB1rYMQXyR1BvdFSXw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgS6dOrnPIhSsIHbRLTPyzZAKZgNCr8O97avrGCNXFRg0CIQDQDkfItwipKAFqnVGC0-Xt5AQZxEZSjHXdq3OKhe4R1g%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://i.ytimg.com/vi/DIcd0nUgQzE/hqdefault.jpg", Chung kết tổng lpl hè 2023 | SofM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691254498/ei/girOZP39Hf2n2roPwZ21kAI/ip/14.180.25.175/id/DIcd0nUgQzE.1/source/yt_live_broadcast/requiressl/yes/tx/51000487/txs/51000487%2C51000488/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f9IlsC1PvoH5xEJGFJEHgqjo64Ifm8iYDJYwF9VayqU6jqhAkjk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALz_u864DNxol5CCCGEPqr_dx55wdFr3DiVoeFzY4CZtAiEA0IBxyHVsjr8qWVVufLebqNDFvnoHhvMO4_L5BsXO864%3D/file/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
