@@ -105,6 +105,8 @@ http://103.56.160.133/vmt/vtv5
 http://stream.cvmtv.site/vtv5?token=live
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| NIGHT WOLF V-LEAGUE 1 2023" group-logo="https://logo.anttv.xyz/group/VTV.png"  tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8",VTV5 (TV360) (50fps)
 http://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="🏆| NIGHT WOLF V-LEAGUE 1 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv1/dvr-${start}-${offset}.m3u8", HTV1
+https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| NIGHT WOLF V-LEAGUE 1 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao (Độ trễ thấp)
 http://stream.cvmtv.site/htvtt?token=live
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| NIGHT WOLF V-LEAGUE 1 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao | 50fps
@@ -171,6 +173,19 @@ https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-H
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao
 https://code.vthanhtivi.pw/getlink/mytv/18/hd.m3u8
 
+#EXTINF:-1 tvg-name="801" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv1)
+https://code.vthanhtivi.pw/getlink/mytv/267/auto.m3u8
+#EXTINF:-1 tvg-name="801" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv2)
+http://vmttv.anttv.xyz/mytv.php?id=267
+#EXTINF:-1 tvg-name="804" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv1)
+https://code.vthanhtivi.pw/getlink/mytv/449/auto.m3u8
+#EXTINF:-1 tvg-name="804" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv2)
+http://vmttv.anttv.xyz/mytv.php?id=449
+#EXTINF:-1 group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360 + 4
+https://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+
+
+
 #EXTINF:-1 group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-id="skynz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",TEST - Sky Sport 1 NZ
 http://stream.cvmtv.site/SkyNZ?token=live
 #EXTINF:-1 group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
@@ -184,16 +199,6 @@ http://stream.cvmtv.site/TRTSpor?token=live
 
 
 
-#EXTINF:-1 tvg-name="801" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv1)
-https://code.vthanhtivi.pw/getlink/mytv/267/auto.m3u8
-#EXTINF:-1 tvg-name="801" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 HD (sv2)
-http://vmttv.anttv.xyz/mytv.php?id=267
-#EXTINF:-1 tvg-name="804" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv1)
-https://code.vthanhtivi.pw/getlink/mytv/449/auto.m3u8
-#EXTINF:-1 tvg-name="804" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://webapi.mytv.vn/static/channel/449.png?ver=19", MyTV 804 HD (sv2)
-http://vmttv.anttv.xyz/mytv.php?id=449
-#EXTINF:-1 group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360 + 4
-https://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 
 
