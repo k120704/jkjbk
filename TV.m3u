@@ -1150,22 +1150,17 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eoFc7ZPGNixnScZe1AYzSg","kid":"6I3nUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"QgYo1ahv86DwZ6KfIr9bJg","kid":"MNHnUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"vzuHb7/KrbaYDgH5eyWNwg","kid":"PdUrglTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"q1DW4xxIrQ/ZVmTD83GrnA","kid":"KeIrmqPHNE4yhooVj9EzcQ"}],"type":"temporary"}
 https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
+
+
+
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT và các nhà mạng khác) (sv1)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eoFc7ZPGNixnScZe1AYzSg", "kid": "6I3nUVTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "QgYo1ahv86DwZ6KfIr9bJg", "kid": "MNHnUVTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "vzuHb7/KrbaYDgH5eyWNwg", "kid": "PdUrglTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "q1DW4xxIrQ/ZVmTD83GrnA", "kid": "KeIrmqPHNE4yhooVj9EzcQ"}], "type": "temporary"}
-https://vngothers.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-
-
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT và các nhà mạng khác) (sv2)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "eoFc7ZPGNixnScZe1AYzSg", "kid": "6I3nUVTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "QgYo1ahv86DwZ6KfIr9bJg", "kid": "MNHnUVTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "vzuHb7/KrbaYDgH5eyWNwg", "kid": "PdUrglTHNE4yhooVj9EzcQ"}, {"kty": "oct", "k": "q1DW4xxIrQ/ZVmTD83GrnA", "kid": "KeIrmqPHNE4yhooVj9EzcQ"}], "type": "temporary"}
 https://akafpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT và các nhà mạng khác) (sv3)
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT và các nhà mạng khác) (sv2)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
