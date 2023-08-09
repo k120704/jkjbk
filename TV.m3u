@@ -1010,7 +1010,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TMDoVTcnXHpMTWgFNi03IA","kid":"3+vI+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"/BvZJI1SffDJ9HV8ysTwLQ","kid":"Jy/I+ohqKCVeld4A7K6PTw"},{"kty":"oct","k":"voXqVVDExP1pmKulvI24EQ","kid":"NDMMK4hqKCVeld4A7K6PTw"},{"kty":"oct","k":"CwPwez37ctYxXw/Ga1IUfA","kid":"IEAMQ9dqKCVeld4A7K6PTw"}],"type":"temporary"}
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd?maxrate=3000000
+https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (FPT và các nhà mạng khác) (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1053,7 +1053,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QGRc9H4H0knLGyNXPWDXrA","kid":"0Eh9RdUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"OgI3k8/whYNbbMTWI7qiCA","kid":"GIx9RdUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"OvDny0yhuqRdidjGwLS0Ig","kid":"JZDBdtUNoRDtg4ns5P0MRQ"},{"kty":"oct","k":"/mRuPv1jfG+I/kQvaTDmGQ","kid":"EZ3BjiQNoRDtg4ns5P0MRQ"}],"type":"temporary"}
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
+https://akavnpt.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport2hd/dvr-${start}-${end}.mpd", K+ Sport 2 HD (MyK+) (FPT và các nhà mạng khác) (sv1)
@@ -1099,7 +1099,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rNLT0fBeQLOiHILcLt2EWg","kid":"KCL6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"zd3EV24wkxB1xRe998vSyg","kid":"cGb6NGCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"lwr28l3mSxilUeQTqtl7oA","kid":"fWo+ZWCFEKHi0oeoxgPTIA"},{"kty":"oct","k":"ktgiOizMSX188ZdboSMraA","kid":"aXc+fa+FEKHi0oeoxgPTIA"}],"type":"temporary"}
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd?maxrate=3000000
+https://akavnpt.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_cinehd/dvr-${start}-${end}.mpd", K+ Cine HD (MyK+) (FPT và các nhà mạng khác) (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1148,8 +1148,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eoFc7ZPGNixnScZe1AYzSg","kid":"6I3nUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"QgYo1ahv86DwZ6KfIr9bJg","kid":"MNHnUVTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"vzuHb7/KrbaYDgH5eyWNwg","kid":"PdUrglTHNE4yhooVj9EzcQ"},{"kty":"oct","k":"q1DW4xxIrQ/ZVmTD83GrnA","kid":"KeIrmqPHNE4yhooVj9EzcQ"}],"type":"temporary"}
-https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd?maxrate=3000000
-
+https://akavnpt.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_lifehd/dvr-${start}-${end}.mpd", K+ Life HD (MyK+) (FPT và các nhà mạng khác) (sv1)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
@@ -1202,8 +1201,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kwAYUr/wCSV2ZXc1laATvA","kid":"pRjxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"ur2jrzVRTsK4HFYvh9H5/w","kid":"7VzxLikZBptdiE4ryF6wTg"},{"kty":"oct","k":"zno/k3//E6vEwzg5ReYhFA","kid":"+mA1XykZBptdiE4ryF6wTg"},{"kty":"oct","k":"6JaIssGFoclnvC59GVMTSw","kid":"5m01d3gZBptdiE4ryF6wTg"}],"type":"temporary"}
-https://vngvnpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd?maxrate=3000000
-
+https://vngvnpt.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ Kids HD (MyK+) (FPT và các nhà mạng khác) (sv1)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
