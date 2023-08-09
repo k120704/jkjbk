@@ -159,20 +159,6 @@ https://mgkdc.com/hls/stream.m3u8
 
 
 
-#EXTINF:0,Bình Luận Tiếng Việt: G2 vs Ence | IEM Cologne 2023 | Chung Kết | On Gaming
-#EXTGRP:🔴| Livestream | Esports
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691342443/ei/C4LPZOHCK_ew2roPpOmNmAk/ip/14.180.25.175/id/jv9uyntzF04.1/source/yt_live_broadcast/requiressl/yes/tx/51000487/txs/51000487%2C51000488/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f7YR_C6zSMJNQbBseR3ROqa5TS95BP83_BdrxpmflhDLyCuM8fE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOQ5LjxVFcz-k83ZEd_eYu9ByCedQBNpgu093jKX8YG_AiEApBBr7ZCu2ApFJWVqIPGYBSP9sL6kYQXRsQmdr4bxOnU%3D/file/index.m3u8
-
-#EXTINF:0,TW vs CES (BO3) | GAM vs TS (BO3) | VCS 2023 HOÀNG HÔN - TUẦN 7 | 06.08.2023
-#EXTGRP:🔴| Livestream | Esports
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691342443/ei/C4LPZOHCK_ew2roPpOmNmAk/ip/14.180.25.175/id/jv9uyntzF04.1/source/yt_live_broadcast/requiressl/yes/tx/51000487/txs/51000487%2C51000488/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f7YR_C6zSMJNQbBseR3ROqa5TS95BP83_BdrxpmflhDLyCuM8fE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOQ5LjxVFcz-k83ZEd_eYu9ByCedQBNpgu093jKX8YG_AiEApBBr7ZCu2ApFJWVqIPGYBSP9sL6kYQXRsQmdr4bxOnU%3D/file/index.m3u8
-
-
-#EXTINF:0,SofM - VÒNG LOẠI KHU VỰC LPL - NGÀY 1
-#EXTGRP:🔴| Livestream | Esports
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691342519/ei/V4LPZM3IMZq-gQPxyr3gDg/ip/14.180.25.175/id/812dEVggE4g.1/source/yt_live_broadcast/requiressl/yes/tx/51000487/txs/51000487%2C51000488/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f4_cCdrob6ZTbMEmZqs82UAAehFywbsOVn-EpjAmohvfzwVJHZM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C51000012/beids/24350017/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgR4JuiJJxAlWXXjNkpibzfhKK-VEcfYbAGPQ5uGthrSUCIQCL1hGBKH72mRhaRKbX_LpEMw2eNpfYMat0PlKSWbuLSw%3D%3D/file/index.m3u8
-
-
 #EXTINF:0,V-LEAGUE 1
 #EXTGRP:🏆| NIGHT WOLF V-LEAGUE 1 2023
 http://103.56.160.133/vleague1
@@ -242,15 +228,6 @@ http://vmttv.anttv.xyz/mytv.php?id=223
 
 
 
-#EXTINF:0,ON Football HD (Độ trễ thấp) (50fps)
-#EXTGRP:🏆| FIFA WOMEN WORLD CUP 2023
-http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s1ZROBvu4lf5LSiAF8IANx/
-#EXTINF:0,ON Football HD (Độ trễ thấp) (sv1)
-#EXTGRP:🏆| FIFA WOMEN WORLD CUP 2023
-http://103.56.160.133:8081/onfootball
-#EXTINF:0,ON Football HD (Độ trễ thấp) (sv2) 
-#EXTGRP:🏆| FIFA WOMEN WORLD CUP 2023
-http://live.anttv.xyz/antmedia/onfootball
 
 
 #EXTINF:0,ON Sports News (Độ trễ thấp) (50fps)
@@ -367,3 +344,134 @@ https://code.vthanhtivi.pw/getlink/mytv/380/hd.m3u8
 #EXTINF:0,VTV9 (MyTV)
 #EXTGRP:📦| VTV
 https://code.vthanhtivi.pw/getlink/mytv/381/hd.m3u8
+
+
+
+#EXTINF:0,VTVcab 1 - Vie Giải trí HD
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
+#EXTINF:0,ON Phim Việt
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab2-on-phim-viet/playlist.m3u8
+#EXTINF:0,ON Sports HD 
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
+#EXTINF:0,ON Sports HD | 50fps
+#EXTGRP:🧡| VTVcab
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ucCdo50RAl_KeaGS5ct_3f/m3u8
+#EXTINF:0,ON Movies
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/mytv/435/hd.m3u8
+#EXTINF:0,ON E Channel
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab5-e-channel/playlist.m3u8
+#EXTINF:0,ON Sports+
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab6-on-sport-plus/playlist.m3u8
+#EXTINF:0,ON O2TV
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab7/playlist.m3u8
+#EXTINF:0,ON BiBi
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
+#EXTINF:0,ON Info TV
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab9-info-tv/playlist.m3u8
+#EXTINF:0,ON Cine
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab12-style-tv/playlist.m3u8
+#EXTINF:0,ON Style
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab12-style-tv/playlist.m3u8
+#EXTINF:0,ON Music
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab15/playlist.m3u8
+#EXTINF:0,ON Football HD
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
+#EXTINF:0,ON Football HD | 50fps
+#EXTGRP:🧡| VTVcab
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s1ZROBvu4lf5LSiAF8IANx/m3u8
+#EXTINF:0,ON Sports News | 50fps
+#EXTGRP:🧡| VTVcab
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uho9FkwfIkAEsCoZ9_j4Bd/m3u8
+#EXTINF:0,ON Sports News (Độ trễ thấp) 
+#EXTGRP:🧡| VTVcab
+http://128.199.214.24/OSN/mpegts
+#EXTINF:0,ON Sports News (Ko chiếu được WC đâu)
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab18-on-sports-news/playlist.m3u8
+#EXTINF:0,VTVcab 19 - Vie Dramas
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
+#EXTINF:0,ON VFamily
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/cliptv/on-vfamily/chunklist_b5128000.m3u8
+#EXTINF:0,ON Kids
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/tv360/179/2.m3u8
+#EXTINF:0,ON Life
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/vieon2/vtvcab22-life-tv/playlist.m3u8
+#EXTINF:0,ON Golf
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
+#EXTINF:0,ON Sports Action
+#EXTGRP:🧡| VTVcab
+https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
+#EXTINF:0,Bóng đá Việt
+#EXTGRP:🧡| VTVcab
+https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
+#EXTINF:0,Thể thao Việt
+#EXTGRP:🧡| VTVcab
+https://liveh12.vtvcab.vn/hls/VOLLEYBALL/index.m3u8
+
+#EXTINF:0,VTC1 HD
+#EXTGRP:💙| VTC
+https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+#EXTINF:0,VTC2
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/tv360/196/0.m3u8
+#EXTINF:0,VTC3 HD
+#EXTGRP:💙| VTC
+https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
+#EXTINF:0,VTC4 HD
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/396/hd.m3u8
+#EXTINF:0,VTC5 HD
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/397/hd.m3u8
+#EXTINF:0,VTC6 HD
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/22/high.m3u8
+#EXTINF:0,VTC7 HD - TodayTV
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/398/hd.m3u8
+#EXTINF:0,VTC8
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/tv360/202/0.m3u8
+#EXTINF:0,VTC9 HD
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/399/hd.m3u8
+#EXTINF:0,VTC10 HD
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/29/hd.m3u8
+#EXTINF:0,VTC11
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/tv360/205/0.m3u8
+#EXTINF:0,VTC12 - VTC K
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/463/high.m3u8
+#EXTINF:0,VTC13 HD
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/184/hd.m3u8
+#EXTINF:0,VTC14 HD
+#EXTGRP:💙| VTC
+https://code.vthanhtivi.pw/getlink/mytv/32/hd.m3u8
+#EXTINF:0,VTC16 HD
+#EXTGRP:💙| VTC
+http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
+
+
+
+
