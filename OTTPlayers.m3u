@@ -475,3 +475,112 @@ http://code.vthanhtivi.pw/getlink/mytv/33/hd.m3u8
 
 
 
+#EXTINF:0,HTV1
+#EXTGRP:💛| HTV
+https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
+#EXTINF:0,HTV2 - Vie Channel
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:0,HTV3 - Cháo TV
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTINF:0,HTV Key
+#EXTGRP:💛| HTV
+https://code.vthanhtivi.pw/getlink/htv/2528/playlist.m3u8
+#EXTINF:0,HTV7 HD
+#EXTGRP:💛| HTV
+https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
+#EXTINF:0,HTV9 HD
+#EXTGRP:💛| HTV
+https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
+#EXTINF:0,HTV CO.OP
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
+#EXTINF:0,HTV Thể Thao (Độ trễ thấp)
+#EXTGRP:💛| HTV
+http://stream.cvmtv.site/htvtt?token=live
+#EXTINF:0,HTV Thể Thao (MyTV)
+#EXTGRP:💛| HTV
+https://code.vthanhtivi.pw/getlink/mytv/18/hd.m3u8
+#EXTINF:0,HTV Thể Thao | 50fps
+#EXTGRP:💛| HTV
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
+#EXTINF:0,HTVC Thuần Việt
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Gia đình HD
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Phụ nữ HD
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Du lịch Cuộc sống HD
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Ca nhạc HD
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC Phim HD
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+#EXTINF:0,HTVC Plus HD
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:0,HTVC Homeshopping
+#EXTGRP:💛| HTV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+
+
+
+#EXTINF:0,K+ Live 1 (MyK+)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vw-i1bSHz9dkN-5L5FQ9Vf/m3u8
+#EXTINF:0,K+ Live 2 (MyK+)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3u81fc88sUk_Rj6nQL5XrnG/m3u8
+#EXTINF:0,K+ Live 3 (MyK+)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tduZwiei-zZDzVNOA0nWRB/m3u8
+#EXTINF:0,K+ Sport 1 HD (sv1)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s8Zm4QQc6bcBx2336I5rks/m3u8
+#EXTINF:0,K+ Sport 1 HD (sv2)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vxNXhcNtTciDISstk484jD/m3u8
+#EXTINF:0,K+ Sport 1 HD (sv3)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sRho_pn5x1G3-Ny6WAVpjp/m3u8
+#EXTINF:0,K+ Sport 2 HD (sv1)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vUJIuwVXXLfzpy6BKECMDA/m3u8
+#EXTINF:0,K+ Sport 2 HD (sv2)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uf7M8WkjR68uhGC_SynKCk/m3u8
+#EXTINF:0,K+ Sport 2 HD (sv3)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tYMrSEXvn3jK0YF_pANffI/m3u8
+#EXTINF:0,K+ Cine HD (sv1)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3v4mbj5YthRNc-X95OiUTM4/m3u8
+#EXTINF:0,K+ Cine HD (sv2)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ulOaEBo46W6kfSpD0vBOqI/m3u8
+#EXTINF:0,K+ Cine HD (sv3)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vX_jmhEZMB1deSNJ1YFG4T/m3u8
+#EXTINF:0,K+ Life HD (sv1)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sdSo_CDJzKPyLBLNZKfMlm/m3u8
+#EXTINF:0,K+ Life HD (sv2)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uR4AV8pMMHVX_47auYN1wo/m3u8
+#EXTINF:0,K+ Life HD (sv3)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uZ0ohXjTyZ4z9eHP7tsJC8/m3u8
+#EXTINF:0,K+ Kids HD (sv1)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uFKPDVVARMjF5oOTVUaWxi/m3u8
+#EXTINF:0,K+ Kids HD (sv2)
+#EXTGRP:🍭| K+
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDqT9MdFh7yjDp16/m3u8
+
