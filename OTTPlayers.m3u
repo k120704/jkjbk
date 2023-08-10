@@ -217,7 +217,7 @@ http://103.56.160.133:8081/quochoi
 http://live.anttv.xyz/antmedia/quochoi
 #EXTINF:0,Quốc Hội TV (Độ trễ thấp)(sv5)
 #EXTGRP:🏆| FIFA WOMEN WORLD CUP 2023
-http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sMr_3YzB9i1xjZyLme9JRU/m3u8
+http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sMr_3YzB9i1xjZyLme9JRU/ts
 #EXTINF:0,Quốc Hội HD (Viettel TV)
 #EXTGRP:🏆| FIFA WOMEN WORLD CUP 2023
 http://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
@@ -232,7 +232,7 @@ http://vmttv.anttv.xyz/mytv.php?id=223
 
 #EXTINF:0,ON Sports News (Độ trễ thấp) (50fps)
 #EXTGRP:🏆| FIFA WOMEN WORLD CUP 2023
-http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uho9FkwfIkAEsCoZ9_j4Bd/m3u8
+http://103.172.78.51:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uho9FkwfIkAEsCoZ9_j4Bd/ts
 #EXTINF:0,ON Sports News (Độ trễ thấp)
 #EXTGRP:🏆| FIFA WOMEN WORLD CUP 2023
 http://128.199.214.24/OSN/mpegts
@@ -358,7 +358,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab2-on-phim-viet/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
 #EXTINF:0,ON Sports HD | 50fps
 #EXTGRP:🧡| VTVcab
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ucCdo50RAl_KeaGS5ct_3f/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ucCdo50RAl_KeaGS5ct_3f/ts
 #EXTINF:0,ON Movies
 #EXTGRP:🧡| VTVcab
 https://code.vthanhtivi.pw/getlink/mytv/435/hd.m3u8
@@ -391,10 +391,10 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab15/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab16-on-football/playlist.m3u8
 #EXTINF:0,ON Football HD | 50fps
 #EXTGRP:🧡| VTVcab
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s1ZROBvu4lf5LSiAF8IANx/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s1ZROBvu4lf5LSiAF8IANx/ts
 #EXTINF:0,ON Sports News | 50fps
 #EXTGRP:🧡| VTVcab
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uho9FkwfIkAEsCoZ9_j4Bd/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uho9FkwfIkAEsCoZ9_j4Bd/ts
 #EXTINF:0,ON Sports News (Độ trễ thấp) 
 #EXTGRP:🧡| VTVcab
 http://128.199.214.24/OSN/mpegts
@@ -534,53 +534,53 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPP
 
 #EXTINF:0,K+ Live 1 (MyK+)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vw-i1bSHz9dkN-5L5FQ9Vf/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vw-i1bSHz9dkN-5L5FQ9Vf/ts
 #EXTINF:0,K+ Live 2 (MyK+)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3u81fc88sUk_Rj6nQL5XrnG/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3u81fc88sUk_Rj6nQL5XrnG/ts
 #EXTINF:0,K+ Live 3 (MyK+)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tduZwiei-zZDzVNOA0nWRB/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tduZwiei-zZDzVNOA0nWRB/ts
 #EXTINF:0,K+ Sport 1 HD (sv1)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s8Zm4QQc6bcBx2336I5rks/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3s8Zm4QQc6bcBx2336I5rks/ts
 #EXTINF:0,K+ Sport 1 HD (sv2)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vxNXhcNtTciDISstk484jD/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vxNXhcNtTciDISstk484jD/ts
 #EXTINF:0,K+ Sport 1 HD (sv3)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sRho_pn5x1G3-Ny6WAVpjp/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sRho_pn5x1G3-Ny6WAVpjp/ts
 #EXTINF:0,K+ Sport 2 HD (sv1)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vUJIuwVXXLfzpy6BKECMDA/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vUJIuwVXXLfzpy6BKECMDA/ts
 #EXTINF:0,K+ Sport 2 HD (sv2)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uf7M8WkjR68uhGC_SynKCk/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uf7M8WkjR68uhGC_SynKCk/ts
 #EXTINF:0,K+ Sport 2 HD (sv3)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tYMrSEXvn3jK0YF_pANffI/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3tYMrSEXvn3jK0YF_pANffI/ts
 #EXTINF:0,K+ Cine HD (sv1)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3v4mbj5YthRNc-X95OiUTM4/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3v4mbj5YthRNc-X95OiUTM4/ts
 #EXTINF:0,K+ Cine HD (sv2)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ulOaEBo46W6kfSpD0vBOqI/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ulOaEBo46W6kfSpD0vBOqI/ts
 #EXTINF:0,K+ Cine HD (sv3)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vX_jmhEZMB1deSNJ1YFG4T/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vX_jmhEZMB1deSNJ1YFG4T/ts
 #EXTINF:0,K+ Life HD (sv1)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sdSo_CDJzKPyLBLNZKfMlm/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sdSo_CDJzKPyLBLNZKfMlm/ts
 #EXTINF:0,K+ Life HD (sv2)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uR4AV8pMMHVX_47auYN1wo/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uR4AV8pMMHVX_47auYN1wo/ts
 #EXTINF:0,K+ Life HD (sv3)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uZ0ohXjTyZ4z9eHP7tsJC8/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uZ0ohXjTyZ4z9eHP7tsJC8/ts
 #EXTINF:0,K+ Kids HD (sv1)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uFKPDVVARMjF5oOTVUaWxi/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uFKPDVVARMjF5oOTVUaWxi/ts
 #EXTINF:0,K+ Kids HD (sv2)
 #EXTGRP:🍭| K+
-http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDqT9MdFh7yjDp16/m3u8
+http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDqT9MdFh7yjDp16/ts
 
