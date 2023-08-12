@@ -22,7 +22,7 @@ http://vmttv.anttv.xyz/mytv.php?id=449
 
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/eurosport_4k_wide.png", EURO SPORT 4K
-http://safe.avivainsur.com:8080/live/Ciprian-Petrea1/EV7P2jur/10510.m3u8
+http://sverigeplay.tv:2095/play/live.php?mac=00:1A:79:ae:c6:b8&stream=348094&extension=ts&play_token=sFD5pWlz1e
 
 
 #EXTINF:-1 group-title="🔴| Livestream | Esport" tvg-logo="https://i.ytimg.com/vi/nRn9HPGpJl8/hqdefault.jpg", 
