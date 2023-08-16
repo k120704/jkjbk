@@ -2307,8 +2307,12 @@ https://cdn.ntv.ru/th_style/index.m3u8
 
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал
 https://htf9.ontv.red/hlsk/5chan/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 SD 
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 SD Барнаул
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/barnaul/russia1-sd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 SD Бурятия
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ulanude/russia1-sd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 SD Бурятия
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://photos.live-tv-channels.org/tv-logo/rossiya-1-2512-w360.webp",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961?e=1689748200&s=509
 
@@ -2318,6 +2322,8 @@ https://player.smotrim.ru/iframe/stream/live_id/63251?e=1689735600&s=596
 https://player.smotrim.ru/iframe/stream/live_id/19201?e=1689739200&s=506
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
 https://player.smotrim.ru/iframe/stream/live_id/21?e=1689748500&s=330
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24 Калуга
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaluga/russia24-sd/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/358/507/4.png",Восток 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://cdn-st2.rtr-vesti.ru/vh/pictures/xw/358/507/5.png",Сибирь 24
@@ -3108,10 +3114,16 @@ https://zvezdafm.hostingradio.ru/zvezdafm96.aacp
 https://zvezdafm.hostingradio.ru/zvezdafm96.aacp
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-vesti-fml.svg", РАДИО ВЕСТИ FM
 https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://gtrk-kaluga.ru/public/user_upload/files/vestiFM-kaluga-logo.png", РАДИО ВЕСТИ Калуга FM
+https://icecast-vgtrk.cdnvideo.ru/vestifm_kaluga
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-mayak.svg", РАДИО МАЯК FM 
 https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://gtrk-kaluga.ru/public/user_upload/files/mayak-kaluga-logo.png", РАДИО Маяк-Калуга FM 
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_kaluga
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-russia-radio.svg", РАДИО РОССИИ FM
 shttps://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://gtrk-kaluga.ru/public/user_upload/files/radiorossii-kaluga-logo.png", Радио России-Калуга FM
+https://icecast-vgtrk.cdnvideo.ru/russiafm_kaluga
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-russia-radio.svg", Радио России - Санкт-Петербург УКВ 66,3 МГц
 https://www.rtr.spb.ru:8443/live1
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-russia-radio.svg",  Радио России - Санкт-Петербург FM 99,0
@@ -3126,6 +3138,8 @@ https://cast-rossiya.gtrk-vyatka.ru/
 https://cast-mayak.gtrk-vyatka.ru/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://www.gtrk-vyatka.ru/uploads/posts/2022-05/medium/1653403041_vesti_fm-1.jpg",Радио Вести FM в Кирове 105.3 FM
 https://cast-vestifm.gtrk-vyatka.ru/
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://res.9appsinstall.com/group2/M00/80/8E/RQ0DAFlTM-qASc_3AAB02jm2RqQ764.png",ГТРК «Ивтелерадио»
+https://radio.ivteleradio.ru/live
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://www.tvr.by/bitrix/templates/tvr-ru1/images/radio_3.png", 1 канал (Belarus)
 https://stream2.datacenter.by/1kanal
