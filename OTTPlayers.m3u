@@ -157,6 +157,30 @@ http://b4tv.live/b4tv/b4tv/4.m3u8
 https://mgkdc.com/hls/stream.m3u8
 
 
+#EXTINF:0,Al Nassr - Al Taawoun (Vòng 2 - Giải VĐQG Ả Rập Xê Út 2023/24)
+#EXTGRP:🏆| Sự kiện
+https://tiemnhazunn.click/vieon/vieonsukien.php?id=al-nassr-al-taawoun-vong-2-giai-vdqg-a-rap-xe-ut-2023-24-
+#EXTINF:0,Al Hilal - Al Fayha (Vòng 2 - Giải VĐQG Ả Rập Xê Út 2023/24)
+#EXTGRP:🏆| Sự kiện
+https://tiemnhazunn.click/vieon/vieonsukien.php?id=al-hilal-al-fayha-vong-2-giai-vdqg-a-rap-xe-ut-2023-24-
+#EXTINF:0,Al Ittihad - Al Tai (Vòng 2 - Giải VĐQG Ả Rập Xê Út 2023/24)
+#EXTGRP:🏆| Sự kiện
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tiemnhazunn.click/vieon/vieonsukien.php?id=al-ittihad-al-tai-vong-2-giai-vdqg-a-rap-xe-ut-2023-24-
+#EXTINF:0,AFC CHAMPIONS LEAGUE 2023
+#EXTGRP:🏆| Sự kiện
+http://103.172.78.65:8081/afcchampionleague
+#EXTINF:0,NATION CUP 1
+#EXTGRP:🏆| Sự kiện
+http://103.172.78.65:8081/nationcup1
+#EXTINF:0,NATION CUP 2
+#EXTGRP:🏆| Sự kiện
+http://103.172.78.65:8081/nationcup2
+#EXTINF:0,Manchester City vs Sevilla
+#EXTGRP:🏆| Sự kiện
+http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB2XSezLOrng8BuSAyuriAy2uNcP1Caca18a9BD7dpmb6/ts
+
+
 
 
 #EXTINF:0,V-LEAGUE 1
@@ -353,9 +377,12 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab2-on-phim-viet/playlist.m3u8
 #EXTINF:0,ON Sports HD 
 #EXTGRP:🧡| VTVcab
 https://code.vthanhtivi.pw/getlink/vieon2/vtvcab3-on-sports/playlist.m3u8
-#EXTINF:0,ON Sports HD | 50fps
+#EXTINF:0,ON Sports HD | 50fps (sv1)
 #EXTGRP:🧡| VTVcab
 http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3ucCdo50RAl_KeaGS5ct_3f/ts
+#EXTINF:0,ON Sports HD | 50fps (sv2)
+#EXTGRP:🧡| VTVcab
+http://b4tv.live:80/play/PlJVLeh3OFlevh__G-rmB3dEKBfhsWqkkkaqT4HqBoW1q7qC0R7LIC-Y_Ark90Mp/ts
 #EXTINF:0,ON Movies
 #EXTGRP:🧡| VTVcab
 https://code.vthanhtivi.pw/getlink/mytv/435/hd.m3u8
@@ -416,12 +443,7 @@ https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:0,ON Sports Action
 #EXTGRP:🧡| VTVcab
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
-#EXTINF:0,Bóng đá Việt
-#EXTGRP:🧡| VTVcab
-https://liveh12.vtvcab.vn/hls/ONVFFTV/index.m3u8
-#EXTINF:0,Thể thao Việt
-#EXTGRP:🧡| VTVcab
-https://liveh12.vtvcab.vn/hls/VOLLEYBALL/index.m3u8
+
 
 #EXTINF:0,VTC1 HD
 #EXTGRP:💙| VTC
@@ -580,5 +602,3 @@ http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uFKPDVVARMjF5
 #EXTINF:0,K+ Kids HD (sv2)
 #EXTGRP:🍭| K+
 http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3vaygXPfDqT9MdFh7yjDp16/ts
-
-
