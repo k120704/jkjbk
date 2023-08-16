@@ -8329,10 +8329,16 @@ https://zvezdafm.hostingradio.ru/zvezdafm96.aacp
 https://zvezdafm.hostingradio.ru/zvezdafm96.aacp
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-vesti-fml.svg", РАДИО ВЕСТИ FM
 https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://gtrk-kaluga.ru/public/user_upload/files/vestiFM-kaluga-logo.png", РАДИО ВЕСТИ Калуга FM
+https://icecast-vgtrk.cdnvideo.ru/vestifm_kaluga
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-mayak.svg", РАДИО МАЯК FM 
 https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://gtrk-kaluga.ru/public/user_upload/files/mayak-kaluga-logo.png", РАДИО Маяк-Калуга FM 
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_kaluga
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-russia-radio.svg", РАДИО РОССИИ FM
 shttps://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://gtrk-kaluga.ru/public/user_upload/files/radiorossii-kaluga-logo.png", Радио России-Калуга FM
+https://icecast-vgtrk.cdnvideo.ru/russiafm_kaluga
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-russia-radio.svg", Радио России - Санкт-Петербург УКВ 66,3 МГц
 https://www.rtr.spb.ru:8443/live1
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://vgtrk.ru/i/logo-russia-radio.svg",  Радио России - Санкт-Петербург FM 99,0
