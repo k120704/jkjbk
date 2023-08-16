@@ -1029,32 +1029,36 @@ http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_klive2/default/i.mpd
 http://vip-livecdn.khanggtivi.duckdns.org/bpk-tv/prod_klive3/default/i.mpd
 
 #EXTINF:-1 tvg-id="sktt1" group-title="🍭| K+ MPD " tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_ProgramThumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 1 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cRGXB4ok02n1drY8L0ru7w","kid":"VTscnkBjS4Opiqre77aQ2Q"},{"kty":"oct","k":"qL0THpRuhcBLrghs+BNACg","kid":"nX8cnkBjS4Opiqre77aQ2Q"},{"kty":"oct","k":"u0rbvB6QwF+dZCyD+PCUQQ","kid":"qoNgz0BjS4Opiqre77aQ2Q"},{"kty":"oct","k":"2/nG1ZMKw5SQtgTr7hhlAA","kid":"lpBg549jS4Opiqre77aQ2Q"}], "type":"temporary"} 
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl1/default/index.mpd
+https://akaviettel.kplus.vn/bpk-tv/prod_ucl1/default/index.mpd
 
 
 
 #EXTINF:-1 tvg-id="sktt2" group-title="🍭| K+ MPD " tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_ProgramThumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 2 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M8oOpIDpKplABv9lDd0JnQ","kid":"AM/tP0PtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"MYlLEzqBIKivYfKANs4TTg","kid":"SBPtP0PtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"RT8Qj+V1n5GK7P0P6J9mGQ","kid":"VRcxcEPtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"HF1m5mMd0c0gg7O7pXteZg","kid":"QSQxiJLtRTKcIdMn8x/zQQ"}], "type":"temporary"} 
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl2/default/index.mpd 
+https://akaviettel.kplus.vn/bpk-tv/prod_ucl2/default/index.mpd 
 
 
 #EXTINF:-1 tvg-id="sktt3" group-title="🍭| K+ MPD " tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_ProgramThumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 3 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"98tTNDhiLyVMABQPl0VeBw","kid":"NU5UMdbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"CfU12UgTfEHlx9S73Qer8Q","kid":"fZJUMdbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"W4B3aNAAgttkVJu+tC6y6Q","kid":"ipaYYtbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"fWIxdhmBSBhVnFYSO0F5cA","kid":"dqOYeiXAQQGT83ZHoJ4swQ"}], "type":"temporary"} 
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl3/default/index.mpd 
+https://akaviettel.kplus.vn/bpk-tv/prod_ucl3/default/index.mpd 
 
 
 #EXTINF:-1 tvg-id="sktt4" group-title="🍭| K+ MPD " tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_ProgramThumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 4 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sw2LncHCrGirokQCRfPezQ","kid":"A3yTt8mOT1mayhVwYODLXg"},{"kty":"oct","k":"Jkz6MF+kZKo2CEfwyqRfYQ","kid":"S8CTt8mOT1mayhVwYODLXg"},{"kty":"oct","k":"cp7qxl/cert37LpoKVUL0Q","kid":"WMTX6MmOT1mayhVwYODLXg"},{"kty":"oct","k":"ubzwGmIrgMII7dS5/pVSYQ","kid":"RNHXABiOT1mayhVwYODLXg"}], "type":"temporary"} 
-https://sglivevega.kplus.vn/bpk-tv/prod_ucl4/default/index.mpd
+https://akaviettel.kplus.vn/bpk-tv/prod_ucl4/default/index.mpd
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+ MPD " group-logo="https://logo.anttv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/kplus/kplus_sport1hd/dvr-${start}-${end}.mpd", K+ Sport 1 HD (MyK+) (Viettel)
