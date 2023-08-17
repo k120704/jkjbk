@@ -135,17 +135,18 @@ https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-H
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv1) (50fps)
 http://stream.cvmtv.site/qhtv?token=live
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv2)
-http://103.56.160.133:8081/quochoi
+http://103.172.78.65:8081/quochoi
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv3)
-http://live.anttv.xyz/antmedia/quochoi
+http://128.199.214.24/QHTV/mpegts
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv4)
+http://live.anttv.xyz/antmedia/quochoi
+#EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv5)
 http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3sMr_3YzB9i1xjZyLme9JRU/m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD (Viettel TV)
 http://live-ali2.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD (MyTV)
 http://vmttv.anttv.xyz/mytv.php?id=223
-#EXTINF:-1 tvg-id="htv1" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/htv1/dvr-${start}-${offset}.m3u8", HTV1
-https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
+
 
 
 
@@ -154,10 +155,8 @@ https://code.vthanhtivi.pw/getlink/htv/2631/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News (Độ trễ thấp) (50fps)
 http://b4tv.live:80/play/jsc1HM1EHULX01S-AReChTFTiRjeRlXSblMAFv4ly3uho9FkwfIkAEsCoZ9_j4Bd/m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News (Độ trễ thấp) (sv1)
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News (Độ trễ thấp) 
 http://128.199.214.24/OSN/mpegts
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News (Độ trễ thấp) (sv2) (Dự phòng)
-http://103.9.211.134:8080/OSN/mpegts
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🏆| FIFA WOMEN WORLD CUP 2023" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News | 50fps (DRM)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -668,7 +667,7 @@ https://code.vthanhtivi.pw/getlink/vieon2/vtvcab15/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp)(sv1)
 http://128.199.214.24/ONF/mpegts
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp)(sv2)
-http://103.56.160.133:8081/onfootball
+http://103.172.78.65:8081/onfootball
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD (Độ trễ thấp)(sv3)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.anttv.xyz/antmedia/onfootball
@@ -1318,7 +1317,7 @@ https://code.vthanhtivi.pw/getlink/vieon/nhan-dan-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv1) (50fps)
 http://stream.cvmtv.site/qhtv?token=live
 #EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv2)
-http://103.56.160.133:8081/quochoi
+http://103.172.78.65:8081/quochoi
 #EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv3)
 http://live.anttv.xyz/antmedia/quochoi
 #EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV (Độ trễ thấp)(sv4)
@@ -1350,9 +1349,9 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u
 
 #-*--THỂ THAO-*--#
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://cms.spotvasia.com/upload/boards/file_9314e71c-8863-4884-b332-8940ff84c5da.jpg", SPOTV
-http://103.56.160.133:8081/SPOTV
+http://103.172.78.65:8081/SPOTV
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/spotv2-656x388.jpg", SPOTV2
-http://103.56.160.133:8081/SPOTV2
+http://103.172.78.65:8081/SPOTV2
 #EXTINF: 0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/JrrmZdB/onegolf-HD-BEARTV.png", ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5L2KxmL/racing-com-BEARTV.jpg" group-title="KÊNH THỂ THAO",Racing.com
