@@ -1,0 +1,158 @@
+<ASX version = "3.0">
+   <Entry>
+      <Ref href = "http://media.kythuatvov.vn:7001/;stream/"/>
+      <Title>VOV1</Title>
+   </Entry>
+   
+      <Entry>
+      <Ref href = "http://113.164.229.226:7001/stream"/>
+      <Title>VOV1 (Mobiradio)</Title>
+   </Entry>
+   
+      <Entry>
+      <Ref href = "http://media.kythuatvov.vn:7003/;stream/"/>
+      <Title>VOV2</Title>
+   </Entry>
+   
+      <Entry>
+      <Ref href = "http://113.164.229.226:7003/stream"/>
+      <Title>VOV2(Mobiradio)</Title>
+   </Entry>
+   
+         <Entry>
+      <Ref href = "http://media.kythuatvov.vn:7005/;stream/"/>
+      <Title>VOV3 </Title>
+   </Entry>
+   
+         <Entry>
+      <Ref href = "http://113.164.229.226:7005/stream"/>
+      <Title>VOV3 (Mobiradio)</Title>
+   </Entry>
+   
+            <Entry>
+      <Ref href = "https://stream.vovmedia.vn/vovgthn"/>
+      <Title>VOV Giao thông Hà Nội</Title>
+   </Entry>
+   
+            <Entry>
+      <Ref href = "http://113.164.229.226:7025/stream"/>
+      <Title>VOV Giao thông Hà Nội(Mobiradio)</Title>
+   </Entry>
+   
+            <Entry>
+      <Ref href = "https://stream.vovmedia.vn/vovgthcm"/>
+      <Title>VOV Giao thông Hồ Chí Minh</Title>
+   </Entry>
+   
+               <Entry>
+      <Ref href = "https://stream.vovmedia.vn/vovmekong"/>
+      <Title>VOV Giao thông Mekong</Title>
+   </Entry>
+   
+            <Entry>
+      <Ref href = "http://42.1.64.42/490"/>
+      <Title>An Giang</Title>
+   </Entry>
+   
+   
+            <Entry>
+      <Ref href = "http://125.212.237.207:8000/tinhnghean"/>
+      <Title>Nghệ An</Title>
+   </Entry>
+   
+               <Entry>
+      <Ref href = "http://sohoa.truyenthanhthongminh.vn/sohoabinhduong"/>
+      <Title>Bình Dương</Title>
+   </Entry>
+               <Entry>
+      <Ref href = "http://14.224.130.186:8000/binhdinh"/>
+      <Title>Bình Định</Title>
+   </Entry>
+   
+               <Entry>
+      <Ref href = "http://sohoa.truyenthanhthongminh.vn/sohoabinhphuoc"/>
+      <Title>Bình Phước</Title>
+   </Entry>
+   
+               <Entry>
+      <Ref href = "http://sohoa.truyenthanhthongminh.vn/camau"/>
+      <Title>Cà Mau</Title>
+   </Entry>
+   
+               <Entry>
+      <Ref href = "http://sohoa.truyenthanhthongminh.vn/tpcantho"/>
+      <Title>Cần Thơ</Title>
+   </Entry>
+   
+               <Entry>
+      <Ref href = "http://sohoa.truyenthanhthongminh.vn/fmdongthap"/>
+      <Title>Đồng Tháp</Title>
+   </Entry>
+   
+               <Entry>
+      <Ref href = "http://113.162.84.113:8081/"/>
+      <Title>Hà Giang</Title>
+   </Entry>
+   
+               <Entry>
+      <Ref href = "http://14.162.146.90:8000/HANOI90"/>
+      <Title>Hà Nội FM 90</Title>
+   </Entry>
+   
+                  <Entry>
+      <Ref href = "http://222.252.21.96:8000/HANOI96"/>
+      <Title>Hà Nội FM 96</Title>
+   </Entry>
+   
+                  <Entry>
+      <Ref href = "http://171.244.133.152:8000/hatinh"/>
+      <Title>Hà Tĩnh</Title>
+   </Entry>
+   
+                  <Entry>
+      <Ref href = "http://113.160.131.11:8000/"/>
+      <Title>Hải Dương</Title>
+   </Entry>
+                  <Entry>
+      <Ref href = "http://truyenthanhip.vov.link:8000/244D34314402"/>
+      <Title>Hoà Bình</Title>
+   </Entry>
+                  <Entry>
+      <Ref href = "http://123.16.189.138:1724/sohoanamdinh"/>
+      <Title>Nam Định</Title>
+   </Entry>
+   
+                  <Entry>
+      <Ref href = "http://27.71.226.192:3000/quang_binh2"/>
+      <Title>Quảng Bình</Title>
+   </Entry>
+                     <Entry>
+      <Ref href = "http://sohoa.truyenthanhthongminh.vn/tinhtravinh"/>
+      <Title>Trà Vinh</Title>
+   </Entry>
+                     <Entry>
+      <Ref href = "http://hyades.shoutca.st:8043/autodj2"/>
+      <Title>Chillsky - Lofi Hiphop</Title>
+   </Entry>
+                        <Entry>
+      <Ref href = "http://hyades.shoutca.st:8043/stream2_autodj"/>
+      <Title>Chillsky - Lofi Hiphop Lite</Title>
+   </Entry>
+                           <Entry>
+      <Ref href = "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac"/>
+      <Title>NIA Lo-Fi</Title>
+   </Entry>
+                           <Entry>
+      <Ref href = "http://stream.zeno.fm/3u1qndyk8rhvv"/>
+      <Title>Moe Lofi</Title>
+   </Entry>
+                           <Entry>
+      <Ref href = "http://online.radiorecord.com.ua:8103/lofi"/>
+      <Title>Rpod LOFI</Title>
+   </Entry>
+                           <Entry>
+      <Ref href = "https://stream.rcast.net/2628"/>
+      <Title>Planet Lofi</Title>
+   </Entry>
+   
+</ASX>
